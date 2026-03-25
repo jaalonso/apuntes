@@ -2,8 +2,6 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./estilo2.css" />
 #+OPTIONS: toc:nil num:nil org-html-preamble:nil org-html-postamble:nil
 
-* Enlaces a las listas de correo
-
 + [[https://utlists.utexas.edu/sympa/arc/acl2/2026-03/][acl2 - ACL2 mailing list]].
 + [[https://utlists.utexas.edu/sympa/arc/acl2-help/2026-03/][acl2-help - ACL2 help list]].
 + [[https://lists.cam.ac.uk/sympa/arc/cl-isabelle-users/2026-03/][cl-isabelle-users - Isabelle users list]].
