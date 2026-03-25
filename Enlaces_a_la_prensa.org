@@ -1,0 +1,59 @@
+#+TITLE: Enlaces a la prensa
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./estilo2.css" />
+#+OPTIONS: toc:nil num:nil org-html-preamble:nil org-html-postamble:nil
+
+* Enlaces a la prensa
+
+*** Diarios
+- [[http://www.infolibre.es/][infoLibre]].
+- [[http://www.publico.es/][Público]].
+- [[http://www.eldiario.es/][El diario]].
+- [[http://www.lavanguardia.com/][La vanguardia]].
+- [[http://elpais.com/][El país]].
+- [[http://www.elviejotopo.com/][El Viejo Topo]].
+- [[https://www.democrata.es/][Demócrata]].
+- [[http://t.co/fCTN2mbIK3][El plural]].
+- [[https://www.epe.es/es/][El periódico de España]].
+- [[https://www.elsaltodiario.com/][El Salto]]
+- [[http://www.nuevatribuna.es/][Nueva tribuna]].
+- [[https://theconversation.com][The conversation]].
+- [[https://diariored.canalred.tv/][Diario Red]]
+- [[http://sevilla.abc.es/][ABC]].
+- [[http://www.diariodesevilla.es/][Diario de Sevilla]].
+- [[http://elcorreoweb.es/][El correo de Andalucía]].
+- [[http://www.huffingtonpost.es/][El Huffigton post]].
+- [[http://www.elperiodico.com/es/][El periódico]].
+- [[http://www.elespanol.com/][El español]].
+- [[http://www.elmundo.es/][El mundo]].
+- [[http://www.larazon.es/][La razón]].
+- [[http://www.elconfidencial.com/][El confidencial]].
+- [[http://www.libertaddigital.com/][Libertad digital]].
+- [[http://www.vozpopuli.com/][VozPópuli]].
+
+*** Internacional
+- [[https://www.jornada.com.mx/categoria/mundo][La Jornada]].
+- [[https://legrandcontinent.eu/es/][Le grand continent]].
+- [[https://www.lemonde.fr/idees/][Le Monde]].
+- [[https://www.liberation.fr/idees-et-debats/][Libération]].
+- [[https://www.pagina12.com.ar/secciones/el-mundo][Página 12]].
+- [[https://www.politico.eu/][Politico.eu]].
+- [[https://www.theguardian.com/uk/commentisfree][The Guardian]].
+- [[https://www.nytimes.com/section/opinion][The New York Times]].
+- [[https://www.newyorker.com/][The New Yorker]].
+
+*** Revistas
+- [[http://ctxt.es/][ctxt (Contexto y acción)]].
+- [[http://www.lamarea.com/][La marea]].
+- [[http://librepensamiento.org/][Libre pensamiento]].
+- [[https://www.mundoobrero.es/][Mundo obrero]].
+- [[http://www.sinpermiso.info/][Sin permiso]].
+- [[http://www.vientosur.info/][Viento Sur]].
+
+*** Técnicos
++ [[https://www.genbeta.com/][Genbeta]]
++ [[https://es.gizmodo.com/tecnologia][Gizmodo (Tecnología)]].
++ [[https://www.xataka.com/][Xataka]]
+
+*** Recopilaciones
+- [[https://news.google.com][Google News]].
+- [[https://es.kiosko.net/es/][Kiosko.net]].
