@@ -2,16 +2,16 @@
 #+HTML_HEAD: <link rel="stylesheet" type="text/css" href="./estilo2.css" />
 #+OPTIONS: toc:nil num:nil org-html-preamble:nil org-html-postamble:nil
 
-+ [[https://utlists.utexas.edu/sympa/arc/acl2/2026-04/][acl2 - ACL2 mailing list]].
-+ [[https://utlists.utexas.edu/sympa/arc/acl2-help/2026-04/][acl2-help - ACL2 help list]].
-+ [[https://lists.cam.ac.uk/sympa/arc/cl-isabelle-users/2026-04/][cl-isabelle-users - Isabelle users list]].
-+ [[https://lists.ugent.be/sympa/arc/fom/2026-04/][fom - Foundations of mathematics.]]
++ [[https://utlists.utexas.edu/sympa/arc/acl2][acl2 - ACL2 mailing list]].
++ [[https://utlists.utexas.edu/sympa/arc/acl2-help][acl2-help - ACL2 help list]].
++ [[https://lists.cam.ac.uk/sympa/arc/cl-isabelle-users][cl-isabelle-users - Isabelle users list]].
++ [[https://lists.ugent.be/sympa/arc/fom][fom - Foundations of mathematics.]]
 + [[https://groups.google.com/g/glc-us][GLC - Grupo de lógica computacional]].
 + [[https://mailman.haskell.org/archives/list/haskell-cafe@haskell.org/][Haskell-Cafe - The Haskell cafe]].
 + [[https://sourceforge.net/p/hol/mailman/hol-info/][hol-info - HOL theorem-proving system]].
 + [[https://lists.uni-hamburg.de/mailman/private/math.logic/2026/date.html][Math.Logic - Logic mailing list]].
 + [[https://kr.org/cgi-bin/mailman/private/planetkr/2026-March/date.html][PlanetKR - Knowledge representation and reasoning]].
 + [[https://sourceforge.net/p/potassco/mailman/potassco-users/][potassco-users - Potassco]].
-+ [[https://list.math.cas.cz/pipermail/proof-complexity/2026-March/date.html][Proof-Complexity - Proof complexity announcements]].
++ [[https://list.math.cas.cz/pipermail/proof-complexity][Proof-Complexity - Proof complexity announcements]].
 + [[https://lists.seas.upenn.edu/pipermail/types-announce/2026/date.html][Types-announce - Announcements of interest to the Types community]].
 + [[https://www.camilleroux.com/tag/veille/][Veille]].
