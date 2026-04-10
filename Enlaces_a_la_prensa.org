@@ -31,12 +31,12 @@
 *** Internacional
 - [[https://www.jornada.com.mx/categoria/mundo][La Jornada]].
 - [[https://legrandcontinent.eu/es/][Le grand continent]].
-- [[https://www.lemonde.fr/idees/][Le Monde]].
+- [[https://www.lemonde.fr][Le Monde]].
 - [[https://www.liberation.fr/idees-et-debats/][Libération]].
 - [[https://www.pagina12.com.ar/secciones/el-mundo][Página 12]].
 - [[https://www.politico.eu/][Politico.eu]].
-- [[https://www.theguardian.com/uk/commentisfree][The Guardian]].
-- [[https://www.nytimes.com/section/opinion][The New York Times]].
+- [[https://www.theguardian.com/uk][The Guardian]].
+- [[https://www.nytimes.com][The New York Times]].
 - [[https://www.newyorker.com/][The New Yorker]].
 
 *** Revistas
@@ -48,9 +48,18 @@
 - [[http://www.vientosur.info/][Viento Sur]].
 
 *** Técnicos
-+ [[https://www.genbeta.com/][Genbeta]]
-+ [[https://es.gizmodo.com/tecnologia][Gizmodo (Tecnología)]].
-+ [[https://www.xataka.com/][Xataka]]
+- [[https://gizmodo.com/tech/artificial-intelligence][Gizmodo (IA)]].
+- [[https://www.xataka.com/tag/inteligencia-artificial][Xataka (IA)]].
+- [[https://www.elconfidencial.com/tags/otros/inteligencia-artificial-13783/][El confidencial (IA)]].
+- [[https://www.eldiario.es/temas/inteligencia-artificial/][El diario (IA)]].
+- [[https://elpais.com/noticias/inteligencia-artificial/][El País (IA)]].
+- [[https://www.epe.es/es/temas/inteligencia-artificial-ia-1755060][El periódico de España (IA)]].
+- [[https://www.elsaltodiario.com/inteligencia-artificial][El Salto (IA)]].
+- [[https://www.lavanguardia.com/topics/inteligencia-artificial][La Vanguardia (IA)]].
+- [[https://www.lemonde.fr/intelligence-artificielle/][Le Monde (IA)]].
+- [[https://theconversation.com/topics/artificial-intelligence-ai-90][The conversation (IA)]].
+- [[https://www.theguardian.com/technology/artificialintelligenceai][The Guardian (IA)]].
+- [[https://www.nytimes.com/spotlight/artificial-intelligence][The New York Times (IA)]].
 
 *** Recopilaciones
 - [[https://news.google.com][Google News]].
