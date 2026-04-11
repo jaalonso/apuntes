@@ -57,6 +57,7 @@
 - [[https://www.elsaltodiario.com/inteligencia-artificial][El Salto (IA)]].
 - [[https://www.lavanguardia.com/topics/inteligencia-artificial][La Vanguardia (IA)]].
 - [[https://www.lemonde.fr/intelligence-artificielle/][Le Monde (IA)]].
+- [[https://news.mit.edu/topic/artificial-intelligence2][MIT News (IA)]].
 - [[https://theconversation.com/topics/artificial-intelligence-ai-90][The conversation (IA)]].
 - [[https://www.theguardian.com/technology/artificialintelligenceai][The Guardian (IA)]].
 - [[https://www.nytimes.com/spotlight/artificial-intelligence][The New York Times (IA)]].
