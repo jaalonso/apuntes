@@ -48,14 +48,16 @@
 - [[http://www.vientosur.info/][Viento Sur]].
 
 *** Técnicos
-- [[https://gizmodo.com/tech/artificial-intelligence][Gizmodo (IA)]].
 - [[https://www.xataka.com/tag/inteligencia-artificial][Xataka (IA)]].
 - [[https://www.elconfidencial.com/tags/otros/inteligencia-artificial-13783/][El confidencial (IA)]].
-- [[https://www.eldiario.es/temas/inteligencia-artificial/][El diario (IA)]].
 - [[https://elpais.com/noticias/inteligencia-artificial/][El País (IA)]].
 - [[https://www.epe.es/es/temas/inteligencia-artificial-ia-1755060][El periódico de España (IA)]].
 - [[https://www.elsaltodiario.com/inteligencia-artificial][El Salto (IA)]].
 - [[https://www.lavanguardia.com/topics/inteligencia-artificial][La Vanguardia (IA)]].
+
+*** Técnicos (con RSS)
+- [[https://gizmodo.com/tech/artificial-intelligence][Gizmodo (IA)]].
+- [[https://www.eldiario.es/temas/inteligencia-artificial/][El diario (IA)]].
 - [[https://www.lemonde.fr/intelligence-artificielle/][Le Monde (IA)]].
 - [[https://news.mit.edu/topic/artificial-intelligence2][MIT News (IA)]].
 - [[https://theconversation.com/topics/artificial-intelligence-ai-90][The conversation (IA)]].
