@@ -5,4 +5,4 @@
 + [[./Enlaces_listas_de_correo.org][Enlaces a las listas de correo]].
 
 * Lecturas
-+ [[./Lectures_on_AI_for_mathematics.md][Lectures on AI for mathematics]].
++ [[./Lectures_on_AI_for_mathematics/Lectures_on_AI_for_mathematics.md][Lectures on AI for mathematics]].
