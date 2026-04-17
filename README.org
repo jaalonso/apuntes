@@ -1,4 +1,8 @@
 #+TITLE: Almacén de apuntes
 
+* Enlaces
 + [[./Enlaces_a_la_prensa.org][Enlaces a la prensa]].
 + [[./Enlaces_listas_de_correo.org][Enlaces a las listas de correo]].
+
+* Lecturas
++ [[./Lectures_on_AI_for_mathematics.md][Lectures on AI for mathematics]].
