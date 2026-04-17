@@ -6,3 +6,4 @@
 
 * Lecturas
 + [[./Lectures_on_AI_for_mathematics/Lectures_on_AI_for_mathematics.md][Lectures on AI for mathematics]].
++ [[./The_agentification_of_scientific_research.md][The agentification of scientific research]].
