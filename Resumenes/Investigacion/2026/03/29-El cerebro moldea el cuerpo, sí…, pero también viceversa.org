@@ -1,0 +1,16 @@
+#+TITLE: El cerebro moldea el cuerpo, sí…, pero también viceversa
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/LNqem][«El cerebro moldea el cuerpo, sí..., pero también viceversa»]] examina la compleja interacción entre el cuerpo y las emociones, sosteniendo que la influencia es bidireccional: el cerebro moldea el cuerpo, pero también este último afecta al estado mental. Parte de la premisa de que el cuerpo refleja nuestro estado anímico y que el cerebro genera una representación corporal para dar forma a las emociones.
+
+El núcleo del texto presenta estudios científicos que avalan esta conexión bidireccional. Se subraya cómo la postura corporal impacta en la memoria emocional y la capacidad de atención, evidenciando que el cuerpo no es un mero receptor de emociones, sino un actor activo en su generación.
+
+El artículo cierra destacando la relevancia de la propiocepción y su uso en terapias complementarias para la salud mental. Se insiste en que el cuerpo es un aliado clave en la gestión emocional y debe ser considerado un elemento esencial de nuestro bienestar, facilitando el tránsito entre distintos estados de ánimo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

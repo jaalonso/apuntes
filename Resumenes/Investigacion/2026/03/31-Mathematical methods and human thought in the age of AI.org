@@ -1,0 +1,16 @@
+#+TITLE: Reseña de «Mathematical methods and human thought in the age of AI»
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/abs/2603.26524][«Mathematical methods and human thought in the age of AI»]] examina el impacto de la inteligencia artificial en las matemáticas y en la sociedad, argumentando que su despliegue masivo ha precedido a cualquier reflexión filosófica o regulatoria seria. Los autores, una historiadora del arte y un matemático, encuentran terreno común en las preguntas éticas que plantea el uso cotidiano de estas herramientas.
+
+Las matemáticas sirven como campo de pruebas privilegiado: su capacidad de verificación formal permite estudiar con rigor los límites de la IA, que puede producir demostraciones válidas pero carentes de intuición o narrativa comprensible. A esto se suman riesgos sociales como la brecha digital, el colapso de modelos por datos contaminados y la ausencia de estándares sobre autoría.
+
+Termina proponiendo una transición desde un uso moderado hacia una integración "copernicana". En este escenario, la inteligencia humana deja de ser el centro exclusivo del universo cognitivo. La colaboración responsable permitirá que estas herramientas mejoren la calidad de vida sin degradar los logros intelectuales de la humanidad.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: The AI revolution in math has arrived
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/][«The AI revolution in math has arrived»]] describe cómo la IA alcanzó un punto de inflexión en el verano de 2025, cuando varios modelos resolvieron casi todos los problemas de la Olimpiada Internacional de Matemáticas, lo que llevó a matemáticos escépticos a explorar su utilidad real en la investigación.
+
+A partir de ese momento, equipos de universidades y empresas tecnológicas emplearon IA para lograr avances concretos: probar una conjetura abierta durante 42 años, descubrir hipercubos ocultos en estructuras algebraicas y desarrollar demostraciones en geometría algebraica que habrían llevado meses de trabajo individual.
+
+Esta colaboración entre humanos y máquinas permite formular conjeturas, diseñar estrategias de prueba y verificar demostraciones en apenas unos días, convirtiendo la IA en un acelerador que genera conocimiento matemático original y redefine los límites del descubrimiento científico.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Los tentáculos de Palantir en Europa
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://ctxt.es/es/20260301/Politica/52682/palantir-europa-investigacion-elena-de-sus-contratos-control-militar-alex-karp.htm][«Los tentáculos de Palantir en Europa»]] se comenta que Palantir, fundada en 2003, es un actor clave en el análisis de datos para gobiernos y agencias de inteligencia. Con fuertes vínculos con EE.UU., su crecimiento se debe a contratos millonarios, especialmente con el Pentágono.
+
+Su expansión en Europa se debe a la oferta de herramientas para gestionar crisis como la pandemia de COVID-19 y conflictos como la guerra en Ucrania. No obstante, genera polémica por preocupaciones sobre privacidad, vigilancia masiva y dependencia tecnológica.
+
+Varios países europeos han integrado su software, mientras otros lo rechazan por implicaciones éticas y políticas. El debate gira en torno a equilibrar seguridad y eficiencia con la protección de derechos fundamentales y soberanía nacional.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

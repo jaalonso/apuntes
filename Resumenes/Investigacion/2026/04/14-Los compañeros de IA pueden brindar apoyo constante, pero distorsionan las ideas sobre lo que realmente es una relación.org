@@ -1,0 +1,16 @@
+#+TITLE: Los compañeros de IA pueden brindar apoyo constante, pero distorsionan las ideas sobre lo que realmente es una relación
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://theconversation.com/ai-companions-can-give-constant-support-but-distort-ideas-about-what-a-relationship-really-is-278284][«Los compañeros de IA pueden brindar apoyo constante, pero distorsionan las ideas sobre lo que realmente es una relación»]] analiza el auge de las relaciones con compañeros de IA, ejemplificado por plataformas como [[https://replika.com/][Replika]] y [[https://character.ai/][Character.AI]]. Se plantea la cuestión de si estas relaciones pueden ofrecer un apoyo genuino o si, por el contrario, distorsionan la comprensión de la amistad.
+
+El texto argumenta que las relaciones humanas se definen por la vulnerabilidad, la finitud y el coste de oportunidad. El tiempo y la atención dedicados a una persona implican un sacrificio que otorga valor a la conexión. Las IA, al no tener estas limitaciones, ofrecen una disponibilidad constante que desvaloriza el esfuerzo.
+
+Los autores advierten que la normalización de la disponibilidad incesante en las relaciones con IA podría cambiar las expectativas en las relaciones humanas. Esto podría llevar a priorizar la accesibilidad sobre otros aspectos importantes del amor, como el compromiso, la reciprocidad y la superación de dificultades juntos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

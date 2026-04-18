@@ -1,0 +1,16 @@
+#+TITLE: La nueva herramienta de IA de Anthropic tiene implicaciones para todos nosotros, tanto si podemos usarla como si no
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/OH7RN][«La nueva herramienta de IA de Anthropic tiene implicaciones para todos nosotros, tanto si podemos usarla como si no»]] describe el lanzamiento de "Claude Mythos Preview" por parte de Anthropic, una IA con capacidades avanzadas para detectar vulnerabilidades en sistemas informáticos. Esta herramienta, considerada alarmante por expertos, podría facilitar la realización de ciberataques a gran escala.
+
+Ante la amenaza, Anthropic ha optado por compartir Mythos con empresas clave como Apple, Microsoft y Google, buscando fortalecer la seguridad de la infraestructura digital antes de una posible liberación pública. Esta estrategia busca mitigar los riesgos que plantea la democratización de las capacidades de ciberataque.
+
+Sin embargo, la falta de regulación internacional y la hostilidad política en Estados Unidos, donde la administración Trump dificulta la colaboración con Anthropic, complican la situación. El artículo advierte sobre la posibilidad de que otros actores menos responsables liberen modelos similares, poniendo en peligro la seguridad global.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Lean demostró que este programa era correcto, pero la IA encontró un error
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://kirancodes.me/posts/log-who-watches-the-watchers.html][«Lean demostró que este programa era correcto, pero la IA encontró un error»]] describe un experimento en el que se sometió a pruebas un programa zlib, llamado lean-zip, que había sido verificado formalmente utilizando el sistema Lean. El objetivo era evaluar la efectividad de la verificación formal en la detección de vulnerabilidades de seguridad.
+
+El experimento involucró el uso de un agente de IA (Claude) y técnicas de fuzzing para buscar errores en el código. Los resultados mostraron que el código de la aplicación verificado era notablemente robusto, sin presentar vulnerabilidades de memoria. Sin embargo, se encontraron dos fallos: un desbordamiento de búfer en el tiempo de ejecución de Lean 4 y un ataque de denegación de servicio en el analizador de archivos de lean-zip.
+
+Estos hallazgos resaltan las limitaciones de la verificación formal. Si bien puede garantizar la corrección del código verificado, no puede proteger contra errores en componentes no verificados, como el tiempo de ejecución del sistema, o en partes del código que no se consideraron críticas y, por tanto, no se verificaron. El artículo concluye que la verificación es una herramienta valiosa, pero debe complementarse con otras técnicas de seguridad y una base de confianza sólida.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,14 @@
+#+TITLE: Ax-Prover: A deep reasoning agentic framework for theorem proving in mathematics and quantum physics
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://arxiv.org/abs/2510.12787v2]["Ax-Prover: A deep reasoning agentic framework for theorem proving in mathematics and quantum physics"]] se presenta Ax-Prover, un sistema que combina modelos de lenguaje generales con el asistente de pruebas Lean. Este enfoque supera las limitaciones de los demostradores especializados, ofreciendo una solución más flexible y accesible para la verificación de teoremas.
+
+La evaluación en dominios como álgebra abstracta y física cuántica demuestra que Ax-Prover supera significativamente a los modelos especializados. Además, probó su utilidad práctica al colaborar con un matemático en la verificación de un teorema complejo, completando el proceso en solo dos días e identificando un error en la prueba original.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

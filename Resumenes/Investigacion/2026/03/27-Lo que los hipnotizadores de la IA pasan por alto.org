@@ -1,0 +1,16 @@
+#+TITLE: Lo que los hipnotizadores de la IA pasan por alto
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.persuasion.community/p/ai-cant-deal-with-the-real-world][«Lo que los hipnotizadores de la IA pasan por alto»]] señala que la IA, pese a sus progresos, no es la solución universal para los problemas globales. Destaca las dificultades para aplicar soluciones técnicas a retos con raíces políticas, culturales y sociales, como el suministro de agua potable en ciudades del sur de Asia.
+
+Fukuyama presenta un marco de resolución de problemas que subraya la importancia de la implementación, frecuentemente ignorada en los análisis de política pública. La IA puede ayudar en las primeras etapas de identificación de problemas y desarrollo de soluciones, pero su capacidad para influir en la implementación es limitada.
+
+El autor advierte contra la sobrevaloración de la inteligencia artificial y resalta la necesidad de considerar los factores sociales, políticos y físicos que afectan a la implementación de cualquier política. El crecimiento económico acelerado prometido por la IA es improbable debido a las limitaciones materiales del planeta.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

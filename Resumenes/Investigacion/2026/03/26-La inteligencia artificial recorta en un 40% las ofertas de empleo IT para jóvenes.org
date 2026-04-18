@@ -1,0 +1,16 @@
+#+TITLE: La inteligencia artificial recorta en un 40% las ofertas de empleo IT para jóvenes
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/ey8Hi][«La inteligencia artificial recorta en un 40% las ofertas de empleo IT para jóvenes»]] se comenta que el mercado laboral español muestra signos de cambio, con un desempleo general bajo pero con dificultades persistentes para los jóvenes. Las nuevas tecnologías, aunque prometedoras, presentan desafíos inesperados en el acceso al empleo para las generaciones más jóvenes.
+
+Un reciente estudio revela que la IA está impactando significativamente en las ofertas de empleo IT para perfiles junior, reduciéndolas en un 40%. Esta disminución sugiere que la automatización está asumiendo tareas antes realizadas por trabajadores con poca experiencia.
+
+A pesar de la estabilidad general del mercado, la competencia por las vacantes aumenta y la escasez de talento cualificado preocupa a las empresas. La pérdida de poder adquisitivo y la precariedad laboral complican aún más la situación, especialmente para los jóvenes.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: El 97% de las empresas prevé un incidente de seguridad importante relacionado con agentes de IA en el transcurso del año
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://securityboulevard.com/2026/04/97-of-enterprises-expect-a-major-ai-agent-security-incident-within-the-year/][«El 97% de las empresas prevé un incidente de seguridad importante relacionado con agentes de IA en el transcurso del año»]] analiza el creciente riesgo de seguridad que representan los agentes de IA en las empresas. La investigación revela que casi todas las organizaciones anticipan un incidente de seguridad o fraude impulsado por la IA en los próximos meses, a pesar de ello la inversión en seguridad para este riesgo es mínima.
+
+El estudio destaca una preocupante brecha entre el reconocimiento del peligro y la preparación efectiva. Las empresas han adoptado rápidamente la IA para mejorar la productividad, pero han descuidado la implementación de controles de identidad, seguridad y gobernanza necesarios para gestionar sistemas autónomos. Esto crea un "periodo de aceleración" donde la vulnerabilidad es máxima.
+
+El informe identifica tres áreas clave de vulnerabilidad: la dificultad para detectar ataques de IA avanzados, la complejidad de atribuir incidentes a agentes de IA y la falta de controles de gobernanza formales. Se recomienda integrar la seguridad en el desarrollo de la IA, tratar las identidades no humanas como prioritarias y fortalecer las capacidades de atribución para mejorar la resiliencia.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

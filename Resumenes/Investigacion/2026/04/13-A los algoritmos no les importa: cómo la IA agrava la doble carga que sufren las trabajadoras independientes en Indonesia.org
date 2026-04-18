@@ -1,0 +1,16 @@
+#+TITLE: A los algoritmos no les importa: cómo la IA agrava la doble carga que sufren las trabajadoras independientes en Indonesia
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://theconversation.com/algorithms-dont-care-how-ai-worsens-the-double-burden-for-indonesias-female-gig-workers-279978][«A los algoritmos no les importa: cómo la IA agrava la doble carga que sufren las trabajadoras independientes en Indonesia»]] examina cómo la inteligencia artificial está remodelando el mercado laboral en Indonesia, especialmente para las mujeres que participan en la economía "gig".  Estas trabajadoras, ya afectadas por la informalidad laboral, enfrentan nuevas presiones debido a los algoritmos que dictan sus ingresos y condiciones de trabajo.
+
+El problema central radica en que estos algoritmos no reconocen la "doble carga" que soportan las mujeres, responsables tanto del trabajo remunerado como del cuidado familiar.  Las plataformas digitales, aunque se presentan como innovadoras, replican patrones de explotación al extraer valor del trabajo y los datos sin ofrecer protecciones sociales.
+
+El artículo destaca la importancia de la solidaridad entre las trabajadoras, quienes han creado redes de apoyo mutuo para afrontar los desafíos y resistir un sistema que las penaliza por sus responsabilidades. Se subraya la necesidad de un desarrollo de la IA más justo y equitativo, que tenga en cuenta las experiencias de las mujeres en el Sur Global.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

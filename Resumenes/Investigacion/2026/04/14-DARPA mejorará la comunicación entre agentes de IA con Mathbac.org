@@ -1,0 +1,16 @@
+#+TITLE: DARPA mejorará la comunicación entre agentes de IA con Mathbac
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.lemondeinformatique.fr/actualites/lire-la-darpa-ameliore-la-communication-entre-agents-ia-avec-mathbac-99901.html][«DARPA mejorará la comunicación entre agentes de IA con Mathbac»]] describe el nuevo programa Mathbac de la agencia DARPA, enfocado en mejorar la comunicación entre agentes de Inteligencia Artificial. La iniciativa busca superar las limitaciones actuales de la IA, que, a pesar de sus avances, carece de una base matemática sólida para la colaboración y la generalización del conocimiento.
+
+El proyecto se desarrollará en dos fases. La primera se centrará en la creación de herramientas matemáticas para optimizar la comunicación entre IAs. La segunda fase analizará el contenido de estas comunicaciones, buscando que los agentes puedan deducir principios científicos generales a partir de datos complejos.
+
+Como prueba del programa, DARPA propone a los investigadores redescubrir la tabla periódica de las moléculas. Esto demostrará la capacidad de la IA para extraer patrones y leyes generales a partir de información específica. El objetivo final es lograr una IA más eficiente, coherente y capaz de generar intuiciones científicas transformadoras.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: La intuición de Trump le falló en Irán, y todos estamos pagando el precio de su diplomacia fallida
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.politico.eu/article/iran-war-donald-trump-failed-diplomacy-price-gulf-conflict-bombing/][«La intuición de Trump le falló en Irán, y todos estamos pagando el precio de su diplomacia fallida»]] analiza la crisis actual con Irán, destacando el enfoque intuitivo de Donald Trump en política exterior. Hasta ahora, su estilo había logrado resultados rápidos, pero en Irán, su "intuición" falló al subestimar la capacidad de respuesta del país.
+
+La escalada militar, con bombardeos a 10,000 objetivos, no produjo el cambio deseado en Teherán, sino que provocó ataques a países del Golfo y el cierre del Estrecho de Ormuz. Esto ha generado costos económicos y de seguridad a nivel global.
+
+El autor critica la falta de diplomacia profesional, reemplazada por negociadores sin experiencia como Jared Kushner y Steve Witkoff. Su enfoque en planes predefinidos, sin considerar el contexto, ha fracasado en Ucrania, Gaza y ahora con Irán, dejando a Trump en una situación difícil.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

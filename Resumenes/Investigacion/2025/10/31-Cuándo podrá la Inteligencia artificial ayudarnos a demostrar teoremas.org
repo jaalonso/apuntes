@@ -1,0 +1,16 @@
+#+TITLE: ¿Cuándo podrá la Inteligencia artificial ayudarnos a demostrar teoremas?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En la conferencia [[https://www.youtube.com/live/ff7YmElVTw8][«¿Cuándo podrá la Inteligencia artificial ayudarnos a demostrar teoremas?»]] se explica que la IA ya ayuda, pero con límites. Actualmente, es experta en reconocer patrones para encontrar contraejemplos o generar evidencia para conjeturas, pero depende de datos existentes.
+
+Su papel actual es de "murmuración": sugiere posibles teoremas o caminos de prueba que los matemáticos deben verificar. Es una herramienta poderosa para explorar, pero no sustituye la creatividad e intuición humana necesarias para los avances genuinos.
+
+El futuro próximo no es que la IA demuestre teoremas por sí sola, sino que actúe como un asistente. Ayudará en la formalización de pruebas y en la exploración de rutas, pero el matemático seguirá siendo esencial para la idea central y la verificación final.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

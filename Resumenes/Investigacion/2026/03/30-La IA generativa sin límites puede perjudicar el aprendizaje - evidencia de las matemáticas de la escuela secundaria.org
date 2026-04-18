@@ -1,0 +1,16 @@
+#+TITLE: La IA generativa sin límites puede perjudicar el aprendizaje - evidencia de las matemáticas de la escuela secundaria
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.pnas.org/doi/10.1073/pnas.2422633122][«La IA generativa sin límites puede perjudicar el aprendizaje - evidencia de las matemáticas de la escuela secundaria»]] presenta una investigación sobre el impacto de la IA generativa en el aprendizaje de estudiantes de secundaria. Se llevó a cabo un experimento en una escuela turca, comparando el rendimiento de alumnos que utilizaban tutores de IA con y sin salvaguardias. Los resultados iniciales muestran una mejora en el aprendizaje.
+
+Sin embargo, el estudio revela que el acceso sin restricciones a la IA (GPT Base) puede llevar a un deterioro del aprendizaje, con los estudiantes obteniendo peores resultados en exámenes posteriores. Esto sugiere que la IA puede convertirse en una "muleta" que impide la adquisición de habilidades.
+
+La investigación destaca que el diseño cuidadoso de las herramientas de IA, incorporando salvaguardias como la entrega de pistas en lugar de respuestas directas (GPT Tutor), puede mitigar estos efectos negativos y preservar el aprendizaje a largo plazo. El estudio subraya la necesidad de integrar la IA en la educación de manera responsable.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

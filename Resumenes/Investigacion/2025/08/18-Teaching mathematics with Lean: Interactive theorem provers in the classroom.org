@@ -1,0 +1,12 @@
+#+TITLE: Teaching mathematics with Lean: Interactive theorem provers in the classroom
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.ams.org/journals/notices/202507/rnoti-p740.pdf][«Teaching mathematics with Lean: Interactive theorem provers in the classroom»]], publicado en la última edición de las /Notices of the American Mathematical Society/, explora el potencial de Lean —un asistente de demostración interactivo— como recurso didáctico en el aula de matemáticas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

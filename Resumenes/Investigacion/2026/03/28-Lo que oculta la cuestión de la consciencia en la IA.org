@@ -1,0 +1,16 @@
+#+TITLE: Lo que oculta la cuestión de la consciencia en la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://www.noemamag.com/what-the-ai-consciousness-question-conceals/][«Lo que oculta la cuestión de la consciencia en la IA»]] se comenta que la neurociencia confirma que la conciencia es una propiedad biológica imposible de replicar en silicio. No obstante, esta certeza científica distrae de un problema práctico urgente. El valor real de la tecnología no reside en el algoritmo, sino en la configuración relacional entre el cerebro humano y la máquina.
+
+Diversos estudios en medicina y consultoría demuestran que la inteligencia artificial sin supervisión activa reduce la precisión diagnóstica y estratégica. Los sistemas que intentan sustituir el juicio humano fracasan sistemáticamente. Por el contrario, las herramientas diseñadas para ampliar el pensamiento logran resultados superiores y beneficios económicos sostenibles.
+
+Las instituciones actuales favorecen la automatización por ahorro de costes, ignorando la erosión del talento. La regulación europea exige supervisión humana, pero falta infraestructura técnica para garantizarla. El futuro dependerá de si usamos la tecnología para potenciar nuestra inteligencia o para delegar nuestra capacidad de decidir.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Los costes ocultos de la IA "útil"
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/mdmwx][«Los costes ocultos de la IA "útil"»]] explora la diferencia entre desarrollar IA para maximizar el rendimiento según criterios fijos y crear herramientas que realmente apoyen el juicio humano. Un experimento de ajedrez demuestra que la IA diseñada para colaborar con humanos es más efectiva que la IA puramente optimizada para ganar.
+
+El estudio subraya que la clave no es solo la interpretabilidad de la IA, sino la capacidad de los profesionales para actuar sobre su información y refinar sus propios valores. En campos como la medicina y el derecho, donde los objetivos son complejos y cambian con el tiempo, la IA debe adaptarse a estas dinámicas.
+
+El autor advierte sobre el riesgo de una "descalificación" profesional inducida por la IA, tanto a nivel individual como colectivo. Propone diseñar herramientas con mecanismos de retroalimentación continua y participación profesional, y destaca el papel crucial de la adquisición pública en la exigencia de estos estándares.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

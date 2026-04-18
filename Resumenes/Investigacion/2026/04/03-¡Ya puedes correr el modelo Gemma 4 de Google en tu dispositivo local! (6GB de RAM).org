@@ -1,0 +1,16 @@
+#+TITLE: ¡Ya puedes correr el modelo Gemma 4 de Google en tu dispositivo local! (6GB de RAM)
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En [[https://www.reddit.com/r/selfhosted/comments/1sarnf5/you_can_now_run_googles_gemma_4_model_on_your][«¡Ya puedes correr el modelo Gemma 4 de Google en tu dispositivo local! (6GB de RAM)»]] se anuncia el lanzamiento de Gemma 4, la nueva generación de modelos de inteligencia artificial de código abierto de Google, disponibles en cuatro tamaños con capacidades multimodales y de razonamiento, ejecutables en equipos domésticos desde 6 GB de RAM.
+
+El equipo de Unsloth ha cuantizado los modelos para reducir sus requisitos de hardware y ofrece una instalación simplificada mediante un único comando. Los modelos más ligeros funcionan sin GPU, mientras que los mayores alcanzan velocidades superiores a las de ChatGPT con tarjetas de gama alta.
+
+La herramienta Unsloth Studio, que permitirá correr y entrenar estos modelos con interfaz gráfica, está prevista para este mismo mes, acompañada de mejoras en precisión y velocidad de inferencia respecto a versiones anteriores.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: La IA no reemplaza personas, desplaza nóminas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.publico.es/opinion/columnas/ia-reemplaza-personas-desplaza-nominas.html][«La IA no reemplaza personas, desplaza nóminas»]] analiza el anuncio de Oracle de despedir a unos 30.000 empleados a pesar de registrar un crecimiento del 22% y beneficios récord. La razón no es una crisis empresarial, sino la necesidad de financiar una masiva expansión en centros de datos para satisfacer la demanda de infraestructura de IA.
+
+El autor sostiene que la IA no está sustituyendo directamente a trabajadores, sino que desplaza los presupuestos de personal hacia el gasto de capital. Oracle ha multiplicado su CapEx por más de seis en dos años y mantiene contratos millonarios con OpenAI, xAI y Meta, aunque con una dependencia preocupante de socios aún no rentables.
+
+El artículo concluye advirtiendo del peligro de adoptar la IA como herramienta de recorte sin valorar sus consecuencias en la cultura empresarial y el talento humano. Como ocurrió con el ERP de SAP, demasiadas organizaciones se suben al tren de la IA sin estar preparadas para ello.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

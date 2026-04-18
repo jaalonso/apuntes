@@ -1,0 +1,18 @@
+#+TITLE: ¿Pueden las máquinas hacer matemáticas?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En la conferencia [[https://youtu.be/nJqFRcNBznU?][«¿Pueden las máquinas hacer matemáticas?»]], Johan Commelin (director del proyecto Mathlib) analiza la vertiginosa evolución de la inteligencia artificial. De fallar en cálculos simples, la tecnología ha pasado a colaborar en investigaciones complejas y a ganar medallas en olimpiadas matemáticas gracias a herramientas de verificación formal.
+
+El uso de asistentes como Lean permite gestionar pruebas inabarcables para el cerebro humano, facilitando colaboraciones masivas y seguras. Sin embargo, el auge de empresas privadas que priorizan el marketing sobre la transparencia científica plantea tensiones sociológicas que amenazan los valores tradicionales de la comunidad académica abierta.
+
+Surgen dilemas sobre el papel del matemático en un entorno donde las máquinas generan infinitos teoremas. La capacidad de evaluar argumentos lógicos y encontrar significado entre el flujo computacional se vuelve crucial frente al riesgo de perder habilidades críticas fundamentales debido a la excesiva dependencia de estas herramientas.
+
+Commelin insta a liderar esta transición mediante infraestructuras abiertas y currículos que enfaticen la creatividad y el planteamiento de problemas. El futuro debe equilibrar el potencial de la automatización con la esencia humana del descubrimiento, recordando que las matemáticas son, ante todo, una conversación entre personas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Tener una IA en mi móvil que funciona sin conexión a Internet es más útil de lo que pensaba: así la puedes poner en marcha
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/robotica-e-ia/tener-ia-mi-movil-que-funciona-conexion-a-internet-util-que-pensaba-asi-puedes-poner-marcha-facil][«Tener una IA en mi móvil que funciona sin conexión a Internet es más útil de lo que pensaba: así la puedes poner en marcha»]] explica cómo instalar y usar PocketPal AI, una aplicación gratuita para Android e iOS que ejecuta modelos de lenguaje directamente en el teléfono móvil. Esto permite disponer de un asistente de inteligencia artificial sin necesidad de conexión a Internet y con privacidad total.
+
+El proceso de instalación es sencillo: se descarga la app, se elige y descarga un modelo de código abierto (solo este paso requiere conexión) y ya se puede chatear en local. Los requisitos son modestos: basta con 6 GB de RAM y un procesador de gama media de los últimos cinco años.
+
+El rendimiento es inferior al de los grandes modelos en la nube, pero suficiente para tareas cotidianas como traducir, resumir o redactar. La herramienta resulta especialmente útil en situaciones sin cobertura y para quienes priorizan la privacidad de sus datos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: La espiral de síntomas de ChatGPT
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/rqP6F][«La espiral de síntomas de ChatGPT»]] analiza cómo ChatGPT, aunque potencialmente útil, puede agravar la ansiedad por la salud.  El caso de George Mallon ilustra cómo la interacción con el chatbot, tras una falsa alarma médica, derivó en una espiral de preocupación y consultas innecesarias.
+
+El texto detalla la preocupación creciente entre terapeutas, quienes observan que ChatGPT aumenta la necesidad de confirmación y tranquilidad sobre la salud, un comportamiento que dificulta el tratamiento de la ansiedad. OpenAI reconoce el problema y afirma estar trabajando en soluciones, pero su efectividad es cuestionable.
+
+El autor subraya que las conversaciones prolongadas con ChatGPT pueden ser adictivas y perjudiciales para la salud mental. Las salvaguardas implementadas por la compañía parecen insuficientes para prevenir la escalada de la ansiedad y la dependencia del usuario.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

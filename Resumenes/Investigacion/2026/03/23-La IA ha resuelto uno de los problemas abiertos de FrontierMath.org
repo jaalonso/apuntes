@@ -1,0 +1,16 @@
+#+TITLE: La IA ha resuelto uno de los problemas abiertos de FrontierMath
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+Epoch AI ha publicado un [[https://epochai.substack.com/p/first-ai-solution-on-frontiermath][anuncio]] confirmando que GPT-5.4 Pro resolvió el primer problema abierto de FrontierMath. Se trata de un desafío de hipergrafos planteado en 2019 que ningún humano había logrado solucionar hasta ahora, marcando un hito histórico en el razonamiento matemático de la inteligencia artificial.
+
+El matemático Will Brian validó la solución, destacando su elegancia y potencial para generar nueva investigación. El hallazgo será publicado en una revista especializada, ofreciendo a los operadores de la IA la coautoría del artículo académico tras superar un reto que expertos estimaban en meses de trabajo.
+
+Pruebas posteriores demostraron que otros modelos avanzados como Gemini 3.1 Pro y Opus 4.6 también pueden resolverlo. Este éxito en FrontierMath demuestra que la IA actual ya posee capacidades para contribuir significativamente al avance de las matemáticas puras y resolver problemas complejos de nivel académico.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

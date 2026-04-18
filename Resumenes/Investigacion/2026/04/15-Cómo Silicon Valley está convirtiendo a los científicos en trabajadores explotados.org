@@ -1,0 +1,16 @@
+#+TITLE: Cómo Silicon Valley está convirtiendo a los científicos en trabajadores explotados
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.thenation.com/article/society/ai-silicon-valley-andreesen-thiel-stem/][«Cómo Silicon Valley está convirtiendo a los científicos en trabajadores explotados»]] analiza cómo Silicon Valley, históricamente dependiente de la investigación financiada con fondos públicos, está socavando el sistema que lo hizo posible. La administración Trump, influenciada por figuras como Peter Thiel y Marc Andreessen, implementó recortes drásticos en la financiación de la ciencia, afectando a universidades y laboratorios.
+
+Como consecuencia, miles de investigadores con doctorados se han visto obligados a abandonar el sector público. Este éxodo ha creado un nuevo mercado laboral en el que empresas de inteligencia artificial, como Mercor y ScaleAI, los contratan para tareas específicas a través de contratos de "gig".
+
+El artículo denuncia que este modelo, aunque presentado como una oportunidad flexible, en la práctica implica una explotación de los científicos, con tarifas bajas y condiciones laborales precarias. Se argumenta que este sistema no es un resultado del libre mercado, sino una consecuencia directa de las políticas de desfinanciación de la ciencia pública.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

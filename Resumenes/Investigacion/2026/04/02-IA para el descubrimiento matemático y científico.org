@@ -1,0 +1,16 @@
+#+TITLE: IA para el descubrimiento matemático y científico
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el vídeo [[https://youtu.be/AU8aok0TkqM][«IA para el descubrimiento matemático y científico»]] se explica cómo la IA ha evolucionado desde resolver problemas escolares hasta alcanzar niveles de medalla de oro en olimpiadas matemáticas. Los nuevos modelos de razonamiento ahora pueden resolver problemas de investigación inéditos de forma autónoma.
+
+Se destacan aplicaciones en física teórica para simplificar cálculos complejos y en biología para automatizar laboratorios. Gracias a la integración con la robótica, modelos como GPT-5 han realizado miles de experimentos autónomos, optimizando drásticamente los costes y la producción en la síntesis de proteínas.
+
+La IA actúa como un colaborador que otorga «superpoderes» a los científicos. Aunque faltan retos en verificación e invención, Weil asegura que el progreso es exponencial. Su ambiciosa visión es que, gracias a esta tecnología, alcanzaremos los descubrimientos previstos para 2050 antes de 2030.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

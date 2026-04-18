@@ -1,0 +1,16 @@
+#+TITLE: ¿Podría la IA reemplazar a los expertos humanos en arte a la hora de atribuir pinturas?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/4yecX][«¿Podría la IA reemplazar a los expertos humanos en arte a la hora de atribuir pinturas?»]] analiza la fragilidad de la atribución en el mercado del arte. El valor de una obra depende a menudo de opiniones subjetivas de expertos. Esta incertidumbre genera riesgos económicos millonarios y disputas constantes sobre la autoría de piezas famosas.
+
+La inteligencia artificial introduce el análisis de patrones estadísticos como herramienta objetiva. Mientras algunos críticos temen la pérdida de la intuición humana, otros defienden su capacidad para detectar regularidades invisibles. Casos como el de Vermeer demuestran su utilidad técnica.
+
+El futuro apunta a un modelo de autenticación basado en cuatro pilares: estudio visual, ciencia, procedencia e IA. La transparencia tecnológica podría reducir las falsificaciones. El mercado deberá elegir entre mantener el misterio o aceptar la verificación empírica.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

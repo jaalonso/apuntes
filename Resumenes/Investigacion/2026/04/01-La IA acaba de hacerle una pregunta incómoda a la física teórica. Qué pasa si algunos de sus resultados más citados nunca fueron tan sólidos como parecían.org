@@ -1,0 +1,16 @@
+#+TITLE: La IA acaba de hacerle una pregunta incómoda a la física teórica. Qué pasa si algunos de sus resultados más citados nunca fueron tan sólidos como parecían
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://es.gizmodo.com/la-ia-acaba-de-hacerle-una-pregunta-incomoda-a-la-fisica-teorica-que-pasa-si-algunos-de-sus-resultados-mas-citados-nunca-fueron-tan-solidos-como-parecian-2000229508][«La IA acaba de hacerle una pregunta incómoda a la física teórica. Qué pasa si algunos de sus resultados más citados nunca fueron tan sólidos como parecían»]] describe cómo se utilizó Lean para verificar resultados científicos. El hallazgo no fue obra de una IA generativa, sino de la formalización lógica estricta.
+
+El sistema analizó un estudio de 2006 sobre el modelo de Higgs. Al intentar formalizarlo con Lean, se halló un contraejemplo que invalidaba la estabilidad del potencial defendida originalmente. Este fallo lógico persistió durante casi dos décadas sin que la revisión por pares humana lo detectara previamente.
+
+Aunque los científicos corregirán el error, el caso genera inquietud sobre otros cimientos teóricos. La verdadera contribución de estas herramientas no es la invención creativa, sino actuar como auditores implacables. Su uso obliga a demostrar con rigor absoluto aquello que la comunidad científica simplemente daba por sentado.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

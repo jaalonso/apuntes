@@ -1,0 +1,16 @@
+#+TITLE: Los profesores de la enseñanza pública harán con una IA oficial la primera evaluación de los alumnos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/KjSPH][«Los profesores de la enseñanza pública harán con una IA oficial la primera evaluación de los alumnos»]] se comenta que el Gobierno español ha puesto en marcha un programa de 140 millones de euros para incorporar inteligencia artificial en la enseñanza pública, con el objetivo de aliviar la carga burocrática de los docentes y adaptarse a los requisitos de la ley educativa Lomloe.
+
+La herramienta central será un chatbot oficial que ayudará en evaluaciones, adaptaciones curriculares y gestión documental. Además, se desarrollará un asistente virtual para familias, simplificando trámites administrativos y proporcionando información sobre centros educativos y becas.
+
+Esta iniciativa, anunciada por el presidente Pedro Sánchez, pretende reducir las tareas administrativas de los profesores para que puedan dedicar más tiempo a la enseñanza y al apoyo individualizado a los alumnos, aunque su impacto real aún está por evaluar.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

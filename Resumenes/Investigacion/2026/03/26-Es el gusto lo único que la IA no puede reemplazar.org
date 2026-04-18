@@ -1,0 +1,16 @@
+#+TITLE: ¿Es el gusto lo único que la IA no puede reemplazar?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/sWVGp][«¿Es el gusto lo único que la IA no puede reemplazar?»]] se comenta que la automatización de tareas técnicas por la IA ha forzado un cambio de paradigma en Silicon Valley. Ante la posible obsolescencia de programadores y diseñadores, la industria se refugia en el "gusto". Esta cualidad subjetiva emerge como la competencia esencial para diferenciar el valor humano del algoritmo.
+
+Proliferan cursos de dirección creativa y eventos sociales para cultivar el discernimiento estético entre tecnólogos. El objetivo es evitar el slop, la sobreproducción de contenido genérico generado por máquinas. El debate persiste sobre si esta sensibilidad es una habilidad que puede entrenarse o una distinción social elitista e innata.
+
+Líderes sectoriales sostienen que esta tendencia prioriza la empatía y la sensibilidad frente al dato cuantificable. Aunque la crítica advierte de que el humano queda reducido a un mero evaluador de resultados, la búsqueda del gusto plantea una reflexión profunda sobre las capacidades que nos mantienen todavía hoy indispensables.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

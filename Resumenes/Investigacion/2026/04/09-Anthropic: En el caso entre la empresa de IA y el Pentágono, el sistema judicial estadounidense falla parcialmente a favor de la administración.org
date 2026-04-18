@@ -1,0 +1,16 @@
+#+TITLE: Anthropic: En el caso entre la empresa de IA y el Pentágono, el sistema judicial estadounidense falla parcialmente a favor de la administración
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/aXtJT][«Anthropic: En el caso entre la empresa de IA y el Pentágono, el sistema judicial estadounidense falla parcialmente a favor de la administración»]] describe el conflicto entre la empresa de inteligencia artificial Anthropic y el Pentágono. El Departamento de Defensa prohibió a sus contratistas usar las tecnologías de Anthropic, al considerar que representaba un riesgo para la cadena de suministro. Esta decisión se basó en la negativa de la empresa a permitir el uso de su IA en vigilancia masiva y armas autónomas.
+
+El conflicto legal se desarrolla en dos frentes. Anthropic ganó una primera batalla en San Francisco, suspendiendo una directiva similar, pero el gobierno apeló. En Washington, un tribunal rechazó suspender la prohibición inicial, aunque ha fijado una fecha para una revisión acelerada del caso, reconociendo la importancia del asunto.
+
+A pesar de la controversia, Anthropic ha anunciado un crecimiento exponencial de sus ingresos, triplicándose en un trimestre. OpenAI aprovechó la situación para firmar un contrato con el Pentágono, ofreciendo una alternativa que, según el gobierno, cumple con los requisitos éticos necesarios para su uso en operaciones sensibles.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: How we achieved an IMO medal, one year before any other AI system
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://www.tomzahavy.com/post/how-we-achieved-an-imo-medal-one-year-before-everyone-else][«How we achieved an IMO medal, one year before any other AI system»]] se explica cómo AlphaProof logró un nivel de medalla de plata en la Olimpiada Internacional de Matemáticas. Este hito, alcanzado un año antes que cualquier otra IA, superó un gran desafío para la inteligencia artificial en una competición de élite para jóvenes matemáticos.
+
+El avance crucial fue el "Aprendizaje por Refuerzo en Tiempo de Prueba" (TTRL). Esta técnica permitía al agente crear variaciones de los problemas y entrenar con ellas durante la propia competencia. Aunque consumía muchos recursos y tuvo resultados iniciales modestos, su refinamiento fue clave para lograr tres demostraciones completas tras tres días de prueba.
+
+El autor señala futuros desafíos como la dependencia del demostrador Lean y la limitada cantidad de problemas matemáticos únicos. Su visión es desarrollar agentes que no solo resuelvan problemas, sino que generen sus propias preguntas y construyan teorías novedosas de forma autónoma.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

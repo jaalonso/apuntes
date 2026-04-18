@@ -1,0 +1,16 @@
+#+TITLE: Palantir está desplegando la IA desde el campo de batalla hasta el CAC 40, en un contexto que abarca desde el poder económico hasta los debates éticos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/vgIBC][«Palantir está desplegando la IA desde el campo de batalla hasta el CAC 40, en un contexto que abarca desde el poder económico hasta los debates éticos»]] describe el ascenso de Palantir como proveedor esencial de tecnología de inteligencia artificial para el ámbito militar. La empresa, fundada tras los atentados del 11-S, ha desarrollado un software llamado Maven que integra y analiza grandes volúmenes de datos para apoyar la toma de decisiones en operaciones bélicas.
+
+El texto detalla cómo Maven funciona, agregando información de diversas fuentes y sugiriendo objetivos y planes de ataque. Palantir ha expandido su influencia a nivel global, colaborando con ejércitos de EE.UU., Ucrania, Israel y la OTAN, y participando en operaciones como la ofensiva contra Irán.
+
+Finalmente, el artículo aborda las controversias asociadas al uso de la IA en la guerra, incluyendo preocupaciones sobre daños colaterales, armas autónomas y la dependencia tecnológica. Palantir defiende su papel, argumentando que su tecnología ayuda a mejorar la eficiencia y la seguridad en las operaciones militares.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

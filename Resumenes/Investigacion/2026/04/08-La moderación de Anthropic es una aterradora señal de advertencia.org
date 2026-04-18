@@ -1,0 +1,16 @@
+#+TITLE: La moderación de Anthropic es una aterradora señal de advertencia
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/bOEFx][«La moderación de Anthropic es una aterradora señal de advertencia»]] describe el lanzamiento de Claude Mythos Preview por parte de Anthropic, una IA que supera a las existentes en la identificación de vulnerabilidades en software. Esta capacidad, aunque beneficiosa para la ciberseguridad, plantea un grave riesgo si cae en manos de actores maliciosos.
+
+Ante esta amenaza, Anthropic ha creado el consorcio Project Glasswing, limitando el acceso a la IA a empresas tecnológicas clave para fortalecer la defensa de infraestructuras críticas. La empresa busca un equilibrio entre el desarrollo de la IA y la seguridad global.
+
+El autor subraya la necesidad de una colaboración sin precedentes entre Estados Unidos y China para gestionar los riesgos de esta nueva tecnología. La situación se compara con la era de la disuasión nuclear, destacando la urgencia de prevenir la proliferación de capacidades de ciberataque a actores no estatales.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

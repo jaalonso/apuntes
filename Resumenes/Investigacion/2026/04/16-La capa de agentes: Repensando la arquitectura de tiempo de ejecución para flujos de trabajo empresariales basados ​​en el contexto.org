@@ -1,0 +1,16 @@
+#+TITLE: La capa de agentes: Repensando la arquitectura de tiempo de ejecución para flujos de trabajo empresariales basados ​​en el contexto
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.infoworld.com/article/4158536/the-agent-tier-rethinking-runtime-architecture-for-context-driven-enterprise-workflows.html][«La capa de agentes: Repensando la arquitectura de tiempo de ejecución para flujos de trabajo empresariales basados ​​en el contexto»]] explica que las empresas usan software determinista. Este enfoque falla cuando los procesos deben responder al contexto. Ejemplos como el sector bancario muestran la tensión entre seguridad y fricción.
+
+Introduce el concepto de capa de agentes. Separa la ejecución de la razón contextual. El sistema recomienda acciones basadas en evidencia y devuelve el control al flujo determinista.
+
+La gobernanza asegura el control. Los cambios ocurren dentro de límites observables. Las empresas pueden modernizar incrementalmente sin perder autoridad sobre los estados finales.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

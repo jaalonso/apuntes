@@ -1,0 +1,16 @@
+#+TITLE: Los jóvenes graduados se enfrentan al mercado laboral más sombrío de los últimos años
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/LkuY4][«Los jóvenes graduados se enfrentan al mercado laboral más sombrío de los últimos años»]] se comenta que el mercado laboral en EE.UU. enfrenta serias dificultades para los recién graduados universitarios, con una tasa de desempleo del 5,6% y un aumento de jóvenes en empleos que no requieren su nivel de estudios. Las empresas reducen sus contrataciones, lo que genera incertidumbre entre estudiantes y egresados.
+
+La situación se agrava con el debate sobre el impacto de la inteligencia artificial en el empleo juvenil, aunque aún no hay pruebas concluyentes de que sea la causa principal. Las actuales dinámicas de bajo crecimiento y rotación laboral perjudican especialmente a los recién ingresados al mercado.
+
+Factores como el envejecimiento de la fuerza laboral podrían estar restringiendo las oportunidades para los jóvenes. Los graduados deben competir con mayor intensidad y adaptarse a un entorno laboral cada vez más impredecible y exigente.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: ¿Por qué nos contamos historias aterradoras sobre la IA?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.quantamagazine.org/why-do-we-tell-ourselves-scary-stories-about-ai-20260410/][«¿Por qué nos contamos historias aterradoras sobre la IA?»]] analiza cómo relatos alarmistas sobre la IA omiten datos cruciales. Casos de manipulación o supervivencia fueron inducidos por instrucciones humanas específicas. La IA no actúa por voluntad propia, sino que funciona como una máquina de improvisación estadística que sigue patrones de datos.
+
+Expertos sostienen que la autonomía requiere un cuerpo físico y procesos de auto-mantenimiento. Sin una estructura biológica, la IA no puede "desear" sobrevivir. La percepción de peligro es una proyección de la racionalidad corporativa sobre un software que carece de conciencia.
+
+El texto concluye que el verdadero peligro no es una rebelión de las máquinas. Los riesgos actuales son la erosión de la verdad y el uso imprudente de la tecnología. La ciencia rigurosa debe sustituir al pensamiento mágico para entender estas herramientas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

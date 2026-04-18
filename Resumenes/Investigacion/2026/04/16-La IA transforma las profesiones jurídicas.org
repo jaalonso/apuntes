@@ -1,0 +1,16 @@
+#+TITLE: La IA transforma las profesiones jurídicas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.lemondeinformatique.fr/actualites/lire-les-metiers-juridiques-transformes-par-l-ia-99935.html][«La IA transforma las profesiones jurídicas»]] analiza el estudio Wolters Kluwer sobre la IA en el derecho. Más de la mitad de las empresas planean aumentar su inversión tecnológica. El 92% de los profesionales usa la IA diariamente. La adopción generalizada redefine las prácticas y modelos económicos del sector legal.
+
+El artículo detalla cómo la automatización elimina tareas repetitivas y cambia la facturación. Surgen nuevos roles híbridos y especialistas en riesgos. Sin embargo, persisten preocupaciones sobre ética y confidencialidad de datos. La formación continua se vuelve necesaria para adaptarse a estos cambios tecnológicos.
+
+El artículo concluye que la IA no sustituye al jurista, sino que desplaza su centro de gravedad. La calidad del contenido supera a la cantidad producida. Los juniors enfrentan retos en su formación inicial. La transformación exige una evolución constante de las competencias profesionales en el ámbito legal.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: ¿La IA es perjudicial para el pensamiento crítico? Depende de cuándo se utilice
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.sciencenews.org/article/ai-timing-critical-thinking-study][«¿La IA es perjudicial para el pensamiento crítico? Depende de cuándo se utilice»]] presenta un estudio sobre el impacto de los chatbots de IA en el pensamiento crítico. Investigadores analizaron cómo el momento de la consulta a la IA y el tiempo disponible afectan la capacidad de los participantes para resolver un problema complejo y argumentar una decisión.
+
+El estudio demostró que aquellos que trabajaron inicialmente en el problema y luego consultaron la IA obtuvieron mejores resultados en términos de argumentos válidos y perspectivas diversas. El tiempo suficiente para razonar fue crucial, superando a los participantes con limitaciones temporales.
+
+Bajo presión de tiempo, el uso temprano de la IA mejoró el rendimiento, aunque a costa de la independencia de razonamiento. Los investigadores enfatizan la necesidad de desarrollar una alfabetización en IA para comprender los riesgos y beneficios de su uso en diferentes contextos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

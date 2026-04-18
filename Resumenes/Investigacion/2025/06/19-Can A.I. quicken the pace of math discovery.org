@@ -1,0 +1,12 @@
+#+TITLE: Can A.I. quicken the pace of math discovery?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://dnyuz.com/2025/06/19/can-a-i-quicken-the-pace-of-math-discovery/][«Can A.I. quicken the pace of math discovery?»]] describe la iniciativa [[https://www.darpa.mil/research/programs/expmath-exponential-mathematics]["Exponentiating mathematics"]] de DARPA. El programa busca superar las limitaciones de la IA en razonamiento complejo aplicándola a las matemáticas puras. Su objetivo es desarrollar un sistema de IA que actúe como "coautor" de los matemáticos. Esto automatizaría el proceso laborioso de verificación de pruebas para acelerar los descubrimientos. El enfoque podría generar un "ciclo virtuoso": la estructura rigurosa de las matemáticas ayudaría a crear sistemas de IA más potentes, lógicos y comprensibles.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: «Ataque a la justicia»: cómo los ataques de la extrema derecha amenazan el estado de derecho en Europa
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.theguardian.com/world/ng-interactive/2026/mar/30/leaders-seeking-undermine-rule-of-law-europe][««Ataque a la justicia»: cómo los ataques de la extrema derecha amenazan el estado de derecho en Europa»]] analiza la creciente amenaza al estado de derecho en Europa, evidenciada por los ataques de la extrema derecha a la independencia judicial. En Francia, figuras como Marine Le Pen y Nicolas Sarkozy han criticado decisiones judiciales, generando un clima de desconfianza y amenazas.
+
+El nudo del problema se centra en la sistemática erosión de la independencia judicial en países como Hungría, donde Viktor Orbán ha implementado reformas legales para controlar el sistema. Italia también ha sido escenario de intentos de reforma por parte del gobierno de Giorgia Meloni, que se enfrentó a la oposición y perdió un referéndum.
+
+Finalmente, el artículo destaca que esta tendencia no se limita a unos pocos países, sino que se observa en toda Europa, incluso en naciones con sistemas judiciales robustos como Alemania y Polonia. La falta de recursos, los ataques políticos y la dificultad para revertir reformas previas complican la situación, poniendo en riesgo los principios fundamentales del estado de derecho.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

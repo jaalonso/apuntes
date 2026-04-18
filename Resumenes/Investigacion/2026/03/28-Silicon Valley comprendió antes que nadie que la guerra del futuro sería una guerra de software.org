@@ -1,0 +1,16 @@
+#+TITLE: Silicon Valley comprendió antes que nadie que la guerra del futuro sería una guerra de software
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/1pCJk][«Silicon Valley comprendió antes que nadie que la guerra del futuro sería una guerra de software»]] se comenta que la industria de defensa estadounidense experimenta una transformación con la llegada de capital riesgo de Silicon Valley, invirtiendo fuertemente en startups de tecnología militar. Este cambio se produce porque la guerra del futuro se prevé como un conflicto tecnológico, donde el software y la inteligencia artificial serán cruciales.
+
+El Pentágono busca controlar el desarrollo y uso de la IA, estableciendo condiciones para los acuerdos con empresas como Anthropic y OpenAI. La negativa de Anthropic a ceder en sus principios éticos provocó una sanción, mientras que OpenAI aceptó términos más flexibles, generando controversia.
+
+Esta situación plantea la posibilidad de una nacionalización de las empresas de IA, ya sea mediante adquisición directa o a través de un control más estricto por parte del Estado. El gobierno busca asegurar el acceso a esta tecnología estratégica, pero debe equilibrar este objetivo con la necesidad de fomentar la innovación.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

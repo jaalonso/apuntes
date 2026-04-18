@@ -1,0 +1,16 @@
+#+TITLE: Anthropic se alía con sus rivales para evitar que la IA lo hackee todo
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/jfxDr][«Anthropic se alía con sus rivales para evitar que la IA lo hackee todo»]] describe la presentación de Mythos Preview por parte de Anthropic, un modelo de IA que destaca por su capacidad para analizar código y detectar vulnerabilidades en sistemas informáticos. La compañía subraya que este avance representa un punto de inflexión en la ciberseguridad.
+
+Ante el potencial disruptivo de Mythos Preview, Anthropic ha formado Project Glasswing, una colaboración con empresas líderes en tecnología y seguridad. El objetivo principal es permitir a estas organizaciones evaluar el modelo en sus propios sistemas y prepararse para las nuevas amenazas que la IA puede generar.
+
+Anthropic enfatiza la necesidad de una respuesta coordinada ante el avance de la IA en ciberseguridad. La compañía busca evitar que esta tecnología acelere las capacidades de los atacantes y, en cambio, fortalecer las defensas digitales a través de la divulgación responsable de vulnerabilidades y la colaboración industrial.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Gauss – towards autoformalization for the working mathematician
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En la conferencia [[https://youtu.be/Ko-PzGlzYrc][«Gauss – towards autoformalization for the working mathematician»]], Jared Duker Lichtman presentó el proyecto Gauss, que busca automatizar la traducción de pruebas matemáticas a código formal verificable por máquina, haciendo esta práctica accesible para más matemáticos.
+
+Como caso de estudio, se destacó la exitosa formalización automática de la versión "fuerte" del Teorema de los Números Primos en Lean. El agente Gauss generó 25.000 líneas de código en tres semanas, un hito de escala sin precedentes en la automatización.
+
+El proyecto, que aún requiere un matemático en el bucle de retroalimentación, demuestra el potencial de estas herramientas para expandir y comprimir el conocimiento matemático de forma verificable, invitando a la comunidad a participar en esta visión futura.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

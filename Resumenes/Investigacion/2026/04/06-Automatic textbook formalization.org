@@ -1,0 +1,16 @@
+#+TITLE: Automatic textbook formalization
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/abs/2604.03071v1][«Automatic textbook formalization»]] presenta un sistema multiagente que formalizó automáticamente en Lean un libro de texto de más de 500 páginas de combinatoria algebraica de nivel de posgrado. El proyecto, realizado por investigadores de Meta FAIR y el ENPC, produjo 130.000 líneas de código y demostró los 340 teoremas y definiciones objetivo marcados desde el inicio.
+
+El sistema coordinó 30.000 instancias de Claude 4.5 Opus mediante control de versiones git, revisión por agentes independientes y un rastreador de incidencias en el sistema de archivos. Los principales problemas encontrados fueron la duplicación de definiciones clave, la tendencia de los agentes a trabajar en contenido no prioritario y los cuellos de botella en la integración del código.
+
+El coste total rondó los 100.000 dólares en una semana, equiparable al de un equipo humano experto. Los autores concluyen que el cuello de botella ya no es la capacidad lógica de los modelos, sino la orquestación colectiva, y estiman posible una reducción del coste de entre 3 y 10 veces sin necesidad de modelos más avanzados.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,12 @@
+#+TITLE: Solving formal math problems by decomposition and iterative reflection
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/abs/2507.15225v1][«Solving formal math problems by decomposition and iterative reflection»]] presenta [[https://github.com/ByteDance-Seed/Seed-Prover/tree/main/DeltaProver][Delta Prover]], un nuevo sistema que resuelve problemas matemáticos complejos. Este agente utiliza un LLM que interactúa con el asistente de pruebas [[https://en.wikipedia.org/wiki/Lean_(proof_assistant)][Lean 4]]. Mediante una descomposición de problemas y una reparación iterativa de las pruebas, el sistema aprende de los errores para construir demostraciones verificables. Alcanza un rendimiento del 95.9% de éxito en los problemas de [[https://github.com/openai/miniF2F][miniF2F]], superando a otros métodos sin necesitar un costoso reentrenamiento del modelo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: The anti-intellectualism of the Silicon Valley elite
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.thenation.com/article/society/peter-thiel-marc-andreessen-silicon-valley-anti-intellectualism/][«The anti-intellectualism of the Silicon Valley elite»]] describe una forma inédita de antiintelectualismo: ya no proviene de los sectores populares, sino de los propios líderes de la economía del conocimiento. Figuras como Thiel, Andreessen o el CEO de Suno desdeñan el aprendizaje por el aprendizaje, a pesar de haberse beneficiado de educaciones de élite.
+
+Su poder se asienta paradójicamente en el trabajo intelectual colectivo —universitario y público— que desprecian. Promueven herramientas de IA que, según estudios del MIT, debilitan las capacidades cognitivas de los usuarios y refuerzan la adulación, consolidando así su control sobre el pensamiento ajeno.
+
+El modelo ideológico de este movimiento apunta a un orden antidemocrático donde el saber solo tiene valor si es monetizable. Una ciudadanía formada representa una amenaza directa a ese proyecto, lo que explica su hostilidad sistemática hacia la educación superior, las humanidades y el pensamiento crítico independiente.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

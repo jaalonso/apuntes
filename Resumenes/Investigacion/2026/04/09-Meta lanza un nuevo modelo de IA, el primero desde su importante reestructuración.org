@@ -1,0 +1,16 @@
+#+TITLE: Meta lanza un nuevo modelo de IA, el primero desde su importante reestructuración
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/sqfzo][«Meta lanza un nuevo modelo de IA, el primero desde su importante reestructuración»]] describe el lanzamiento de Muse Spark, el nuevo modelo de IA de Meta. La compañía ha comenzado a desplegar este sistema, diseñado para mejorar la experiencia del usuario en sus diversas plataformas, como Meta AI. Muse Spark se presenta como una evolución significativa respecto a Llama 4.
+
+Muse Spark destaca por su capacidad multimodal, analizando no solo texto sino también imágenes y otros datos relevantes. Además, puede generar código informático, facilitando la creación de contenido digital. Meta ha puesto especial atención en la integración de este modelo en sus principales servicios, como Facebook, Instagram y WhatsApp, aunque inicialmente solo en Estados Unidos.
+
+El lanzamiento de Muse Spark es el resultado de una profunda reestructuración de la división de IA de Meta, con una inversión considerable en Scale AI y la contratación de talento clave de la competencia. Mark Zuckerberg considera este lanzamiento un paso importante en la estrategia de la compañía, buscando un modelo de IA "pequeño y rápido" pero capaz de razonar en áreas complejas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

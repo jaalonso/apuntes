@@ -1,0 +1,16 @@
+#+TITLE: Maestros artificiales
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/SoP3F][«Maestros artificiales»]] analiza la rápida adopción de la inteligencia artificial por parte de los jóvenes españoles, con un 75% de usuarios entre 16 y 24 años. Esta tendencia contrasta con una brecha digital generacional, ya que el uso entre mayores de 30 años es mucho menor. La IA se está utilizando cada vez más en el ámbito educativo, especialmente en la ESO.
+
+Ante este panorama, los docentes se ven obligados a replantear los métodos de evaluación para garantizar la originalidad de los trabajos, pasando de exámenes a evaluaciones más prácticas y orales. Sin embargo, este cambio genera una mayor carga de trabajo, que no se compensa con el tiempo ahorrado en otras tareas.
+
+El estudio destaca que el principal riesgo de la IA en la educación es el posible deterioro de la relación entre alumnos y profesores, crucial para un aprendizaje de calidad. Además, se advierte sobre la reducción de la autonomía intelectual y la exposición a errores y sesgos inherentes a la IA, especialmente en las etapas iniciales de la educación, donde se defiende un enfoque más analógico y experiencial.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

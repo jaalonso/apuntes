@@ -1,0 +1,16 @@
+#+TITLE: Los planes del ejército chino para hacer la guerra con IA: 7 puntos sobre el informe de la RAND
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://legrandcontinent.eu/es/2026/03/25/los-planes-del-ejercito-chino-para-hacer-la-guerra-con-ia-7-puntos-sobre-el-informe-de-la-rand/][«Los planes del ejército chino para hacer la guerra con IA: 7 puntos sobre el informe de la RAND»]] se comenta que China está transformando su ejército a través de la inteligencia artificial, buscando alcanzar o superar las capacidades militares de Estados Unidos para mediados de siglo. Esta estrategia se basa en tres fases de modernización, culminando con la "inteligentización", que implica la automatización de sistemas de armas mediante la IA.
+
+El enfoque principal es integrar la IA en las cadenas de combate, acelerando la detección, identificación y ataque de objetivos. El desarrollo de enjambres de drones y la optimización de la logística militar son componentes clave de esta transformación, requiriendo una robusta infraestructura de datos y sistemas de protección contra interferencias.
+
+Sin embargo, China también enfrenta desafíos como la vulnerabilidad a la manipulación de algoritmos y la necesidad de evitar la "ceguera estratégica". El informe de la RAND Corporation destaca la importancia de abordar estos riesgos y la creciente atención a la guerra híbrida y la proliferación de armas autónomas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

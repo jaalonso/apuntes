@@ -1,0 +1,16 @@
+#+TITLE: Estados Unidos convoca a directivos bancarios por los riesgos cibernéticos derivados del último modelo de IA de Anthropic
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/PUVbV][«Estados Unidos convoca a directivos bancarios por los riesgos cibernéticos derivados del último modelo de IA de Anthropic»]] describe una reunión urgente convocada por el secretario del Tesoro estadounidense con líderes bancarios y la Reserva Federal. El encuentro surge ante la amenaza de ciberataques potenciados por la inteligencia artificial, específicamente el nuevo modelo Claude Mythos de la empresa Anthropic.
+
+El modelo Mythos ha detectado miles de vulnerabilidades en software, algunas con 27 años de antigüedad. Anthropic advierte que la IA ya supera a los humanos en la detección de fallos, lo que pone en peligro la seguridad nacional y la estabilidad económica.
+
+Como medida preventiva, Anthropic ha restringido el acceso al modelo a unas pocas empresas tecnológicas. Mientras tanto, el gobierno de EE. UU. mantiene un conflicto legal con la firma tras designarla como un riesgo para la cadena de suministro.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

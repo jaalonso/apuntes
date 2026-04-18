@@ -1,0 +1,16 @@
+#+TITLE: La gente realmente detesta la IA, incluso más que el ICE
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://futurism.com/artificial-intelligence/hate-ai-more-ice-poll][«La gente realmente detesta la IA, incluso más que el ICE»]] se comenta que una nueva encuesta nacional en Estados Unidos muestra un creciente descontento con la Inteligencia Artificial. El estudio revela que casi la mitad de los votantes registrados tienen una visión negativa de la IA, superando ampliamente a los que la ven con buenos ojos.
+
+El rechazo a la IA se debe a múltiples factores, incluyendo su impacto en el mercado laboral, el aumento de los costos energéticos y su controvertido uso en el ámbito militar, como en la selección de objetivos en conflictos bélicos. Este panorama contrasta con el optimismo de los líderes tecnológicos y políticos.
+
+La encuesta también pone de manifiesto una brecha entre la percepción pública y las inversiones masivas en centros de datos de IA, que generan preocupación por su impacto ambiental y la ética de su aplicación, evidenciando un creciente debate sobre el futuro de esta tecnología.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

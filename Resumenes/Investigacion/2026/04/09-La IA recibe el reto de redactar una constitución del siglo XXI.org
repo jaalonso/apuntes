@@ -1,0 +1,16 @@
+#+TITLE: La IA recibe el reto de redactar una constitución del siglo XXI
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/dZ1Fz][«La IA recibe el reto de redactar una constitución del siglo XXI»]] describe un innovador experimento en la Universidad Paris-I, donde estudiantes de derecho compararon un proyecto de Constitución redactado por ellos con textos generados por cuatro inteligencias artificiales. El profesor Dominique Rousseau buscaba evaluar las capacidades y limitaciones de la IA en un campo tan complejo como el derecho constitucional.
+
+El análisis de las constituciones generadas por las IA reveló una "pobreza normativa", con textos breves y carentes de detalles sobre la organización del Estado y la distribución de poderes. Aunque las IA incluyeron derechos ambientales y digitales, omitieron el derecho de huelga y mostraron una visión predominantemente individualista de los derechos fundamentales.
+
+Finalmente, los estudiantes concluyeron que las IA carecen de una sólida cultura constitucional, evidenciada en la falta de equilibrio en la distribución de poderes y en la omisión de principios clave.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

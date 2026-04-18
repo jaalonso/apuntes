@@ -1,0 +1,16 @@
+#+TITLE: Embracing AI and formalization: Experimenting with tomorrow’s mathematical tools
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el número actual (abril de 2026) del Boletín de la AMS, aparece un artículo de Jarod Alper titulado [[https://pubs.ams.org/BULL/0000-000-00/S0273-0979-2025-01879-0][«Embracing AI and formalization: Experimenting with tomorrow’s mathematical tools»]], donde el autor analiza la creciente influencia de la inteligencia artificial y el lenguaje Lean en la disciplina. Basándose en su labor en el eXperimental Lean Lab, Alper argumenta que los matemáticos deben adoptar estas tecnologías para elevar el rigor y la eficiencia en la investigación actual.
+
+El texto explora áreas clave como la autoformalización y el descubrimiento de conjeturas mediante IA. Pese a las dificultades técnicas del software, Alper defiende que formalizar pruebas elimina errores, profundiza el entendimiento lógico y genera datos de alta calidad vitales para el avance del aprendizaje automático en matemáticas.
+
+Concluye que los matemáticos deben liderar esta transformación para que el futuro de la disciplina no sea dictado solo por corporaciones. La IA redefinirá la investigación, pero la intuición humana seguirá siendo esencial para determinar qué enunciados tienen valor y desarrollar una verdadera comprensión matemática profunda.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

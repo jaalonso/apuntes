@@ -1,0 +1,16 @@
+#+TITLE: 12 gráficos que explican el estado de la IA en 2026
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://spectrum.ieee.org/state-of-ai-index-2026?share_id=9359183][«12 gráficos que explican el estado de la IA en 2026»]] analiza el estado actual de la inteligencia artificial en 2026, destacando el crecimiento exponencial de la inversión y la capacidad de computación. Estados Unidos se mantiene a la vanguardia en el desarrollo de modelos, mientras que China lidera en la implementación de robótica industrial.
+
+El informe de Stanford revela avances significativos en los modelos de lenguaje multimodal y en aplicaciones médicas, pero también señala el alto costo ambiental del entrenamiento de estos modelos y sus limitaciones en tareas cotidianas. La IA está transformando el mercado laboral, afectando principalmente a los puestos de nivel inicial.
+
+Finalmente, el estudio muestra una ligera mejora en la percepción pública de la IA, aunque persiste la desconfianza en la regulación gubernamental, variando significativamente entre países. Esta situación refleja la complejidad del impacto de la IA en la sociedad y la necesidad de una gestión responsable.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

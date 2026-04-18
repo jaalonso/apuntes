@@ -1,0 +1,16 @@
+#+TITLE: Las universidades deben reinventarse para la era de la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://time.com/article/2026/04/13/universities-must-reinvent-themselves-for-the-intelligent-age/][«Las universidades deben reinventarse para la era de la IA»]] analiza la necesidad urgente de reinventar las universidades ante los cambios sin precedentes impulsados por la inteligencia artificial, la automatización y otros factores globales.  Las instituciones educativas, pilares del progreso durante siglos, deben adaptarse a un mundo donde el conocimiento tiene una vida útil cada vez más corta y las habilidades requieren una actualización constante.
+
+El texto argumenta que el modelo tradicional de educación, centrado en una formación intensiva en la juventud, ya no es suficiente.  La clave reside en pasar de "aprender para la vida" a "aprender a lo largo de la vida", lo que implica ofrecer programas flexibles, modulares y accesibles para personas en diferentes etapas de su carrera profesional.
+
+El autor subraya que la transformación universitaria es un desafío complejo que requiere cambios profundos en la gobernanza, la financiación y la cultura institucional.  Si las universidades no se adaptan con audacia, corren el riesgo de perder su relevancia y ser superadas por las nuevas realidades del mundo inteligente, afectando a la competitividad y la estabilidad social.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

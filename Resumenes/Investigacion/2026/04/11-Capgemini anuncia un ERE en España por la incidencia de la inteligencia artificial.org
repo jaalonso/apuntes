@@ -1,0 +1,16 @@
+#+TITLE: Capgemini anuncia un ERE en España por la incidencia de la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/lmqE2][«Capgemini anuncia un ERE en España por la incidencia de la IA»]] informa sobre el anuncio de Capgemini de iniciar un ERE en su filial española. La empresa, con una larga trayectoria en el país, argumenta que los avances tecnológicos, especialmente la inteligencia artificial, están transformando el sector y exigiendo una adaptación de sus equipos.
+
+La reestructuración busca responder a la evolución de las necesidades de los clientes y asegurar que la plantilla cuente con las habilidades necesarias para el futuro. Este anuncio sigue a un proyecto similar en Francia, donde se podrían eliminar hasta 2.400 puestos de trabajo, y a los recientes despidos en Amazon.
+
+La negociación del ERE comenzará el 23 de abril. Capgemini, presente en 14 ciudades españolas con más de 11.000 empleados, se une a la tendencia de las tecnológicas a ajustar sus plantillas ante el auge de la inteligencia artificial.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

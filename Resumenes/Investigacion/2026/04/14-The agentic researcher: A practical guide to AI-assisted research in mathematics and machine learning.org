@@ -1,0 +1,16 @@
+#+TITLE: The agentic researcher: A practical guide to AI-assisted research in mathematics and machine learning
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/abs/2603.15914v1][«The agentic researcher: A practical guide to AI-assisted research in mathematics and machine learning»]] propone una guía estructurada para integrar agentes de IA en investigación científica, respondiendo a la ausencia de orientación práctica sobre el uso académico productivo de los grandes modelos de lenguaje. La colaboración humano-máquina se organiza en cinco niveles según el grado de autonomía, desde consultas puntuales a chatbots hasta sesiones experimentales autónomas de más de veinte horas.
+
+El núcleo del trabajo son diez mandamientos metodológicos que codifican buenas prácticas científicas: prohíben la invención de citas y la manipulación de resultados, e imponen reglas como experimentar una variable a la vez o verificar antes de publicar. El sistema opera en entornos aislados y gestiona múltiples experimentos en paralelo sobre infraestructuras de alto rendimiento.
+
+Seis casos de estudio en optimización y demostraciones matemáticas complejas demuestran la eficacia del marco, con la IA descubriendo técnicas novedosas sin supervisión constante. Los autores concluyen que el investigador conserva la dirección intelectual y la responsabilidad final, mientras delega en el agente el trabajo exploratorio y la implementación técnica.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

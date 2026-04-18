@@ -1,0 +1,16 @@
+#+TITLE: La IA ya influye en el voto: algunos asistentes recomiendan partidos políticos en España
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.elplural.com/el-telescopio/tech/inteligencia-artificial-influye-voto-algunos-asistentes-recomiendan-partidos-politicos-espana_385617102][«La IA ya influye en el voto: algunos asistentes recomiendan partidos políticos en España»]] analiza cómo la inteligencia artificial está comenzando a influir en el proceso electoral español. Investigadores de la UOC estudiaron las respuestas de cinco asistentes de IA a más de 1.200 preguntas sobre temas políticos clave, como vivienda, economía y sanidad.
+
+El estudio revela diferencias significativas entre los asistentes. Mientras algunos, como ChatGPT y Grok, ofrecen recomendaciones explícitas de partidos, otros, como Perplexity, Gemini y Copilot, mantienen una postura más neutral. El PSOE es el partido más recomendado, seguido de Sumar y Podemos.
+
+El artículo destaca la importancia de desarrollar nuevas habilidades digitales para analizar críticamente las respuestas de la IA, verificar las fuentes y evitar sesgos. La IA está cambiando la forma en que se accede a la información política y podría tener un impacto significativo en las futuras elecciones.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

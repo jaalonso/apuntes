@@ -1,0 +1,16 @@
+#+TITLE: Un dios estresado
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://ctxt.es/es/20260301/Firmas/52801/Gerardo-Tece-pena-de-muerte-Israel-palestina-genocidio-Netanyahu-Ben-Gvir.htm][«Un dios estresado»]] expone la reciente aprobación en Israel de la pena de muerte para terroristas palestinos, justificándose como una medida necesaria para combatir el terrorismo. La ley ha sido impulsada por el gobierno de Netanyahu y su socio ultraderechista Ben Gvir, quienes la presentan como un mandato divino.
+
+El texto denuncia la falta de garantías legales en la aplicación de esta pena, señalando que los juicios se llevarán a cabo en tribunales militares y que la definición de "terrorista" es excesivamente amplia. Se critica la posible inclusión de recién nacidos palestinos en esta categoría, según declaraciones de un miembro del partido de Netanyahu.
+
+Finalmente, el artículo subraya que esta nueva ley se suma a la violencia ya existente contra la población palestina y que, a pesar de la oposición interna y externa, el gobierno de Netanyahu parece decidido a seguir adelante con su plan. Se califica de psicópata al gobierno y se denuncia su falta de coherencia moral.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

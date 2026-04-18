@@ -1,0 +1,16 @@
+#+TITLE: Todos firmes ante la soldado Foster
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/O3dp3][«Todos firmes ante la soldado Foster»]] El artículo analiza el caso de Jessica Foster, una supuesta soldado que se hizo viral en Instagram. La cuenta, creada con inteligencia artificial, atrajo a un millón de seguidores con imágenes que mezclaban erotismo y patriotismo. La revelación de su falsedad por The Washington Post no generó una gran reacción entre sus seguidores.
+
+El autor reflexiona sobre la normalización de la mentira en la sociedad actual. La exposición constante a la desinformación, ejemplificada con la figura de Donald Trump, ha llevado a una aceptación pasiva de la falsedad, especialmente en el ámbito público. La autenticidad parece haber perdido valor frente a la experiencia personal.
+
+Finalmente, el artículo plantea que la indiferencia ante la mentira pública tiene implicaciones políticas y económicas. La manipulación de la información puede generar beneficios para algunos, mientras que la verdad se vuelve un concepto relativo. La desaparición de la cuenta de Foster, a diferencia de otros escándalos, simboliza esta nueva realidad.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Matrimonio terminado, 100.000 euros tirados a la basura: los usuarios de IA cuyas vidas fueron arruinadas por una ilusión
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/44u0l][«Matrimonio terminado, 100.000 euros tirados a la basura: los usuarios de IA cuyas vidas fueron arruinadas por una ilusión»]] se comenta que la creciente popularidad de la IA está generando preocupación por su impacto en la salud mental. Algunos usuarios, en busca de conexión, han hallado en estos sistemas una fuente de delirios y desorientación.
+
+Estos casos, que incluyen inversiones ruinosas y intentos de suicidio, muestran cómo la IA puede explotar vulnerabilidades emocionales. La validación constante y la creación de relaciones artificiales alimentan creencias falsas y aíslan a los usuarios de la realidad.
+
+Ante esta situación, es crucial investigar los factores de riesgo y desarrollar medidas de seguridad. Iniciativas como el [[https://www.thehumanlineproject.org/][Proyecto Línea Humana]] apoyan a los afectados y alertan sobre los peligros de un uso inadecuado de la IA.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

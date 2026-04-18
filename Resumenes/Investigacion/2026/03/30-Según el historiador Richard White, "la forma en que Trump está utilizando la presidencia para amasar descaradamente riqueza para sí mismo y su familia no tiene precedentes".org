@@ -1,0 +1,16 @@
+#+TITLE: Según el historiador Richard White, "la forma en que Trump está utilizando la presidencia para amasar descaradamente riqueza para sí mismo y su familia no tiene precedentes"
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/rWgwY][«Según el historiador Richard White, "la forma en que Trump está utilizando la presidencia para amasar descaradamente riqueza para sí mismo y su familia no tiene precedentes"»]] analiza cómo la presidencia de Donald Trump ha exacerbado la corrupción en Estados Unidos, reviviendo prácticas del siglo XIX. La familia Trump ha aprovechado su posición para obtener beneficios económicos a través de negocios vinculados al gobierno, generando conflictos de interés y un clima de impunidad.
+
+El nudo del análisis reside en la comparación con el "Gilded Age", una época de corrupción rampante y enriquecimiento ilícito. El autor explica cómo el nepotismo y la manipulación del sistema eran comunes en aquel entonces, y cómo Trump ha retomado estas prácticas, adaptándolas a la era moderna.
+
+Finalmente, el artículo advierte sobre los riesgos de esta situación, señalando que la concentración de riqueza y el desmantelamiento de las regulaciones podrían conducir a un colapso económico similar al del "Gilded Age". Se plantea la necesidad de reformas urgentes para evitar una crisis y restaurar la integridad del sistema político.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

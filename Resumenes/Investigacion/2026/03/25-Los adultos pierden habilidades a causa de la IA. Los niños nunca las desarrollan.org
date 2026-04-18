@@ -1,0 +1,16 @@
+#+TITLE: Los adultos pierden habilidades a causa de la IA. Los niños nunca las desarrollan
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.psychologytoday.com/us/blog/the-algorithmic-mind/202603/adults-lose-skills-to-ai-children-never-build-them][«Los adultos pierden habilidades a causa de la IA. Los niños nunca las desarrollan»]] establece una distinción fundamental: la /atrofia cognitiva/ (que implica un debilitamiento temporal de habilidades) frente al /cerramiento cognitivo/ (un bloqueo permanente en su desarrollo). Un estudio reciente demuestra que el uso de IA afecta de manera distinta a adultos y jóvenes, con consecuencias críticas para el desarrollo del pensamiento.
+
+La investigación revela que los jóvenes, al delegar tareas que nunca aprendieron a realizar, sufren un deterioro en su capacidad de pensamiento crítico. Esta dependencia les impide evaluar críticamente las respuestas de la IA y promueve una homogeneización del razonamiento, alterando la formación de su identidad cognitiva.
+
+El autor subraya la urgencia de preservar espacios donde los niños puedan desarrollar habilidades de pensamiento esenciales. La diferencia entre atrofia reversible y cerramiento cognitivo irreversible exige una profunda reflexión sobre cómo incorporar la IA en la educación sin comprometer el desarrollo intelectual de las nuevas generaciones.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

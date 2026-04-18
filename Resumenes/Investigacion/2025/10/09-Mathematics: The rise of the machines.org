@@ -1,0 +1,12 @@
+#+TITLE: Mathematics: The rise of the machines
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En [[https://youtu.be/oOYcPkBaotg][«Mathematics: The rise of the machines»]], Yang-Hui He explora cómo la IA está transformando la investigación matemática, desde la verificación formal de teoremas y el descubrimiento de conjeturas hasta la resolución de problemas con modelos de lenguaje.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

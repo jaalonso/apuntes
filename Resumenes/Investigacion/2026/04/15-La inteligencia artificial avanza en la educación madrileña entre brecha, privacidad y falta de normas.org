@@ -1,0 +1,16 @@
+#+TITLE: La inteligencia artificial avanza en la educación madrileña entre brecha, privacidad y falta de normas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/zpDGP][«La inteligencia artificial avanza en la educación madrileña entre brecha, privacidad y falta de normas»]] analiza la creciente presencia de la inteligencia artificial en la educación madrileña. La IA se ha convertido en una herramienta habitual para los docentes, quienes la emplean principalmente para optimizar la preparación de sus clases y adaptar los contenidos. Sin embargo, esta adopción se produce sin una estrategia institucional clara y con una formación del profesorado aún insuficiente.
+
+El rápido avance de la IA en las aulas está generando una situación de desorden y desigualdades. La falta de normas y políticas comunes deja margen a la improvisación y a la disparidad en el uso de las herramientas. Además, existe preocupación por la protección de los datos de los menores y el cumplimiento del RGPD, ya que muchos centros no están preparados para gestionar adecuadamente esta información.
+
+Finalmente, el artículo destaca la necesidad de actuar en varios frentes para garantizar que la IA se integre de forma útil, segura y equitativa en el sistema educativo. Esto implica definir políticas claras, reforzar la formación del profesorado, garantizar la transparencia con las familias y evitar que la IA amplíe la brecha digital entre centros con más y menos recursos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

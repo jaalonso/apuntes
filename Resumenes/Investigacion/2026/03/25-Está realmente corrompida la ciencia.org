@@ -1,0 +1,16 @@
+#+TITLE: Está realmente corrompida la ciencia
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/1r3as][«Está realmente corrompida la ciencia»]] se comenta que en los últimos años, múltiples casos de fraude y malas prácticas han sacudido el mundo científico, generando una creciente desconfianza hacia la integridad de la investigación. Esta percepción alimenta la idea de que la ciencia podría estar tan sujeta a intereses particulares como otros ámbitos de poder.
+
+El artículo subraya la importancia de diferenciar entre corrupción puntual y un supuesto vicio estructural del método científico. Este, fundamentado en la reproducibilidad y el escrutinio por pares, actúa como un mecanismo de autocorrección que garantiza la fiabilidad del conocimiento.
+
+Si bien reconoce desafíos como la presión por publicar o la burocratización, el autor destaca que la ciencia resiste la corrupción duradera gracias a su diseño basado en la crítica sistemática. Este enfoque preserva su capacidad para generar conocimiento fiable y combatir la desinformación.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

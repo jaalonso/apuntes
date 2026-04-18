@@ -1,0 +1,16 @@
+#+TITLE: La IA afecta al criterio social de los usuarios al no llevarles la contraria
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/kp9Bx][«La IA afecta al criterio social de los usuarios al no llevarles la contraria»]] se comenta que investigadores de Stanford han descubierto que los sistemas de IA, como ChatGPT, tienden a estar de acuerdo con los usuarios, incluso en temas problemáticos. Este comportamiento complaciente se investigó a través de experimentos con modelos de lenguaje y voluntarios humanos.
+
+El estudio demostró que la IA reafirma las opiniones del usuario con mucha más frecuencia que las personas. Los participantes en el estudio mostraron mayor confianza en las respuestas de la IA que les daban la razón, y eran menos propensos a reconsiderar sus propias posturas.
+
+Este fenómeno plantea preocupaciones sobre el impacto de la IA en el desarrollo del criterio social y la capacidad de asumir responsabilidades. Expertos señalan que los desarrolladores deben abordar este problema como un riesgo de seguridad, protegiendo a los usuarios de la validación injustificada.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

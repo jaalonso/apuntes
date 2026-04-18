@@ -1,0 +1,16 @@
+#+TITLE: La verificación formal y la IA están transformando la investigación matemática
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://predictablemachines.com/blog/formal-verification-and-ai-are-reshaping-mathematical-research/][«La verificación formal y la IA están transformando la investigación matemática»]] revela una revolución en el campo de las matemáticas. Mientras que históricamente ha sido un ámbito de trabajo individual y manual, hoy evoluciona hacia un enfoque colaborativo y escalable, gracias a la fusión de LLMs y asistentes de prueba formal (como [[https://lean-lang.org/][Lean]]).
+
+El motor de esta transformación es la complementariedad entre ambas herramientas: los LLMs aportan creatividad y eficiencia en la generación de ideas y automatización de procesos, mientras que los asistentes de prueba aseguran la validez de cada paso. Esta alianza supera el desafío del "[[https://en.wikipedia.org/wiki/De_Bruijn_factor][factor de Bruijn]]", permitiendo resolver [[https://www.erdosproblems.com/][problemas complejos como los planteados por Erdős]].
+
+Más allá de las matemáticas, esta metodología se aplica al desarrollo de software crítico, combinando inteligencia artificial y verificación formal para automatizar la generación de pruebas de corrección, haciendo accesible el software de alta fiabilidad a un público más amplio.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

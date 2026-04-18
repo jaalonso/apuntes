@@ -1,0 +1,16 @@
+#+TITLE: Una nueva técnica hace que los modelos de IA sean más eficientes y rápidos mientras aún están aprendiendo
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://news.mit.edu/2026/new-technique-makes-ai-models-leaner-faster-while-still-learning-0409][«Una nueva técnica hace que los modelos de IA sean más eficientes y rápidos mientras aún están aprendiendo»]] describe una nueva técnica llamada CompreSSM que optimiza el entrenamiento de modelos de inteligencia artificial. Tradicionalmente, la compresión se realiza después de entrenar un modelo grande, pero CompreSSM comprime el modelo mientras aprende, eliminando componentes innecesarios.
+
+CompreSSM se basa en la teoría del control para identificar las partes más importantes del modelo en las primeras etapas del entrenamiento. Esto permite descartar elementos redundantes y acelerar el proceso, obteniendo modelos más pequeños y rápidos sin perder precisión.
+
+Las pruebas demuestran que CompreSSM supera a otros métodos de compresión en velocidad y precisión, especialmente en modelos "state-space". Los investigadores ven esta técnica como un paso crucial hacia la creación de sistemas de IA más eficientes y aplicables a una gama más amplia de tareas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

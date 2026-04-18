@@ -1,0 +1,5 @@
+#+TITLE: Resúmenes
+
+Este directorio contiene
++ [[./Noticias/Noticias.org][Resúmenes de noticias]].
++ [[./Investigacion/Investigacion.org][Resúmenes de artículos de investigación y de divulgación]].

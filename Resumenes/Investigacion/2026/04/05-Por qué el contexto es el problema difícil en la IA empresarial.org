@@ -1,0 +1,16 @@
+#+TITLE: Por qué el contexto es el problema difícil en la IA empresarial
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/i4n2p][«Por qué el contexto es el problema difícil en la IA empresarial»]] describe cómo un asistente de IA para ingenieros operacionales, aparentemente funcional en las demostraciones, comenzó a producir respuestas incorrectas en producción al referenciar documentos y procedimientos desactualizados. El modelo no era el problema; lo era la calidad del contexto que recibía.
+
+Este fenómeno, que el autor denomina deriva contextual, es especialmente peligroso porque genera respuestas plausibles pero erróneas, difíciles de detectar con los sistemas de supervisión tradicionales. Técnicas como la generación aumentada por recuperación revelan que la ingeniería de datos se convierte en el verdadero cuello de botella del rendimiento de la IA.
+
+En sistemas agénticos, donde la IA no solo responde sino que actúa, el riesgo escala: un contexto incorrecto puede provocar acciones con consecuencias reales. El autor concluye que la comunidad tecnológica debe invertir más en diseñar la capa de contexto que alimenta estos sistemas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

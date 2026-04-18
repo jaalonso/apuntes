@@ -1,0 +1,16 @@
+#+TITLE: Un estudio revela que los chatbots de IA diagnostican erróneamente en más del 80% de los casos médicos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/umQUs][«Un estudio revela que los chatbots de IA diagnostican erróneamente en más del 80% de los casos médicos»]] analiza la fiabilidad de los chatbots de IA en el diagnóstico médico. La investigación demuestra que, en las primeras fases de la evaluación, cuando la información es limitada, los LLM presentan una alta tasa de error.
+
+El estudio evaluó 21 modelos de IA, incluyendo los de OpenAI, Google y Anthropic, utilizando escenarios clínicos. Los resultados indican que la precisión mejora considerablemente al disponer de datos completos, pero el diagnóstico diferencial inicial es problemático.
+
+Las empresas desarrolladoras reconocen las limitaciones y están implementando medidas de seguridad, como redirigir a los usuarios a profesionales médicos. Aunque los modelos especializados muestran potencial, la evaluación clínica completa sigue siendo crucial.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

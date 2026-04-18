@@ -1,0 +1,16 @@
+#+TITLE: China tira los precios de la IA y ofrece códigos abiertos para desbancar a EEUU
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/PNIH9][«China tira los precios de la IA y ofrece códigos abiertos para desbancar a EEUU»]] analiza la creciente competencia entre Estados Unidos y China en el campo de la inteligencia artificial. China está implementando una estrategia agresiva basada en la reducción de costes y la apertura de códigos para facilitar el acceso a la IA en su industria y expandir su red de usuarios.
+
+Esta estrategia, según un informe del Congreso de EE.UU., está dando resultados, acelerando la adopción global de la IA china y consolidando su posición como potencia industrial. El modelo abierto de IA, con plataformas como Hugging Face, permite a China innovar a pesar de las limitaciones en el acceso a hardware avanzado.
+
+El informe subraya que la capacidad de China para generar datos industriales a gran escala, combinada con su enfoque en el mercado interno, le permite reducir su dependencia de la tecnología estadounidense. Esto plantea un desafío para EE.UU., que debe adaptar su estrategia para abordar la acumulación de datos y la innovación en la industria china.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

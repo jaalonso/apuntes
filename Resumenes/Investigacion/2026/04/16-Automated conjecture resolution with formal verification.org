@@ -1,0 +1,12 @@
+#+TITLE: Automated conjecture resolution with formal verification
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/pdf/2604.03789v1][«Automated conjecture resolution with formal verification»]] propone un marco automatizado que integra razonamiento en lenguaje natural y verificación formal para abordar problemas matemáticos de nivel investigador. El sistema se articula en torno a dos agentes: Rethlas, responsable del razonamiento informal, y Archon, encargado de la verificación formal. Juntos resolvieron y verificaron de forma autónoma un problema abierto de álgebra conmutativa planteado en 2014, probando que la cuasi-completitud débil no implica cuasi-completitud en anillos locales noetherianos. La prueba resultante, generada sin intervención humana, fue formalizada en Lean 4, lo que supone un hito significativo en la automatización de la investigación matemática.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

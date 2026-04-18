@@ -1,0 +1,12 @@
+#+TITLE: AI at IMO 2025: a round-up
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://xenaproject.wordpress.com/2025/08/03/ai-at-imo-2025-a-round-up/][«AI at IMO 2025: a round-up»]], Kevin Buzzard (medalla de oro en la IMO de 1987), analiza cómo sistemas de IA como Gemini (Google) y modelos de OpenAI lograron puntuaciones de "medalla de oro" en la Olimpiada Internacional de Matemáticas (IMO), resolviendo 5 de 6 problemas. Sin embargo, la falta de reglas claras para evaluar a la IA generó controversia, ya que las empresas marcaron sus propias soluciones sin verificación independiente. Aunque el avance es notable, el autor critica el sensacionalismo y advierte que estos resultados aún distan de la investigación matemática actual.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

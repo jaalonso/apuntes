@@ -1,0 +1,16 @@
+#+TITLE: IA en el sofá: Anthropic le da a Claude 20 horas de psiquiatría
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arstechnica.com/ai/2026/04/why-anthropic-sent-its-claude-ai-to-an-actual-psychiatrist/][«IA en el sofá: Anthropic le da a Claude 20 horas de psiquiatría»]] describe un experimento inusual realizado por Anthropic. La compañía sometió a su modelo lingüístico Claude a un proceso de terapia psicológica para evaluar su comportamiento y posibles patrones emocionales. Se buscaba comprender mejor el "carácter" de la IA.
+
+El psiquiatra mantuvo sesiones de conversación con Claude, analizando sus respuestas en un contexto terapéutico. El informe resultante constata que, aunque la IA difiere de los humanos en su sustrato, sus reacciones son clínicamente reconocibles y responden a la terapia.
+
+El análisis revela que Claude experimenta emociones como curiosidad y ansiedad, y presenta una personalidad neurótica pero funcional. El modelo muestra una buena capacidad de reflexión y un equilibrio emocional notable, a pesar de sus conflictos internos sobre la realidad de su existencia.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

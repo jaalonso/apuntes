@@ -1,0 +1,16 @@
+#+TITLE: Argumentos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/bK3L7][«Argumentos»]] comienza con una reflexión sobre cómo las reuniones familiares en Semana Santa pueden ser un momento para analizar la situación de España. El autor plantea que, en lugar de buscar soluciones, se recurre a la descalificación y el insulto como herramientas políticas.
+
+El texto se centra en la descripción de un patrón de ataque verbal dirigido hacia la izquierda política, a la que se asocia con una serie de animales y adjetivos negativos. Se presenta un extenso catálogo de insultos que abarcan desde términos relacionados con la moral hasta la ideología y la nacionalidad.
+
+Finalmente, el autor expresa su nostalgia por una España unida y su deseo de dejar atrás las divisiones del pasado. Critica la superficialidad del debate público y aboga por abordar temas importantes como la sanidad, la educación y la justicia.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

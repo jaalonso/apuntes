@@ -1,0 +1,16 @@
+#+TITLE: Claude Mythos y el Proyecto Glasswing: por qué un superhacker de IA tiene al mundo tecnológico en alerta
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://theconversation.com/claude-mythos-and-project-glasswing-why-an-ai-superhacker-has-the-tech-world-on-alert-280374][«Claude Mythos y el Proyecto Glasswing: por qué un superhacker de IA tiene al mundo tecnológico en alerta»]]  describe el desarrollo de Mythos, un nuevo modelo de IA de Anthropic con una capacidad inusual para identificar vulnerabilidades en software. La compañía ha decidido no lanzarlo públicamente debido a los riesgos potenciales que implica su uso malicioso.
+
+Ante esta situación, Anthropic ha iniciado Project Glasswing, una colaboración con empresas líderes en tecnología y finanzas para utilizar Mythos en la mejora de la ciberseguridad. El objetivo es fortalecer las defensas antes de que capacidades similares estén disponibles para actores con intenciones dañinas.
+
+Mythos ha demostrado su eficacia al encontrar fallos de seguridad en sistemas operativos como OpenBSD y Linux, algunos de los cuales llevaban décadas sin ser detectados. Este avance plantea un cambio en la ciberseguridad, automatizando la búsqueda de vulnerabilidades y exigiendo una mayor atención a la higiene digital por parte de los usuarios.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Sobre la resolución de problemas de Erdős usando inteligencia artificial generativa
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En [[https://francis.naukas.com/2026/01/23/sobre-la-resolucion-de-problemas-de-erdos-usando-inteligencia-artificial-generativa/][«Sobre la resolución de problemas de Erdős usando inteligencia artificial generativa»]], Francisco R. Villatoro ofrece una visión panorámica en español sobre las aplicaciones de la IA en matemáticas. El artículo analiza cómo las IAs generativas están resolviendo problemas del célebre matemático Paul Erdős, aunque advierte contra el exceso de optimismo ante estos avances recientes.
+
+El autor explica la metodología "vibe mathematics": usar IA para generar demostraciones, formalizarlas en Lean con Aristotle para verificarlas automáticamente, y repetir hasta obtener una correcta. Sin embargo, señala que la mayoría de intentos fracasan y que incluso demostraciones verificadas pueden resolver problemas distintos al original, como ocurrió con David Budden y Navier-Stokes.
+
+Villatoro concluye que aunque el futuro es prometedor para problemas rutinarios, los grandes desafíos matemáticos requieren creatividad más allá de las IAs actuales. De los 1136 problemas de Erdős catalogados, 469 están resueltos, muchos gracias a la colaboración entre matemáticos humanos e IA, pero la tasa de éxito autónomo de las IAs sigue siendo baja (1-2%).
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

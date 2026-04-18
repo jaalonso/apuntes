@@ -1,0 +1,16 @@
+#+TITLE: ¿Es la IA el mayor robo de arte de la historia?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.theguardian.com/books/2026/apr/12/is-ai-the-greatest-art-heist-in-history][«¿Es la IA el mayor robo de arte de la historia?»]] expone la preocupación de la artista Molly Crabapple sobre el uso de la inteligencia artificial generativa y su impacto en el mundo del arte. En 2022, Crabapple detectó imitaciones de su obra creadas por IA, descubriendo que estas se alimentaban de imágenes extraídas de internet sin consentimiento.
+
+El texto describe cómo las empresas tecnológicas justifican esta práctica, argumentando que la ley de derechos de autor obstaculiza el progreso. La autora denuncia la falta de consideración hacia los artistas y la narrativa de inevitabilidad que promueven, señalando que el futuro está determinado por decisiones políticas y económicas.
+
+Crabapple compara la situación actual con el movimiento ludita, destacando la lucha por la supervivencia de los artistas frente a la automatización. Advierte que la IA no es progreso, sino una herramienta para controlar y eliminar al trabajador humano, ofreciendo una visión distópica del futuro si no se toman medidas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

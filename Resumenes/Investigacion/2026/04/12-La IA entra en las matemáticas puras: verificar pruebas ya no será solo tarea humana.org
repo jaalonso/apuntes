@@ -1,0 +1,16 @@
+#+TITLE: La IA entra en las matemáticas puras: verificar pruebas ya no será solo tarea humana
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/mVSle][«La IA entra en las matemáticas: verificar pruebas ya no será solo tarea humana»]] describe cómo la verificación de pruebas matemáticas ha sido históricamente lenta y costosa, como ilustra el caso de Thomas Hales, cuya prueba del empaquetamiento esférico tardó más de una década en validarse. La IA promete aliviar este cuello de botella transformando pruebas escritas en lenguaje formal verificable.
+
+Diversas herramientas compiten en este espacio: AlphaEvolve genera pruebas, Aristotle corrige y formaliza pruebas humanas en Lean, y Gauss formalizó en semanas resultados que antes requerían años. Sin embargo, los modelos fallan al transferir conocimiento entre problemas y carecen del sentido estético del matemático experto.
+
+Si estas limitaciones se superan, una IA capaz de retener y conectar todo el corpus matemático podría revolucionar no solo las matemáticas puras, sino también la física, la economía y otros campos cuantitativos, desplazando el reto humano hacia encontrar los problemas que valga la pena resolver.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

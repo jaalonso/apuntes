@@ -1,0 +1,16 @@
+#+TITLE: La IA entrenada en el genocidio palestino contribuye a los avances de Israel en Líbano e Irán
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.publico.es/internacional/ia-entrenada-genocidio-palestino-contribuye-avances-israel-libano-e-iran.html][«La IA entrenada en el genocidio palestino contribuye a los avances de Israel en Líbano e Irán»]] detalla cómo Israel ha desarrollado inteligencia artificial para la vigilancia y selección de objetivos, comenzando con la recopilación de datos sobre la población palestina. Esta tecnología, inicialmente utilizada en Cisjordania y Gaza, ha evolucionado hasta convertirse en una sofisticada "Fábrica de datos operacionales e IA".
+
+El artículo se centra en la expansión de esta fábrica a nuevos frentes, como Irán y Líbano, y en la colaboración público-privada que ha hecho posible su desarrollo. Se destaca el papel de la Unidad 8200 del ejército israelí y la complicidad de empresas tecnológicas como Microsoft en la vigilancia masiva.
+
+Finalmente, el artículo revela que Gaza ha servido como un "laboratorio militar" para Israel, donde se prueban y refinan tecnologías de represión que luego se comercializan a otros países. Esta práctica se remonta a décadas atrás, con la venta de armamento y técnicas de control a regímenes autoritarios en todo el mundo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

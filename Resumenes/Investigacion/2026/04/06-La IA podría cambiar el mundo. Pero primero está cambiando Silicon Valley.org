@@ -1,0 +1,16 @@
+#+TITLE: La IA podría cambiar el mundo. Pero primero está cambiando Silicon Valley
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/3e8P2][«La IA podría cambiar el mundo. Pero primero está cambiando Silicon Valley»]] analiza cómo la IA generativa está transformando profundamente al propio sector tecnológico, el mismo que impulsó su desarrollo. Las grandes empresas llevan años prediciendo que la IA cambiaría la medicina, el derecho o las finanzas, pero la disrupción más visible ocurre en Silicon Valley.
+
+Las compañías tecnológicas despiden masivamente alegando ganancias de productividad gracias a la IA. Block eliminó el 40% de su plantilla, Atlassian recortó el 10% y en EE.UU. desaparecieron 150.000 empleos tech entre 2022 y 2025. Las startups, mientras tanto, crecen con equipos reducidos apoyados en agentes de IA.
+
+El modelo de negocio dominante en el software —el cobro por número de usuarios— también está en entredicho. Las empresas experimentan con nuevas fórmulas de precios, pero ninguna ha triunfado. La incertidumbre ha borrado tres billones de dólares en valor bursátil del sector.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

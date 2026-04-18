@@ -1,0 +1,16 @@
+#+TITLE: La IA no ha roto la educación, la ha dejado en evidencia
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/ElTfA][«La IA no ha roto la educación, la ha dejado en evidencia»]] analiza cómo la inteligencia artificial ha puesto de manifiesto las carencias de un sistema educativo que históricamente ha valorado más el rendimiento que la comprensión. Se argumenta que la IA no es la causa del problema, sino un catalizador que expone una realidad preexistente.
+
+El autor explica que la IA puede generar resultados impresionantes en términos de fluidez y coherencia, pero carece de la capacidad de formular preguntas originales y ejercer el juicio crítico. Esta diferencia entre producir resultados y formar un juicio es fundamental, y la universidad debe enfocarse en cultivar esta última habilidad.
+
+El artículo propone un rediseño educativo que priorice la escritura en clase, la defensa oral de argumentos y la transparencia en el uso de la IA. El mercado laboral demanda cada vez más profesionales con juicio crítico y experiencia, habilidades que la IA no puede reemplazar, por lo que la universidad debe reafirmar su propósito de formar mentes capaces de pensar por sí mismas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

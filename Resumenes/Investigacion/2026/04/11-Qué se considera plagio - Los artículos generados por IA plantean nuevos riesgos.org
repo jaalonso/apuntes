@@ -1,0 +1,16 @@
+#+TITLE: ¿Qué se considera plagio? Los artículos generados por IA plantean nuevos riesgos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/ainIC][«¿Qué se considera plagio? Los artículos generados por IA plantean nuevos riesgos»]] explora el auge de la inteligencia artificial en la investigación científica, ejemplificado por la herramienta "The AI Scientist". Esta IA genera investigaciones completas, desde la formulación de ideas hasta la redacción de artículos, marcándolos como generados por IA. Sin embargo, este avance plantea nuevas preguntas sobre la originalidad y el plagio en la ciencia.
+
+El núcleo del debate surge de un estudio que identifica casos en los que manuscritos generados por IA utilizan ideas de otros investigadores sin la debida atribución. Si bien no se trata de copia literal, los investigadores argumentan que esto constituye un "plagio de ideas" difícil de detectar y verificar. El equipo detrás de "The AI Scientist" rechaza estas acusaciones, defendiendo la originalidad de su trabajo.
+
+Finalmente, el artículo destaca los desafíos para la verificación de la originalidad en la investigación generada por IA. El gran volumen de publicaciones científicas, la dificultad de capturar la esencia de una idea con palabras clave y las limitaciones de las herramientas de detección de plagio tradicionales complican la tarea. Se enfatiza la necesidad de mejorar los métodos de verificación y la importancia de la validación humana en la investigación asistida por IA.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

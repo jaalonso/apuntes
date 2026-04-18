@@ -1,0 +1,16 @@
+#+TITLE: Meredith Whittaker, presidenta de Signal, en una cruzada contra la vigilancia masiva
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/Pyjr4][«Meredith Whittaker, presidenta de Signal, en una cruzada contra la vigilancia masiva»]] se comenta que Meredith Whittaker, cofundadora del AI Now Institute y actual presidenta de Signal, cuestiona la visión predominante sobre la inteligencia artificial. Para ella, la IA no es una tecnología transformadora, sino una extensión del modelo económico de las grandes corporaciones, basado en la recopilación masiva de datos y la publicidad dirigida.
+
+Whittaker relata su experiencia en Google, donde se enfrentó a la empresa por proyectos como Maven y denunció represalias por su activismo en ética de la IA. Esta experiencia la llevó a abandonar Google y a buscar alternativas que prioricen la privacidad y la protección de los usuarios, como Signal.
+
+Actualmente, Whittaker aboga por una regulación más estricta de la IA, modelos más pequeños y una separación de las infraestructuras tecnológicas. Denuncia que la IA está al alcance de una élite, mientras que la mayoría de las personas son tratadas como "sujetos" de experimentación, y llama a oponerse a la visión del mundo impuesta por las grandes empresas tecnológicas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

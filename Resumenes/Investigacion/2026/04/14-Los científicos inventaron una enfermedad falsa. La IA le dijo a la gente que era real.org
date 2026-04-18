@@ -1,0 +1,16 @@
+#+TITLE: Los científicos inventaron una enfermedad falsa. La IA le dijo a la gente que era real
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.nature.com/articles/d41586-026-01100-y][«Los científicos inventaron una enfermedad falsa. La IA le dijo a la gente que era real»]] describe un experimento en el que una investigadora creó una enfermedad inexistente, "bixonimania", para probar la fiabilidad de los LLMs. Publicó estudios falsos en un servidor de preprints y observó cómo los LLMs rápidamente adoptaron la invención como una condición médica real.
+
+El experimento demostró que los LLMs son vulnerables a la desinformación, especialmente cuando se presenta en un formato profesional. Los sistemas de IA, como Copilot, Gemini y ChatGPT, ofrecieron información sobre "bixonimania" y sugirieron tratamientos, lo que plantea serias preocupaciones sobre la seguridad de la información médica generada por IA.
+
+La investigación reveló que la desinformación no solo afectó a los LLMs, sino que también llegó a la literatura científica revisada por pares. Un estudio publicado en Cureus citó los estudios falsos, lo que demuestra que algunos investigadores no verifican adecuadamente las fuentes generadas por IA. La revista retiró el artículo tras la investigación.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Realmente no sabemos cómo funciona la IA. Eso es un problema
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/a5c3T][«Realmente no sabemos cómo funciona la IA. Eso es un problema»]] explora la evolución de la inteligencia artificial, desde los sistemas programados directamente hasta las complejas redes neuronales actuales.  Se destaca cómo el aumento de la capacidad de la IA ha venido acompañado de una pérdida de transparencia, generando el problema de la "caja negra".
+
+El núcleo del debate reside en la necesidad de comprender cómo la IA llega a sus conclusiones, especialmente en ámbitos sensibles. Se presenta el campo de la interpretabilidad como un esfuerzo por desentrañar los procesos internos de la IA, tratándola como un fenómeno a estudiar en profundidad.
+
+Finalmente, el artículo ilustra los desafíos y las posibles soluciones a través del caso de Prima Mente, una empresa que utiliza IA para diagnosticar Alzheimer. Aunque la IA ha identificado posibles biomarcadores, la falta de transparencia exige una validación científica rigurosa antes de su aplicación clínica.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

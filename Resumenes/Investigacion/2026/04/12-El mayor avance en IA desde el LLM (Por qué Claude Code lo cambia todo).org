@@ -1,0 +1,16 @@
+#+TITLE: El mayor avance en IA desde el LLM (Por qué Claude Code lo cambia todo)
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://garymarcus.substack.com/p/the-biggest-advance-in-ai-since-the][«El mayor avance en IA desde el LLM (Por qué Claude Code lo cambia todo)»]] analiza el reciente lanzamiento de Claude Code, un innovador agente de codificación desarrollado por Anthropic. Se destaca que este sistema representa un salto cualitativo en el campo de la IA, superando las capacidades de los modelos de lenguaje tradicionales.
+
+El núcleo de Claude Code se basa en la IA simbólica clásica, utilizando una estructura condicional compleja para el análisis de patrones. Este enfoque híbrido, que combina redes neuronales con técnicas simbólicas, permite una mayor precisión y fiabilidad en la generación de código.
+
+El autor celebra este avance como una confirmación de sus propias investigaciones y de la importancia de la IA neurosimbólica. A pesar de sus promesas, el artículo subraya que Claude Code es solo el primer paso hacia una IA más robusta, que debe incorporar conocimiento, razonamiento y una comprensión profunda del mundo real.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

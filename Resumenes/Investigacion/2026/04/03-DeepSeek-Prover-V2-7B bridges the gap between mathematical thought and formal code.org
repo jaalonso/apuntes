@@ -1,0 +1,16 @@
+#+TITLE: DeepSeek-Prover-V2-7B bridges the gap between mathematical thought and formal code
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://aichina.news/blog/discovery-deepseek-prover-v2-7b-bridges-the-gap-between-mathematical-90951m/][«DeepSeek-Prover-V2-7B bridges the gap between mathematical thought and formal code»]] presenta [[https://huggingface.co/deepseek-ai/DeepSeek-Prover-V2-7B][DeepSeek-Prover-V2-7B]], un modelo diseñado para resolver uno de los retos más difíciles de la IA: demostrar teoremas matemáticos de forma rigurosa y verificable por ordenador mediante [[https://lean-lang.org/][Lean 4]].
+
+El modelo emplea una estrategia de descomposición recursiva que divide problemas complejos en subtareas manejables. Con solo 7B parámetros, aprovecha conocimiento destilado de su versión mayor de 671B y logra puntuaciones destacadas en los bancos de pruebas miniF2F y PutnamBench.
+
+Al ser un modelo abierto de 7B, puede ejecutarse en ordenadores personales con hardware modesto, lo que lo pone al alcance de investigadores individuales interesados en el razonamiento automático y la verificación formal con Lean 4.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

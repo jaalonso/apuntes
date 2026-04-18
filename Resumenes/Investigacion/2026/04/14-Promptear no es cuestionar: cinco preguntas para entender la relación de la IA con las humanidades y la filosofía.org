@@ -1,0 +1,16 @@
+#+TITLE: Promptear no es cuestionar: cinco preguntas para entender la relación de la IA con las humanidades y la filosofía
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/GWVbe][«Promptear no es cuestionar: cinco preguntas para entender la relación de la IA con las humanidades y la filosofía»]] explora la relevancia de las humanidades en la era de la inteligencia artificial. Destaca que la IA, si bien optimiza procesos, es incapaz de definir fines o responder al "para qué". Las humanidades, por tanto, son esenciales para orientar el poder de la IA y proteger lo que nos hace humanos.
+
+El texto profundiza en el papel específico de la filosofía, que introduce la duda y el cuestionamiento en un mundo obsesionado con la eficiencia. La filosofía no busca respuestas inmediatas, sino que fomenta la autonomía del pensamiento y la resistencia a la delegación de juicio en algoritmos.
+
+Finalmente, el artículo subraya la importancia de educar en el arte de preguntar. En un contexto de sobreabundancia informativa, el pensamiento crítico y la capacidad de formular preguntas relevantes son más valiosos que nunca, evitando una brecha intelectual entre quienes interrogan la información y quienes simplemente la consumen.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

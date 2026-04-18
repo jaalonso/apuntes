@@ -1,0 +1,16 @@
+#+TITLE: Les IA vont-elles remplacer les mathématiciens?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo de [[http://archive.today/l9RsJ][«Les IA vont-elles remplacer les mathématiciens?»]] se explora el rápido avance de la IA en matemáticas. Sistemas como Gemini o AlphaProof ya resuelven problemas de olimpiadas a nivel de medalla de oro y superan exámenes complejos. Este progreso, impulsado por entrenamiento masivo y nuevos modelos de razonamiento, plantea si podrán igualar la creatividad humana.
+
+Sin embargo, el artículo matiza estos logros. Las IA aún son inconsistentes, cometen errores en problemas simples y carecen de la comprensión profunda y creatividad necesarias para la investigación de vanguardia. Expertos coinciden en que su pensamiento es mecánico y les falta la visión intuitiva para manejar conceptos matemáticos abstractos, necesitando posiblemente una nueva arquitectura.
+
+El futuro no es de reemplazo, sino de colaboración. La IA se vislumbra como una herramienta poderosa que automatizará tareas tediosas, ayudará a verificar pruebas e incluso podrá sugerir nuevas líneas de investigación. Los matemáticos podrían usar estas herramientas para aumentar su productividad y explorar problemas de una manera antes imposible, transformando así la profesión.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

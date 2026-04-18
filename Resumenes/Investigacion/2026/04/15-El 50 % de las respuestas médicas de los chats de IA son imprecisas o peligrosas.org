@@ -1,0 +1,16 @@
+#+TITLE: El 50 % de las respuestas médicas de los chats de IA son imprecisas o peligrosas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.agenciasinc.es/Noticias/El-50-de-las-respuestas-medicas-de-los-chats-de-IA-son-imprecisas-o-peligrosas][«El 50 % de las respuestas médicas de los chats de IA son imprecisas o peligrosas»]] presenta un estudio que analiza la fiabilidad de los chatbots de IA como fuentes de información médica. Investigadores sometieron a prueba cinco modelos líderes con 250 preguntas sobre temas de salud, buscando evaluar la precisión de sus respuestas. Los resultados evidencian una preocupante falta de fiabilidad en estas herramientas.
+
+El estudio determinó que la mitad de las respuestas proporcionadas por los chatbots contenían imprecisiones o eran potencialmente peligrosas. Grok, de xAI, fue el modelo con el peor desempeño, mientras que Gemini, de Google, obtuvo mejores resultados, aunque también con fallos significativos. La complejidad del lenguaje utilizado por estos sistemas dificulta su comprensión para el público general.
+
+Finalmente, la investigación destaca que los chatbots carecen de la capacidad de verificar la información y a menudo inventan citas y referencias. Los autores enfatizan la necesidad de educación pública, formación profesional y regulación para evitar la propagación de desinformación y proteger la salud de los usuarios que recurren a estas herramientas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

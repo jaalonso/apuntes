@@ -1,0 +1,16 @@
+#+TITLE: Posible líder de la gigafactoría de IA española
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://www.lavanguardia.com/economia/20260326/11499272/francesc-fajula-perfila-liderar-gigafactoria-ia-espanola.html][«Posible líder de la gigafactoría de IA española»]] se comenta que el consorcio impulsor de la gigafactoría de IA española busca un líder experimentado para el proyecto. La iniciativa, clave para la soberanía tecnológica europea, compite con 75 candidatos por financiación de Bruselas. Se prioriza un perfil con trayectoria en innovación y gestión.
+
+El proyecto se articula en dos sedes: Móra la Nova y San Fernando de Henares. Telefónica, ACS, Nvidia y el Ministerio de Transformación Digital lideran una inversión de 4.000 millones. España destaca por su energía renovable y precios competitivos.
+
+Francesc Fajula, director de Mobile World Capital Barcelona, emerge como el candidato más sólido. Su experiencia en comercio electrónico y sector financiero lo posiciona como ideal para dirigir esta infraestructura estratégica y consolidar el papel de España en el ecosistema de IA.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

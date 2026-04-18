@@ -1,0 +1,16 @@
+#+TITLE: AI and Isabelle: Experiences and perspectives
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El vídeo [[https://youtu.be/-Eewz-DJovU][«AI and Isabelle: Experiences and perspectives»]] recoge la experiencia de Lawrence Paulson con herramientas de inteligencia artificial aplicadas al demostrador de teoremas Isabelle. El punto de partida es el hito logrado por Josef Urban, quien formalizó casi un libro completo de topología avanzada introduciendo su código LaTeX en modelos como Claude y ChatGPT, y obtuvo más de 130.000 líneas verificadas.
+
+Paulson detalla a continuación sus propios experimentos: resultados prometedores en la formalización del teorema de metrización de Urysohn y en la traducción del teorema de Feuerbach, pero también dificultades ante problemas que exigen analizar diagramas o soportar largos tiempos de espera. El principal defecto que señala es la verbosidad excesiva de las demostraciones generadas, si bien apunta que herramientas como Sledgehammer permiten depurarlas.
+
+El autor concluye que la formalización matemática asistida por IA es hoy considerablemente más ágil, pero subraya que las demostraciones deben ser legibles y sometidas a revisión humana. Aceptar a ciegas los resultados de la máquina sería tan arriesgado como confiar en código ensamblador sin examinarlo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

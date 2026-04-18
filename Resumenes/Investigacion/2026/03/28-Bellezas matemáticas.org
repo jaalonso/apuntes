@@ -1,0 +1,16 @@
+#+TITLE: Bellezas matemáticas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/42dWj][«Bellezas matemáticas»]] reflexiona sobre la belleza inherente a las matemáticas y su paralelismo con las artes. Se argumenta que tanto científicos como poetas buscan la elegancia y la simplicidad en sus creaciones, utilizando un lenguaje estético común. La oralidad como origen de la poesía se contrasta con la necesidad de la escritura para la prosa.
+
+El artículo explora la importancia de las herramientas básicas, como el papel y el lápiz, en el proceso creativo. Se destaca la libertad que ofrecen estos instrumentos frente a la complejidad tecnológica actual, ejemplificando con la figura del escritor y el dibujante. Se menciona la Olimpiada Matemática Internacional como un espacio donde la resolución de problemas se asemeja a la creación artística.
+
+El autor critica la creciente brecha entre las culturas humanística y científica, a pesar de sus resonancias. Se cuestiona el uso excesivo de la inteligencia artificial para resolver problemas que pueden ser abordados de manera más eficiente por la inteligencia humana, resaltando el valor de la perseverancia y la iluminación en el proceso creativo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

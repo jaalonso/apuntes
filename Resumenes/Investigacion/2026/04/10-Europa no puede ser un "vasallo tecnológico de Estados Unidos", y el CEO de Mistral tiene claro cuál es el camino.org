@@ -1,0 +1,18 @@
+#+TITLE: Europa no puede ser un "vasallo tecnológico de Estados Unidos", y el CEO de Mistral tiene claro cuál es el camino
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/EOhmw][«Europa no puede ser un "vasallo tecnológico de Estados Unidos", y el CEO de Mistral tiene claro cuál es el camino»]] analiza la estrategia de Mistral para evitar que Europa sea un vasallo tecnológico de Estados Unidos. La compañía francesa busca liderar la IA generativa mediante una hoja de ruta centrada en la soberanía y la creación de infraestructura propia.
+
+El camino es difícil porque el 80% de la infraestructura digital europea depende de proveedores extranjeros. Además, la excesiva regulación y la lentitud burocrática frenan la adopción de la IA en las empresas y pymes comunitarias.
+
+Para solucionarlo, Mistral ha captado 830 millones de dólares en deuda para construir centros de datos en Francia y Suecia. Esta inversión busca dotar a la región de capacidad de cómputo real frente a las Big Tech.
+
+¿Es posible alcanzar la soberanía tecnológica dependiendo de chips de NVIDIA?
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

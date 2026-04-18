@@ -1,0 +1,16 @@
+#+TITLE: La IA cruza una nueva frontera que pone en riesgo el futuro de la humanidad
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/6BS2y][«La IA cruza una nueva frontera que pone en riesgo el futuro de la humanidad»]] analiza cómo la inteligencia artificial está revolucionando la investigación biológica. La IA, a través de modelos como GPT-5, puede diseñar y ejecutar experimentos de forma autónoma, acelerando el descubrimiento científico y reduciendo costes en áreas como el diseño de proteínas.
+
+Este avance, denominado "biología programable", implica un cambio de paradigma en la investigación, pasando de la observación a la ingeniería. Sin embargo, esta capacidad también plantea serias preocupaciones sobre seguridad, ya que las herramientas de IA podrían ser utilizadas para fines maliciosos, como la creación de armas biológicas.
+
+Las regulaciones actuales no están preparadas para gestionar estos riesgos, y existe una brecha creciente entre las capacidades de la IA y los sistemas de gobernanza. Se proponen medidas como el acceso controlado y la autorregulación por parte de las empresas, pero la necesidad de una respuesta política integral sigue siendo urgente.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

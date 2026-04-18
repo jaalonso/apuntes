@@ -1,0 +1,16 @@
+#+TITLE: De repente, todos los trabajos que entregan los alumnos en las universidades parecen el mismo trabajo. Hay una sospechosa
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/robotica-e-ia/chatgpt-dime-que-opinar-ia-esta-convirtiendo-a-universitarios-alumno][«De repente, todos los trabajos que entregan los alumnos en las universidades parecen el mismo trabajo. Hay una sospechosa»]] analiza cómo la inteligencia artificial está transformando la educación universitaria. Los alumnos utilizan chatbots para redactar trabajos y responder en clase. Esta tendencia genera una preocupante homogeneización en la expresión y el razonamiento del alumnado.
+
+El uso excesivo provoca una "rendición cognitiva" y la pérdida de diversidad intelectual. Los sesgos de los modelos IA imponen visiones occidentales y producen alucinaciones. Esto impide que los estudiantes desarrollen un pensamiento crítico propio y autónomo.
+
+La solución no reside en la prohibición, sino en la educación crítica. Es urgente enseñar a los alumnos a usar la IA como apoyo y no como sustituto del razonamiento. ¿Deberían las universidades rediseñar sus títulos para evaluar la capacidad crítica humana frente a la IA?
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

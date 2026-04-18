@@ -1,0 +1,12 @@
+#+TITLE: AI for mathematical discovery (symbolic, neural and neuro-symbolic methods)
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En la conferencia [[https://youtu.be/rLr6VCLlq64][«AI for mathematical discovery (symbolic, neural and neuro-symbolic methods)»]] se muestra la aplicación de los LLMs en la generación de lemas para asistentes de pruebas como Lean, Isabelle y Coq. Se propone un enfoque neuro-simbólico donde los LLMs sugieren lemas por analogía, mientras que herramientas simbólicas aseguran su corrección y novedad. El objetivo es desarrollar una herramienta de conjetura genérica que asista a los matemáticos en la formalización de una amplia gama de teorías matemáticas, fortaleciendo así tanto la interacción humana como las capacidades de los demostradores automáticos de teoremas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

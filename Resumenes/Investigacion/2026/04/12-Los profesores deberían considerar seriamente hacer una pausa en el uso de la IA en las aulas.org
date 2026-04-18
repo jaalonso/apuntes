@@ -1,0 +1,16 @@
+#+TITLE: Los profesores deberían considerar seriamente hacer una pausa en el uso de la IA en las aulas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://thehill.com/opinion/education/5822215-court-rulings-ai-education/][«Los profesores deberían considerar seriamente hacer una pausa en el uso de la IA en las aulas»]] expone la preocupación por la rápida adopción de la inteligencia artificial en el ámbito educativo. El autor argumenta que, al igual que ocurrió con las redes sociales, se está implementando una tecnología sin evaluar adecuadamente sus posibles efectos negativos en el desarrollo de los estudiantes.
+
+El texto destaca la falta de investigación sobre el impacto de la IA en áreas clave como el plagio, los derechos de autor y la adquisición de habilidades esenciales. Además, advierte sobre el riesgo de que la IA reemplace a los profesores, deshumanizando la experiencia educativa y afectando el desarrollo socioemocional de los alumnos.
+
+Finalmente, el autor insta a los profesores a aprender de los errores del pasado y a exigir una moratoria en la implementación de la IA hasta que se realicen estudios independientes que evalúen su impacto real. Subraya la importancia de proteger el futuro de la educación y evitar repetir los mismos errores con una nueva tecnología.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

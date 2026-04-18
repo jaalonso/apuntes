@@ -1,0 +1,16 @@
+#+TITLE: La agentificación de la investigación científica
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/abs/2604.14718v1][«La agentificación de la investigación científica»]] analiza cómo la inteligencia artificial, especialmente los modelos de lenguaje grande (LLMs), está redefiniendo la investigación científica. Desde una perspectiva histórica, compara el impacto de la IA con transformaciones previas como el surgimiento de la vida y el lenguaje humano, destacando su capacidad para replicar y compartir el conocimiento tácito a gran escala.
+
+La ciencia enfrenta desafíos como la pérdida de conocimiento práctico, la limitación en la colaboración y la carga administrativa. La IA ofrece soluciones al automatizar tareas repetitivas, actuar como colaboradora en proyectos y facilitar la integración entre disciplinas. Sin embargo, su potencial depende de superar obstáculos como la falta de datos especializados, la necesidad de aprendizaje continuo y la diversidad de ideas.
+
+El futuro apunta a una "agentificación" de la investigación, donde la IA no solo asista, sino que participe activamente en la generación y comunicación del conocimiento. Esto incluye la publicación de "agentes científicos" interactivos, que preserven el proceso de investigación y permitan una evaluación más dinámica y colaborativa, transformando así la estructura misma de la innovación.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Con la IA surge el síndrome FOBO, o el miedo a quedar obsoleto
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/b0WNA][«Con la IA surge el síndrome FOBO, o el miedo a quedar obsoleto»]] analiza la aparición de nuevos trastornos de ansiedad, como el FOBO, que ha evolucionado de significar "miedo a perder opciones" a "miedo a quedar obsoleto" debido al avance de la inteligencia artificial. Este cambio refleja una creciente preocupación por el impacto de la IA en el mercado laboral.
+
+El desarrollo de la IA generativa amenaza el 3.8% del empleo en Francia, con un potencial de 5 millones de puestos en riesgo en los próximos años. Esta situación genera ansiedad entre los trabajadores del sector tecnológico, quienes incluso temen ser reemplazados por las herramientas que ellos mismos crean.
+
+El artículo profundiza en la raíz filosófica de esta ansiedad, recurriendo a la obra de Günther Anders. Anders argumenta que la IA no solo amenaza el empleo, sino que genera un sentimiento de inferioridad y una "vergüenza promética" al percibir la superioridad de las máquinas y su perfección artificial.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

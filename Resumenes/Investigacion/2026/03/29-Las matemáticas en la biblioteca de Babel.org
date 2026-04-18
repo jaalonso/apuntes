@@ -1,0 +1,16 @@
+#+TITLE: Las matemáticas en la biblioteca de Babel
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.daniellitt.com/blog/2026/2/20/mathematics-in-the-library-of-babel][«Las matemáticas en la biblioteca de Babel»]] explora el rápido progreso de la IA en el campo de las matemáticas. Inicialmente escéptico, el autor relata cómo los LLMs, han superado sus expectativas, demostrando capacidad para resolver problemas complejos y ofrecer pruebas de teoremas.
+
+El texto analiza el [[https://1stproof.org/about.html][proyecto "First Proof"]], una iniciativa que evalúa la utilidad de la IA en la investigación matemática. Los resultados, con la resolución exitosa de entre 6 y 8 problemas de 10, sugieren que la IA puede ser una herramienta valiosa para los matemáticos, aunque aún con margen de error.
+
+El autor reflexiona sobre el futuro de la investigación matemática en un mundo donde la IA puede generar resultados de alta calidad de forma autónoma. Anticipa que la IA se convertirá en un colaborador esencial, pero que el papel del matemático humano seguirá siendo crucial para la creatividad, la validación y la exploración de nuevas fronteras del conocimiento.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

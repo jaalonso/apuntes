@@ -1,0 +1,16 @@
+#+TITLE: La paradoja rendimiento-aprendizaje: cuando la IA mejora las notas pero deteriora el conocimiento
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://blog.iaforteachers.com/la-paradoja-rendimiento-aprendizaje-cuando-la-ia-mejora-las-notas-pero-deteriora-el-conocimiento-2/][«La paradoja rendimiento-aprendizaje: cuando la IA mejora las notas pero deteriora el conocimiento»]] comenta un [[https://www.oecd.org/content/dam/oecd/en/publications/reports/2026/01/oecd-digital-education-outlook-2026_940e0dd8/062a7394-en.pdf][informe reciente de la OCDE]] revela un hallazgo preocupante: aunque el uso de herramientas como ChatGPT eleva las calificaciones inmediatas de los estudiantes, este beneficio viene acompañado de un deterioro en el aprendizaje significativo y duradero. Los resultados cuestionan la relación directa entre rendimiento académico y conocimiento real.
+
+La investigación demuestra que los alumnos que confían excesivamente en la IA para resolver tareas experimentan un descenso notable en su desempeño cuando se les evalúa sin apoyo tecnológico. Este patrón sugiere que la herramienta se emplea como sustituto del esfuerzo intelectual, generando una falsa sensación de dominio del tema.
+
+La respuesta no radica en prohibir la IA, sino en integrarla de manera pedagógica, utilizando su potencial como apoyo ("andamiaje") en lugar de como reemplazo ("prótesis") del pensamiento crítico. El estudio subraya la necesidad de evaluar no solo los resultados, sino también el proceso de aprendizaje y la capacidad de aplicar conocimientos en nuevos contextos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

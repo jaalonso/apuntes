@@ -1,0 +1,16 @@
+#+TITLE: Mercor, el gigante de los datos para entrenar a la IA, estaría buscando comprarte tu trabajo
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://es.gizmodo.com/mercor-el-gigante-de-los-datos-para-entrenar-a-la-ia-estaria-buscando-comprarte-tu-trabajo-2000230236][«Mercor, el gigante de los datos para entrenar a la IA, estaría buscando comprarte tu trabajo»]] revela que Mercor, gigante del entrenamiento de IA, contacta a profesionales de distintas industrias para comprarles material de trabajo ya realizado, como escenas en 4D o datos de seguimiento de movimiento, a cambio de dinero.
+
+La práctica genera serias dudas legales: ese tipo de trabajo pertenece habitualmente al empleador original, y los trabajadores están sujetos a acuerdos de confidencialidad. Mercor niega comprar propiedad intelectual, pero sus propios mensajes contradicen esa postura.
+
+A esto se suma que la compañía sufrió recientemente una filtración masiva de 4 TB de datos sensibles, lo que añade un riesgo considerable para quienes consideren venderle material potencialmente protegido.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

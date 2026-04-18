@@ -1,0 +1,12 @@
+#+TITLE: The story of Erdős problem #1026
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://terrytao.wordpress.com/2025/12/08/the-story-of-erdos-problem-126/][«The story of Erdős problem #1026»]], Terence Tao detalla la resolución de un problema de 1975 mediante una colaboración híbrida entre matemáticos y herramientas de IA. El proceso incluyó la formulación de conjeturas numéricas y pruebas formales en Lean generadas por sistemas como AlphaEvolve. La solución final se logró al vincular el reto con un problema de empaquetamiento de cuadrados y localizar, mediante una búsqueda profunda con IA, un teorema reciente en la literatura que completó la demostración.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

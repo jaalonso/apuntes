@@ -1,0 +1,16 @@
+#+TITLE: OpenAI respalda un proyecto de ley que limitaría la responsabilidad por muertes masivas o desastres financieros provocados por la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/V46ZG][«OpenAI respalda un proyecto de ley que limitaría la responsabilidad por muertes masivas o desastres financieros provocados por la IA»]] expone el apoyo de OpenAI al proyecto de ley SB 3444 de Illinois. Esta normativa eximiría de responsabilidad a los desarrolladores de modelos avanzados ante catástrofes masivas. Solo se exigiría la publicación de informes de seguridad y la ausencia de dolo.
+
+La empresa busca evitar un mosaico de leyes estatales divergentes que frenen la innovación estadounidense. OpenAI defiende que un marco regulatorio armonizado es esencial. Sin embargo, esta postura representa un giro agresivo en su estrategia legislativa habitual frente a la responsabilidad civil.
+
+Expertos advierten que la propuesta tiene pocas probabilidades de prosperar en Illinois. Encuestas indican que el 90 % de la población rechaza eximir a las tecnológicas de su responsabilidad. El debate subraya la tensión entre la seguridad pública y el liderazgo tecnológico.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

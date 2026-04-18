@@ -1,0 +1,14 @@
+#+TITLE: Mathematical exploration and discovery at scale
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://arxiv.org/pdf/2511.02864v1][«Mathematical exploration and discovery at scale»]] se presenta AlphaEvolve, un agente que combina modelos de lenguaje grande y algoritmos evolutivos para descubrir construcciones matemáticas. Probado en 67 problemas de matemáticas avanzadas, redescubrió y mejoró soluciones conocidas, demostrando su capacidad para explorar espacios de búsqueda complejos de forma eficiente.
+
+El sistema opera evolucionando programas que buscan soluciones. Para la verificación, se integró con AlphaProof, logrando la formalización automática de pruebas en el asistente Lean. Aunque es más efectivo en problemas de optimización, sus resultados destacan el potencial de la IA como colaboradora en la investigación matemática a gran escala, desde el descubrimiento hasta la prueba formal.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

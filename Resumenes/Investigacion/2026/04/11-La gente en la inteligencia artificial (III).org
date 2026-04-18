@@ -1,0 +1,16 @@
+#+TITLE: La gente en la inteligencia artificial (III)
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/uiAKS][«La gente en la inteligencia artificial (III)»]] aborda el creciente papel de la inteligencia artificial en la toma de decisiones públicas, señalando que esto exige una redefinición de la relación entre humanos y tecnología. Se argumenta que la democracia requiere la posibilidad de contestar las decisiones algorítmicas.
+
+El texto destaca que la contestación puede manifestarse a través de la revisión de los datos utilizados, la exigencia de transparencia y la subversión de los algoritmos por parte de los usuarios. La transparencia no debe entenderse solo como explicación técnica, sino como justificación de las decisiones.
+
+El autor subraya que la participación ciudadana en la revisión de los criterios y conceptos utilizados por los algoritmos es fundamental para asegurar su legitimidad. La contestación, lejos de ser destructiva, contribuye a fortalecer la aceptación social de la inteligencia artificial.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

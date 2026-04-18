@@ -2,15 +2,6 @@
 
 ** 13 de abril de 2026
 
-*** [Rusia evidencia la pinza junto a Estados Unidos contra la Unión Europea](http://archive.today/nSJ1G)
-   El Kremlin denuncia una estrategia conjunta de EE.UU. y Rusia para aislar a la UE en materia energética y de seguridad, exacerbada por las políticas de Trump que ponen en riesgo la OTAN y el apoyo a Ucrania.
-
-*** [La IA entrenada en el genocidio palestino contribuye a los avances de Israel en Líbano e Irán](https://is.gd/L0hE5a)
-   Israel utiliza sistemas de inteligencia artificial, desarrollados y probados en Gaza, para sus operaciones militares en Líbano e Irán, generando preocupación por el uso de tecnologías de represión.
-
-*** [Trump ataca al Papa y dice que “debería dejar de complacer a la izquierda radical”](http://archive.today/0ni9O)
-   Donald Trump ha lanzado un inusual ataque verbal contra el Papa León XIV, acusándolo de debilidad y de favorecer a la izquierda radical, en medio de llamamientos a la paz en Irán.
-
 Local Variables:
 truncate-lines: t
 eval: (auto-fill-mode -1)

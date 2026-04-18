@@ -1,0 +1,16 @@
+#+TITLE: En Estados Unidos está surgiendo un nuevo tipo de empleado impulsado por la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/0L03b][«En Estados Unidos está surgiendo un nuevo tipo de empleado impulsado por la IA»]] explora la creciente integración de la inteligencia artificial en el mercado laboral estadounidense. Se describe cómo la IA ya no es solo una herramienta, sino un componente esencial del trabajo, medido en "tokens" que representan la capacidad de procesamiento. Las empresas están comenzando a evaluar a sus empleados en función de su consumo de tokens, esperando un retorno de inversión significativo.
+
+El núcleo del artículo se centra en la aplicación generalizada de la IA en diversos sectores, desde la tecnología hasta la industria y la inteligencia. La CIA planea integrar "colaboradores IA" en sus procesos analíticos, mientras que empresas como Procter & Gamble están automatizando fábricas y acelerando el desarrollo de productos. Este cambio plantea preguntas sobre el futuro del empleo y la necesidad de adaptarse a las nuevas tecnologías.
+
+Finalmente, el artículo aborda las preocupaciones y desafíos asociados con la IA. Se reconoce la necesidad de utilizar la IA para defenderse de ciberataques impulsados por IA, y se vislumbra un futuro donde la IA se integrará directamente en el cerebro humano. A pesar del optimismo de algunos, también se advierte sobre la posible polarización social y la obsolescencia de ciertos trabajos, como lo demuestra la reciente protesta contra el fundador de OpenAI.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

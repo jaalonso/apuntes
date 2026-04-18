@@ -1,0 +1,14 @@
+#+TITLE: Accelerating mathematics
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://xenaproject.wordpress.com/2026/02/09/accelerating-mathematics/][«Accelerating mathematics»]] analiza cómo la tecnología busca acelerar el descubrimiento. Aunque los LLMs ayudan en lluvias de ideas, suelen «alucinar» y generar pruebas erróneas que parecen convincentes. Esto exige una revisión humana agotadora, evidenciando que la IA por sí sola aún no es una herramienta fiable para la investigación matemática de alto nivel.
+
+Por otro lado, los sistemas como Lean garantizan precisión, pero sus bibliotecas carecen de definiciones modernas. Expandirlas es difícil porque requiere expertos escasos que dominen tanto la matemática avanzada como el código. En última instancia, el factor humano sigue siendo el gran cuello de botella, ya que el rigor necesario para evitar el error no puede automatizarse fácilmente todavía.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: El papel de la IA en la investigación científica
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El informe [[https://op.europa.eu/en/publication-detail/-/publication/93ee62e9-a32b-11f0-97c8-01aa75ed71a1/language-en][«El papel de la IA en la investigación científica»]] analiza cómo la inteligencia artificial —especialmente el aprendizaje automático y la IA generativa— está redefiniendo la investigación científica en Europa. Publicado por el Centro de Investigación Conjunta de la Comisión Europea, el informe examina el impacto de la IA en cada fase del método científico, desde la formulación de hipótesis hasta la comunicación de resultados.
+
+El estudio profundiza en tres áreas estratégicas —predicción de proteínas, descubrimiento de materiales y humanidades computacionales— para ilustrar cómo la IA acelera los hallazgos y fomenta la colaboración interdisciplinaria. No obstante, advierte de riesgos críticos como las alucinaciones, el sesgo algorítmico y un fenómeno nuevo denominado "deriva epistémica", que puede limitar la diversidad del pensamiento científico.
+
+Para aprovechar las oportunidades y mitigar los riesgos, el informe recomienda reforzar la ciencia abierta, invertir en infraestructura computacional y formar investigadores con competencias híbridas que mantengan la supervisión humana en el centro del proceso científico, en línea con los valores europeos de ética e inclusión.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

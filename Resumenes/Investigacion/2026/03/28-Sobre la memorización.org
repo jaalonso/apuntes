@@ -1,0 +1,16 @@
+#+TITLE: Sobre la memorización
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://xcancel.com/ihtesham2005/status/2037499973114450110][«Sobre la memorización»]] se comenta que la profesora Tracey Tokuhama-Espinosa de Harvard desafía las convenciones sobre la memorización. Explica que el aprendizaje real se demuestra al aplicar la información en situaciones nuevas, superando la simple repetición para exámenes. Este enfoque redefine la forma en que entendemos la adquisición de conocimiento.
+
+La experta desmantela la idea de los estilos de aprendizaje únicos. El cerebro prospera con la estimulación multisensorial, creando múltiples vías neuronales para el mismo conocimiento. La repetición espaciada fortalece estas conexiones, literalmente "reconfigurando" el cerebro para un acceso más rápido.
+
+Finalmente, Tokuhama-Espinosa enfatiza la importancia de la enseñanza mutua y el enfoque positivo ante los errores. La relevancia personal del material es crucial para la retención a largo plazo, priorizando lo significativo y descartando lo abstracto.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

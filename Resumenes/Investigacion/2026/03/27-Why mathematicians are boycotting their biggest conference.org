@@ -1,0 +1,16 @@
+#+TITLE: Why mathematicians are boycotting their biggest conference
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.scientificamerican.com/article/why-mathematicians-are-boycotting-their-biggest-conference/][«Why mathematicians are boycotting their biggest conference»]] detalla la tensión ante el próximo Congreso Internacional de Matemáticos (ICM). Esta cita centenaria es el foro más relevante de la disciplina y el escenario de la Medalla Fields. Tras 40 años, la sede prevista para julio vuelve a ser Filadelfia.
+
+Más de 1.500 matemáticos piden un boicot si no se traslada la sede fuera de Estados Unidos. Los solicitantes denuncian las restricciones de visados y las intervenciones militares en el extranjero. Consideran que las políticas migratorias de Washington impiden la unidad internacional necesaria para el avance de la ciencia.
+
+El colectivo exige un trato igualitario al recibido por Rusia en 2022, cuando perdió la organización por la guerra. La participación de figuras prominentes refuerza una protesta que pone en riesgo la relevancia del encuentro. La Unión Matemática Internacional enfrenta ahora una decisión crítica para el prestigio del sector.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

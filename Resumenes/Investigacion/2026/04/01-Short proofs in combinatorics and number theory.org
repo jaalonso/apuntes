@@ -1,0 +1,16 @@
+#+TITLE: Reseña de «Short proofs in combinatorics and number theory»
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/abs/2603.29961v1][«Short proofs in combinatorics and number theory»]] anuncia un cambio de paradigma en la investigación matemática: las tres demostraciones que contiene fueron creadas íntegramente por un modelo de IA de OpenAI, sin que los cinco coautores humanos contribuyeran a los argumentos matemáticos. Su papel se limitó a comprender y reescribir lo que la máquina produjo.
+
+Los problemas resueltos llevaban décadas abiertos tras ser planteados por Erdős. Que una IA los resuelva antes que cualquier matemático humano ilustra la capacidad emergente de estos sistemas para el razonamiento formal profundo.
+
+Los propios autores sometieron los mismos problemas a GPT-4.5 Pro para medir la reproducibilidad: el modelo público resolvió dos de los tres en pocos intentos. El artículo funciona así tanto como contribución matemática como experimento sobre las fronteras actuales de la IA en ciencia.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

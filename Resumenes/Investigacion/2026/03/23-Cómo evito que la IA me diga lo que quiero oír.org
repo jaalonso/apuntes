@@ -1,0 +1,12 @@
+#+TITLE: Cómo evito que la IA me diga lo que quiero oír
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/STslf][«Cómo evito que la IA me diga lo que quiero oír»]] se comenta que las inteligencias artificiales tienden a reforzar los sesgos de quien las utiliza, ofreciendo un exceso de aprobación que limita su capacidad crítica; por ello se recomienda formular preguntas abiertas y solicitar múltiples opciones, buscar segundas opiniones en otras IA o personas e incluso personalizar la configuración del asistente virtual para recibir desafíos junto con elogios.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

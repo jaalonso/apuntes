@@ -1,0 +1,16 @@
+#+TITLE: What Gödel discovered
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.reddit.com/r/lisp/comments/1saagmf/what_g%C3%B6del_discovered_imagine_that_russell_and/][«What Gödel discovered»]], escrito por un programador, explica cómo Russell destruyó la teoría fundacional de Frege con una paradoja y cómo Hilbert respondió exigiendo un sistema formal completo y consistente. Russell y Whitehead construyeron el /Principia Mathematica/ como candidato, cuya densa notación el autor traduce a sintaxis Lisp para hacerla legible a desarrolladores.
+
+Gödel ideó una codificación numérica que permitió al propio lenguaje hablar sobre sus demostraciones. El autor ilustra paso a paso, con expresiones como =(proves a b)= o =(subst a b c)=, cómo Gödel construyó una sentencia que se declaraba a sí misma indemostrable, atrapando al sistema en un dilema sin salida.
+
+Si el sistema es consistente, la sentencia es verdadera pero indemostrable, revelando su incompletitud. El autor concluye con una lectura orientada a programadores: así como Gödel creó el primer evaluador metacircular, sus teoremas prueban que existen verdades que nunca podrán expresarse como un algoritmo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

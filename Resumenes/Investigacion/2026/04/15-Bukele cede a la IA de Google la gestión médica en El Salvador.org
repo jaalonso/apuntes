@@ -1,0 +1,16 @@
+#+TITLE: Bukele cede a la IA de Google la gestión médica en El Salvador
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/OASAm][«Bukele cede a la IA de Google la gestión médica en El Salvador»]] describe la nueva apuesta tecnológica del presidente Bukele, esta vez en el ámbito de la salud. El gobierno salvadoreño ha acordado con Google implementar un sistema de Inteligencia Artificial, Dr. SV, para mejorar la gestión del sistema sanitario público y ofrecer servicios de salud a los ciudadanos.
+
+El programa, que se encuentra en fase de ensayo clínico, permitirá a los usuarios crear un expediente médico, recibir orientación inicial y acceder a consultas con médicos. La IA también se encargará de recomendar exámenes y realizar un seguimiento continuo de pacientes con enfermedades crónicas, con el objetivo de mejorar la detección y el tratamiento de estas patologías.
+
+A pesar del entusiasmo de Bukele, la iniciativa ha generado críticas en el sector médico, especialmente tras los recientes despidos de personal sanitario. Además, expertos advierten sobre los riesgos para la privacidad de los datos de salud y el posible uso indebido de la información personal. Este proyecto se suma a la lista de apuestas tecnológicas de Bukele, tras el fallido experimento con el Bitcoin.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

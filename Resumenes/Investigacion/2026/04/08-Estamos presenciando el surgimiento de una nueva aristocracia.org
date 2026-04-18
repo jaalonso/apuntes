@@ -1,0 +1,16 @@
+#+TITLE: Estamos presenciando el surgimiento de una nueva aristocracia
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/zv703][«Estamos presenciando el surgimiento de una nueva aristocracia»]] analiza cómo la IA podría profundizar la desigualdad económica en Estados Unidos. Se argumenta que la IA tiene el potencial de automatizar empleos de ingresos medios y bajos, mientras que los empleos de alta cualificación y los ingresos de los inversores se mantendrían o aumentarían, concentrando la riqueza.
+
+La IA podría reducir el poder de negociación de los trabajadores de clase media, disminuyendo sus salarios, y la inversión en IA se concentra en fondos privados, inaccesibles para la mayoría. Esto agrava la concentración de la riqueza y reduce los ingresos fiscales del gobierno.
+
+El autor propone soluciones como la tributación más equitativa de las ganancias de capital, la distribución de los beneficios de la IA y el fomento de cooperativas de trabajadores. Advierte que la creciente desigualdad podría socavar la democracia si no se toman medidas para mitigar sus efectos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

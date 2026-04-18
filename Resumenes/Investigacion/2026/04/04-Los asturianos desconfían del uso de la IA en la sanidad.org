@@ -1,0 +1,14 @@
+#+TITLE: Los asturianos desconfían del uso de la IA en la sanidad
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.lavozdeasturias.es/noticia/asturias/2026/03/29/asturianos-desconfian-uso-ia-sanidad/00031774803753553679745.htm][«Los asturianos desconfían del uso de la IA en la sanidad»]] analiza la percepción de los asturianos sobre la inteligencia artificial en el ámbito sanitario. Un estudio reciente muestra que más de la mitad de la población se siente incómoda con la idea de interactuar con una IA durante una consulta médica, evidenciando una desconfianza generalizada hacia esta tecnología en el contexto clínico.
+
+El estudio también revela preocupación por la gestión de los datos clínicos, especialmente cuando intervienen empresas privadas. No obstante, existe un amplio consenso en la necesidad de regular el uso de la IA en la sanidad, informando a los pacientes y permitiéndoles negarse al uso de sus datos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

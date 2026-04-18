@@ -1,0 +1,16 @@
+#+TITLE: The AI 50 Brink List
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/lnOWb][«The AI 50 Brink List»]] introduce la "AI 50 Brink List 2026" de Forbes, una selección pionera de startups en fase inicial que prometen transformar la industria de la IA. A diferencia de listas anteriores, esta edición prioriza empresas capaces de demostrar utilidad, escalabilidad y rentabilidad, marcando un giro hacia aplicaciones prácticas y agentes autónomos.
+
+Startups como Resolve AI y Periodic Labs ejemplifican este cambio: la primera corrige errores en código en producción, mientras que la segunda, fundada por un exdirectivo de OpenAI, acelera descubrimientos científicos. Ambas reflejan la tendencia a resolver problemas específicos con IA, atrayendo inversiones millonarias y talento de élite.
+
+El listado subraya cómo el sector madura: ya no basta con desarrollar modelos potentes, sino que el éxito depende de quién los controla, cómo se usan y su costo. Las 20 empresas seleccionadas, evaluadas por expertos, representan la vanguardia de una IA más aplicada y menos especulativa, en un mercado que exige resultados tangibles.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

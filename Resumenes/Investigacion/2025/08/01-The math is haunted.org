@@ -1,0 +1,16 @@
+#+TITLE: The math is haunted
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://overreacted.io/the-math-is-haunted/][«The math is haunted»]] ofrece una introducción muy accesible a la formalización matemática con Lean, dirigida especialmente a matemáticos. Comienza con un ejemplo sencillo y lo utiliza como punto de partida para explorar conceptos clave como axiomas, tácticas de demostración y la estructura lógica detrás de Lean.
+
+A través de ejemplos didácticos (e incluso jugando con un axioma fantasioso como "2 = 3"), el texto ilustra cómo Lean verifica pruebas de manera rigurosa, destacando su potencial para codificar y validar el conocimiento matemático. Además, menciona proyectos ambiciosos, como la formalización del Último Teorema de Fermat, subrayando el papel de Lean en la matemática moderna.
+
+Una lectura recomendable para quienes busquen una aproximación intuitiva a la formalización sin perder de vista su profundidad teórica.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

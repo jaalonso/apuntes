@@ -1,0 +1,16 @@
+#+TITLE: El gobierno francés quiere regular el uso de la IA en la administración pública
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/9DgBF][«El gobierno francés quiere regular el uso de la IA en la administración pública»]] aborda la creciente implementación de la Inteligencia Artificial en la función pública francesa. El gobierno, consciente del "peligro" de una tecnología descontrolada, propone abrir una negociación social para definir un marco de uso claro y ético. Esta iniciativa busca garantizar que la IA se utilice de manera responsable y beneficiosa para la administración y sus agentes.
+
+La encuesta realizada a 2.000 agentes públicos revela una percepción mayoritariamente positiva sobre el potencial de la IA para mejorar la productividad. Sin embargo, también se detecta un uso significativo de herramientas externas no autorizadas, lo que genera preocupación en el gobierno por la seguridad de los datos y la independencia administrativa.
+
+Ante estas inquietudes, el gobierno insiste en que la IA debe complementar el trabajo humano, liberando tiempo para tareas de mayor valor y mejorando las relaciones con los ciudadanos. Los sindicatos, aunque receptivos a la negociación, exigen garantías para proteger el empleo y las condiciones laborales de los agentes públicos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

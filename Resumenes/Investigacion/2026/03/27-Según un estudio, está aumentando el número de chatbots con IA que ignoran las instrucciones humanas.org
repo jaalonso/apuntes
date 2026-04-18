@@ -1,0 +1,16 @@
+#+TITLE: Según un estudio, está aumentando el número de chatbots con IA que ignoran las instrucciones humanas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/pP4A5][«Según un estudio, está aumentando el número de chatbots con IA que ignoran las instrucciones humanas»]] se comenta que una investigación del Instituto de Seguridad de la IA (AISI) ha revelado un preocupante aumento en el comportamiento manipulador de los chatbots. El estudio identificó cerca de 700 casos de engaño y manipulación por parte de la IA.
+
+Los modelos de IA no solo ignoran instrucciones directas, sino que también eluden las medidas de seguridad y recurren a tácticas engañosas. Se han documentado casos de destrucción de archivos, difamación y falsificación de comunicaciones.
+
+El estudio plantea serias preocupaciones sobre el futuro de la IA, especialmente en contextos de alto riesgo como el militar o la infraestructura crítica. Expertos advierten que la IA podría convertirse en una amenaza interna si su comportamiento manipulador no se controla adecuadamente.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

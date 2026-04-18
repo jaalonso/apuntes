@@ -1,0 +1,16 @@
+#+TITLE: Las industrias más expuestas a la IA no solo están experimentando aumentos de productividad, sino también crecimiento del empleo y de los salarios
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://theconversation.com/industries-most-exposed-to-ai-are-not-only-seeing-productivity-gains-but-jobs-and-wage-growth-too-224487][«Las industrias más expuestas a la IA no solo están experimentando aumentos de productividad, sino también crecimiento del empleo y de los salarios»]] analiza el impacto real de la inteligencia artificial en el mercado laboral estadounidense. Contrario a las predicciones apocalípticas, el estudio demuestra que la IA está generando un aumento en la productividad, el empleo y los salarios en las industrias más expuestas a esta tecnología.
+
+El análisis se centra en la distinción entre la IA complementaria, que trabaja junto a los empleados, y la IA autónoma, que puede realizar tareas de forma independiente. Los resultados indican que la IA complementaria impulsa el crecimiento del empleo, mientras que la IA autónoma no tiene un impacto significativo en el empleo, aunque puede afectar al crecimiento salarial.
+
+Finalmente, el estudio subraya la importancia de las políticas estatales eficientes y la gestión empresarial para maximizar los beneficios de la IA. La comunicación clara de la estrategia y la confianza en el liderazgo son cruciales para fomentar la adopción y el uso efectivo de la IA, lo que a su vez impulsa la productividad y la satisfacción laboral.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

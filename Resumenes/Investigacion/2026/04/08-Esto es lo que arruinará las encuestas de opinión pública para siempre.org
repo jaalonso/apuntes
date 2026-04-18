@@ -1,0 +1,16 @@
+#+TITLE: Esto es lo que arruinará las encuestas de opinión pública para siempre
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/8MZCt][«Esto es lo que arruinará las encuestas de opinión pública para siempre»]] expone la creciente práctica del "muestreo artificial", donde la inteligencia artificial simula respuestas en encuestas de opinión pública. Esta técnica, impulsada por empresas como Aaru y Simile, promete reducir costos y tiempos, pero plantea serias dudas sobre su validez.
+
+El problema radica en que estas simulaciones amplifican los sesgos ya presentes en los modelos estadísticos de las encuestas tradicionales. En lugar de reflejar la opinión pública real, el "muestreo artificial" tiende a proyectar las creencias de quienes diseñan los algoritmos, distorsionando la información.
+
+La situación es alarmante, ya que estas simulaciones pueden ser presentadas como hechos objetivos, erosionando la confianza en las encuestas y la investigación social. El artículo advierte que, si no se detiene esta práctica, nuestra comprensión de la sociedad podría volverse artificial y manipulada.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

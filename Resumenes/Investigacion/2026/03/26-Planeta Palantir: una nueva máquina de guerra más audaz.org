@@ -1,0 +1,16 @@
+#+TITLE: Planeta Palantir: una nueva máquina de guerra más audaz
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://vientosur.info/planeta-palantir-una-nueva-maquina-de-guerra-mas-audaz/][«Planeta Palantir: una nueva máquina de guerra más audaz»]] se comenta que Palantir utiliza la inteligencia artificial como eje de una ética militarista que glorifica la coacción. Sus algoritmos optimizan bombardeos en Gaza y la vigilancia represiva en EE.UU., presentando la automatización de la violencia como la única vía para imponer el orden mediante el miedo.
+
+Este modelo impulsa un nuevo complejo industrial donde magnates tecnológicos desplazan a los fabricantes tradicionales prometiendo eficiencia mediante IA. Sin embargo, esta carrera por integrar sistemas autónomos y predictivos avanza sin supervisión democrática, careciendo de pruebas rigurosas sobre sus fallos o consecuencias humanitarias reales.
+
+El texto alerta que delegar la guerra a algoritmos no controlados erosiona la democracia y multiplica los conflictos. La seguridad global exige diplomacia y derecho internacional, rechazando la automatización letal impuesta por élites que confunden innovación tecnológica con sabiduría estratégica.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Arthur Mensch, director de Mistral AI, defensor de la inteligencia artificial abierta y soberana
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/CL0eL][«Arthur Mensch, director de Mistral AI, defensor de la inteligencia artificial abierta y soberana»]] presenta a Arthur Mensch, fundador de la startup francesa Mistral AI, como un defensor de una inteligencia artificial abierta y soberana. Mensch se opone a la concentración del poder en manos de los grandes grupos tecnológicos estadounidenses y propone un modelo europeo independiente, basado en el código abierto y la transparencia.
+
+Mensch critica la visión de algunos líderes de la IA sobre la creación de una "superinteligencia", considerándola poco realista. En su lugar, se centra en los riesgos concretos de la IA, como la manipulación de la información y la influencia en los procesos democráticos, alertando sobre un posible "oligopolio de la información".
+
+Finalmente, ante el contexto geopolítico actual, Mensch enfatiza la necesidad de una IA europea soberana para evitar la dependencia tecnológica de Estados Unidos. Destaca la importancia de la IA en el ámbito militar y aboga por una arquitectura descentralizada, construida por y para múltiples actores.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

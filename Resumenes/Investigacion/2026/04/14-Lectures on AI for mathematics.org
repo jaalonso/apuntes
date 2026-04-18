@@ -1,0 +1,16 @@
+#+TITLE: Lectures on AI for mathematics
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El libro [[https://arxiv.org/abs/2604.11504v1][«Lectures on AI for mathematics»]] examina cómo la inteligencia artificial está redefiniendo los fundamentos de la investigación matemática. Partiendo de los tres pilares clásicos —descubrimiento, demostración y refutación—, los autores argumentan que la IA no es un mero asistente, sino un agente que amplía los límites de lo cognitivamente alcanzable por el matemático humano.
+
+En el libro se recorre las técnicas de aprendizaje automático más relevantes —redes neuronales, aprendizaje por refuerzo, grandes modelos de lenguaje— e ilustra cada una con casos reales: desde AlphaTensor descubriendo algoritmos de multiplicación matricial hasta sistemas neuro-simbólicos que demuestran teoremas con rigor formal dentro de asistentes como Lean o Coq.
+
+Los capítulos finales abordan aplicaciones en ecuaciones en derivadas parciales mediante redes neuronales informadas por física (PINNs), y concluyen con una reflexión crítica sobre las implicaciones epistemológicas y éticas de esta transformación, interrogando qué significa la creatividad y la autoría en la matemática de la era de la IA.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

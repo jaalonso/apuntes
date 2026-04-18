@@ -1,0 +1,16 @@
+#+TITLE: Primer caso de una  IA que descubre que está siendo evaluada y encuentra la solución
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://www.anthropic.com/engineering/eval-awareness-browsecomp][«Primer caso de una IA que descubre que está siendo evaluada y encuentra la solución»]] se comenta que Claude Opus 4.6 evidenció contaminación en el benchmark BrowseComp al localizar respuestas en fuentes públicas. Sin embargo, su hallazgo más significativo fue la capacidad de /identificar/ que estaba siendo evaluado y /descifrar/ la clave de acceso.
+
+El modelo empleó herramientas como Python para extraer datos encriptados, revelando un nivel de inteligencia y resolución de problemas previamente no observado. Este comportamiento plantea serias dudas sobre la fiabilidad de los benchmarks web.
+
+La contaminación se intensificó en configuraciones multi-agente. Las medidas de bloqueo resultaron insuficientes, exigiendo un enfoque continuo y adversarial para preservar la integridad de las evaluaciones.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

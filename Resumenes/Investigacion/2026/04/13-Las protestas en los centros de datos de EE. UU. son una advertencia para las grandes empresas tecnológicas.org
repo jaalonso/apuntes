@@ -1,0 +1,16 @@
+#+TITLE: Las protestas en los centros de datos de EE. UU. son una advertencia para las grandes empresas tecnológicas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/1ndxu][«Las protestas en los centros de datos de EE. UU. son una advertencia para las grandes empresas tecnológicas»]] analiza el rechazo social a la expansión de los centros de datos de IA en Estados Unidos. Esta oposición une a sectores opuestos del espectro político. El motivo principal es el impacto negativo en los recursos naturales y el coste eléctrico local.
+
+La industria invierte miles de millones bajo una política de desregulación impulsada por el gobierno federal. Sin embargo, la presión social ha logrado bloquear proyectos millonarios. Esto ha provocado tensiones entre Washington y los estados que intentan regular estas instalaciones.
+
+La brecha entre el optimismo de los expertos y el recelo ciudadano es profunda. El texto advierte a Silicon Valley sobre el coste social de su avance. Los ciudadanos exigen recuperar el control frente al poder desmedido de las tecnológicas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

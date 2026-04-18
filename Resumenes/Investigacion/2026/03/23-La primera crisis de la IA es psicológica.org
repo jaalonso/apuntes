@@ -1,0 +1,16 @@
+#+TITLE: La primera crisis de la IA es psicológica
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/FhacX][«La primera crisis de la IA es psicológica»]] analiza una crisis psicológica emergente por la confianza depositada en la IA, que socava la autoestima y la capacidad de discernir la verdad, más que el temor económico.
+
+La "heurística de la confianza" y la "heurística de la máquina" amplifican este efecto, llevando a aceptar información sin cuestionar su validez. La IA, al no tener consecuencias por errores, proyecta una falsa autoridad.
+
+Finalmente, la pérdida de confianza en el propio juicio puede llevar al aislamiento y la desconexión, erosionando la capacidad de conectar con el mundo y con uno mismo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

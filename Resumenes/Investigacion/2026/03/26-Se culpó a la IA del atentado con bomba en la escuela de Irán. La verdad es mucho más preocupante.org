@@ -1,0 +1,16 @@
+#+TITLE: Se culpó a la IA del atentado con bomba en la escuela de Irán. La verdad es mucho más preocupante
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/eiQrV][«Se culpó a la IA del atentado con bomba en la escuela de Irán. La verdad es mucho más preocupante»]] se comenta que el 28 de febrero de 2026, un ataque estadounidense contra la escuela primaria Shajareh Tayyebeh en Irán causó entre 175 y 180 muertes, mayormente niñas. Inicialmente, se culpó al chatbot Claude por la selección del objetivo.
+
+La investigación atribuye el ataque a un error en una base de datos militar obsoleta, que no reflejaba la conversión del edificio en escuela. El sistema Maven, de Palantir, aceleró el proceso de designación de objetivos sin la debida verificación.
+
+El artículo critica que la atención mediática se centró en la inteligencia artificial, ocultando las fallas burocráticas y las decisiones humanas que llevaron a la tragedia. Se denuncia la priorización de la velocidad sobre la precisión en la designación de objetivos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

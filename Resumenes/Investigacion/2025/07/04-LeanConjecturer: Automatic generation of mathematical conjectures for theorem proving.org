@@ -1,0 +1,12 @@
+#+TITLE: LeanConjecturer: Automatic generation of mathematical conjectures for theorem proving
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://arxiv.org/pdf/2506.22005][«LeanConjecturer: Automatic generation of mathematical conjectures for theorem proving»]], se presenta un novedoso sistema que genera automáticamente conjeturas matemáticas en el lenguaje de Lean 4. Su enfoque híbrido combina la extracción de contexto basada en reglas a partir de la biblioteca Mathlib con la generación de nuevos enunciados de teoremas mediante un modelo de lenguaje grande (LLM), todo ello dentro de un ciclo iterativo que evalúa la validez, novedad y no trivialidad de las propuestas. El sistema demostró su eficacia al generar miles de conjeturas significativas y, al utilizarlas para entrenar el demostrador DeepSeek Prover-V2, mejoró sus capacidades en dominios específicos como la topología, llegando incluso a verificar nuevas relaciones matemáticas no triviales y mostrando su potencial para facilitar el descubrimiento matemático.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

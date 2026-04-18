@@ -1,0 +1,16 @@
+#+TITLE: Cómo las empresas se benefician del uso oculto de la IA en el trabajo
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/tB0Qd][«Cómo las empresas se benefician del uso oculto de la IA en el trabajo»]] analiza cómo la IA se está integrando silenciosamente en el entorno laboral. Los empleados, atraídos por la utilidad de herramientas como ChatGPT, las utilizan de forma autónoma para tareas como redacción de correos electrónicos y evaluación de rendimiento.
+
+Ante esta realidad, las empresas están cambiando su enfoque. En lugar de prohibir el uso no autorizado de la IA, buscan identificar los beneficios que aporta y las áreas donde puede ser más útil. Esto se logra a través de encuestas y reuniones con los empleados.
+
+En el artículo destaca las preocupaciones de los sindicatos, quienes piden una mayor regulación y transparencia en la implementación de la IA, así como la inclusión de los comités de empresa en las decisiones relacionadas con esta tecnología. Temen que la falta de formalización pueda generar riesgos legales y sobrecargar a los empleados con responsabilidades.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

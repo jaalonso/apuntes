@@ -1,0 +1,16 @@
+#+TITLE: Israel pone en marcha su “Solución Definitiva” e insiste en que no se parece en nada a la “Solución Final” de la Alemania Nazi
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.elmundotoday.com/2026/03/israel-pone-en-marcha-su-solucion-definitiva-e-insiste-en-que-no-se-parece-en-nada-a-la-solucion-final-de-la-alemania-nazi/][«Israel pone en marcha su “Solución Definitiva” e insiste en que no se parece en nada a la “Solución Final” de la Alemania Nazi»]] relata la aprobación de la "Solución Definitiva" en la Knéset, una ley que permite ejecutar a palestinos acusados de terrorismo, una idea descrita como "totalmente original" por el gobierno israelí. La ley busca, según sus promotores, poner fin a los problemas causados por los palestinos, sin que esto tenga nada que ver con "ciertos sucesos del siglo XX".
+
+El plan contempla concentrar a los palestinos en un "recinto" (definitivamente no un campo, insisten) para aplicarles la pena capital de la forma más "humana" posible, quizá con la excusa de una ducha. El primer ministro Netanyahu se indigna ante las acusaciones de plagio, alegando que la creatividad a veces juega malas pasadas.
+
+La "Solución Definitiva" se distingue de la "Solución Final" por una sutil pero crucial diferencia: uno es "definitivo" y el otro, "final". El gobierno espera que esta distinción sea suficiente para disipar cualquier inquietante comparación histórica.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

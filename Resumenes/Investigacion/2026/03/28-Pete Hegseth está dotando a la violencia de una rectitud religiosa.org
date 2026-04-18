@@ -1,0 +1,16 @@
+#+TITLE: Pete Hegseth está dotando a la violencia de una rectitud religiosa
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.theguardian.com/commentisfree/2026/mar/28/pete-hegseth-violence-religion-israel-iran][«Pete Hegseth está dotando a la violencia de una rectitud religiosa»]] expone las controvertidas acciones y creencias de Pete Hegseth, Secretario de Defensa de EE.UU. Se destaca su desprecio por las normas de enfrentamiento y su abierta defensa de la violencia, incluso a través de oraciones públicas. Su postura se considera peligrosa y radical.
+
+El nudo del artículo se centra en la conexión entre las creencias religiosas de Hegseth y su influencia en la política exterior estadounidense. Se revela su afiliación a grupos nacionalistas cristianos y la adopción de retórica sobre el "fin de los tiempos" para justificar la guerra en Irán.
+
+Finalmente, el artículo denuncia la presunta discriminación de Hegseth al bloquear promociones de oficiales negros y mujeres, revelando una posible injerencia personal en decisiones militares. Se concluye con un llamamiento a la acción para combatir el extremismo y defender la democracia.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

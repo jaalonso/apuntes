@@ -1,0 +1,16 @@
+#+TITLE: Una IA china resuelve en 80 horas un problema matemático atascado hace doce años
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/LyOdF][«Una IA china resuelve en 80 horas un problema matemático atascado hace doce años»]] describe cómo una IA china logró resolver un problema matemático que desafió a los expertos durante doce años. El enigma, perteneciente al ámbito del álgebra conmutativa, no era mediático pero sí lo suficientemente complejo para permanecer sin solución desde 2014.
+
+Investigadores de la Universidad de Pekín diseñaron una IA con dos agentes: uno que formula hipótesis creativas y otro que las traduce en demostraciones formales. Este enfoque permitió resolver el problema en 80 horas, generando una solución y su justificación paso a paso, todo sin intervención humana.
+
+El resultado, difundido en [[https://arxiv.org/pdf/2604.03789][arXiv]], aún no ha sido validado por pares, pero los autores aseguran su eficacia. El caso ilustra el avance de la IA en automatizar procesos científicos, combinando creatividad y rigor lógico.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

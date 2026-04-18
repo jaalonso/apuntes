@@ -1,0 +1,16 @@
+#+TITLE: La IA está redefiniendo la formación y la profesión de los traductores
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/gbrtg][«La IA está redefiniendo la formación y la profesión de los traductores»]] explora cómo la inteligencia artificial está redefiniendo el oficio de la traducción. La llegada de herramientas como ChatGPT ha generado preocupación entre los traductores, quienes ven amenazados sus ingresos y su futuro profesional. La encuesta ELIS 2026 revela una pérdida de confianza en el sector, especialmente entre los traductores con menos experiencia.
+
+La creciente demanda de "postedición" – revisar y mejorar traducciones automáticas – está transformando la naturaleza del trabajo. Aunque la traducción asistida por ordenador existe desde hace tiempo, la IA generativa ha supuesto un cambio radical. Los traductores deben adaptarse a esta nueva realidad, desarrollando habilidades que complementen las capacidades de la IA.
+
+Las universidades están respondiendo a estos cambios adaptando sus planes de estudio. Se ofrecen cursos sobre el uso de herramientas de IA, postedición, negociación y gestión de proyectos. El objetivo es formar a traductores que sean capaces de ofrecer "servicios lingüísticos" completos, más allá de la simple traducción de palabras.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

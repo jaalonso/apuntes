@@ -1,0 +1,16 @@
+#+TITLE: Por qué Anthropic, gran rival del OpenAI (y Trump), ha desatado el miedo con su última IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/px17U][«Por qué Anthropic, gran rival del OpenAI (y Trump), ha desatado el miedo con su última IA»]] describe el lanzamiento de Project Glasswing por parte de Anthropic. Esta iniciativa utiliza el modelo Claude Mythos Preview para reforzar la seguridad del software crítico. La empresa busca prevenir ataques cibernéticos mediante una defensa coordinada con grandes tecnológicas y entidades financieras.
+
+El sistema ha detectado miles de fallos graves en navegadores y sistemas operativos. Su capacidad para razonar sobre la explotación de errores supone un riesgo sistémico. Por ello, Anthropic restringe su uso a un grupo reducido de organizaciones para evitar un desequilibrio ofensivo.
+
+La compañía mantiene una postura de prudencia extrema frente a OpenAI y el gobierno estadounidense. Anthropic prioriza la seguridad sobre el crecimiento comercial. Esta estrategia busca convertir una herramienta potencialmente disruptiva en un escudo preventivo para la infraestructura global.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

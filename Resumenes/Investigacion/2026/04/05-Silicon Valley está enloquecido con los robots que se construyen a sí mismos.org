@@ -1,0 +1,16 @@
+#+TITLE: Silicon Valley está enloquecido con los robots que se construyen a sí mismos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/13Ilm][«Silicon Valley está enloquecido con los robots que se construyen a sí mismos»]]  analiza la creciente carrera en Silicon Valley por crear inteligencias artificiales capaces de mejorar sus propias capacidades. OpenAI, Anthropic y Google DeepMind lideran estos esfuerzos, automatizando partes significativas de su investigación interna con resultados concretos aunque todavía limitados.
+
+Los avances actuales son incrementales: las herramientas de IA agilizan tareas concretas, pero aún dependen de la supervisión humana para fijar objetivos y ejercer el juicio creativo que los expertos llaman "gusto investigador". Las predicciones más optimistas sitúan la automatización completa entre 2028 y 2032.
+
+El entusiasmo coexiste con una alarma creciente. Investigadores, activistas e incluso políticos como Bernie Sanders advierten sobre la pérdida del control humano, mientras los gobiernos, todavía adaptándose a internet, difícilmente podrán regular una tecnología que avanza a este ritmo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

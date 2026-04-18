@@ -1,0 +1,16 @@
+#+TITLE: Así entrené durante meses a la IA que me quitó el puesto de trabajo
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/mXTRx][«Así entrené durante meses a la IA que me quitó el puesto de trabajo»]], un periodista narra su experiencia en un medio digital español que intentó reemplazar periodistas con inteligencia artificial generativa. Los redactores fueron asignados a corregir y entrenar a la IA, pero rápidamente surgieron problemas de calidad y veracidad.
+
+La IA generaba titulares absurdos, imágenes irreales y noticias falsas, provocando críticas de lectores y editores. A pesar de los esfuerzos de corrección, la tecnología no lograba producir contenido de calidad periodística.
+
+El proyecto fue suspendido temporalmente, aunque la empresa planea usar la IA para otros formatos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

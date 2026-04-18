@@ -1,0 +1,16 @@
+#+TITLE: La gente en la inteligencia artificial (I)
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/mW8hc][«La gente en la inteligencia artificial (I)»]] explora la relación entre la democracia y la inteligencia artificial, cuestionando si el autogobierno del pueblo es compatible con la creciente automatización. Se plantea que la IA, a diferencia de tecnologías previas, amenaza con reemplazar a los humanos en la toma de decisiones, generando un mundo tecnopolítico deshumanizado.
+
+El texto argumenta que la idea de eliminar por completo a los humanos del proceso automatizado es errónea. Existe una gran cantidad de trabajo humano oculto en la automatización, a través de "microtrabajadores" que realizan tareas repetitivas en las plataformas digitales. La automatización no reemplaza a los humanos por robots, sino por otros humanos en condiciones precarias.
+
+El autor propone repensar la automatización para permitir la intervención humana en las diferentes fases del proceso. Se sugiere un modelo análogo a la democracia representativa, donde los ciudadanos puedan ejercer su autoría última sobre las decisiones colectivas, garantizando así un ecosistema humanos-máquinas democrático y sostenible.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

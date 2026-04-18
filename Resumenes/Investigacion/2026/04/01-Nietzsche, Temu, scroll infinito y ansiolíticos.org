@@ -1,0 +1,16 @@
+#+TITLE: Nietzsche, Temu, scroll infinito y ansiolíticos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/ngNQp][«Nietzsche, Temu, scroll infinito y ansiolíticos»]] comienza planteando la relevancia de Nietzsche para comprender el presente, destacando su capacidad para diagnosticar la lógica del nihilismo que subyace a nuestra sociedad. Se introduce el concepto del "último hombre" como una figura que ha renunciado a la profundidad y la intensidad en favor de la comodidad y la adaptación.
+
+El nudo del artículo se centra en la descripción de los hábitos del "último hombre" en la actualidad: el consumo impulsivo como forma de llenar un vacío, el scroll infinito como anestesia cotidiana y la tendencia a medicalizar el malestar emocional en lugar de buscar sus causas profundas. Se argumenta que estos comportamientos son síntomas de una vida empobrecida y una falta de sentido.
+
+Finalmente, el artículo concluye que el "último hombre" ya no es una advertencia teórica, sino un retrato de la sociedad contemporánea. Se lamenta la pérdida de la capacidad de interpretar el dolor como una señal y la sustitución de la búsqueda de sentido por la mera supervivencia, invitando a la reflexión sobre cómo estamos viviendo nuestras vidas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

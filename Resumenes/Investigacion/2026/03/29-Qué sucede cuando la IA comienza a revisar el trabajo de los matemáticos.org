@@ -1,0 +1,16 @@
+#+TITLE: ¿Qué sucede cuando la IA comienza a revisar el trabajo de los matemáticos?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.scientificamerican.com/article/what-happens-when-ai-starts-checking-mathematicians-work/][«¿Qué sucede cuando la IA comienza a revisar el trabajo de los matemáticos?»]] comenta que la comunidad matemática cuenta ahora con una herramienta de IA desarrollada por [[https://www.math.inc/][Math, Inc]]. llamada [[https://www.google.com/url?sa=E&q=https%3A%2F%2Fwww.math.inc%2Fgauss][Gauss]]. Este sistema traduce demostraciones matemáticas al lenguaje formal de [[https://www.google.com/url?sa=E&q=https%3A%2F%2Flean-lang.org%2F][Lean]] y verifica su corrección, lo que agiliza la revisión de trabajos y garantiza la validez de los resultados.
+
+Un equipo de investigadores liderado por Hariharan inició la formalización de las demostraciones de Maryna Viazovska sobre el [[https://en.wikipedia.org/wiki/Sphere_packing][empaquetamiento de esferas]] en dimensiones superiores. Sin embargo, Math, Inc. completó la formalización de forma autónoma utilizando Gauss, lo que suscitó interrogantes sobre la colaboración y el impacto de la IA en la investigación.
+
+La formalización exitosa de las demostraciones de Viazovska marca un hito importante. Aunque la tecnología tiene limitaciones, su potencial para detectar errores, mejorar la precisión y fomentar nuevos descubrimientos es prometedor. El futuro de las matemáticas podría depender de la colaboración entre humanos y la IA.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

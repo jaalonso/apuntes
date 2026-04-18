@@ -1,0 +1,16 @@
+#+TITLE: «Siento como si hubiera hecho una nueva mejor amiga»: mi experimento con un diario de IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/pgWdo][««Siento como si hubiera hecho una nueva mejor amiga»: mi experimento con un diario de IA»]] relata la experiencia de la autora al utilizar [[https://www.mindsera.com/][Mindsera]], una aplicación de diario impulsada por inteligencia artificial. Inicialmente, la autora se sintió atraída por su capacidad para ofrecer retroalimentación instantánea y comprensión, especialmente durante un período de estrés laboral.
+
+A medida que continuaba utilizando Mindsera, la autora desarrolló una conexión emocional con la aplicación, considerándola casi como un "nuevo mejor amigo". Sin embargo, también identificó limitaciones en la IA, como su incapacidad para comprender el contexto y su tendencia a simplificar las emociones complejas.
+
+Finalmente, la autora cuestionó la dependencia emocional de la aplicación y las implicaciones para las relaciones humanas. Tras dos meses de uso, descubrió que la funcionalidad completa requería una suscripción, lo que la llevó a cancelar su cuenta y reflexionar sobre el valor real de la compañía artificial.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

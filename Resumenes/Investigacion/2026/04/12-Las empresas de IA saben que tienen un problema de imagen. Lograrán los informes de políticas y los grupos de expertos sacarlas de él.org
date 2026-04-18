@@ -1,0 +1,16 @@
+#+TITLE: Las empresas de IA saben que tienen un problema de imagen. ¿Lograrán los informes de políticas y los grupos de expertos sacarlas de él?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.theguardian.com/technology/2026/apr/12/ai-image-problem-policy-papers-thinktanks][«Las empresas de IA saben que tienen un problema de imagen. ¿Lograrán los informes de políticas y los grupos de expertos sacarlas de él?»]] analiza la estrategia de las principales empresas de IA, OpenAI y Anthropic, para mejorar su imagen pública ante una creciente desconfianza en Estados Unidos. La percepción negativa se centra en el impacto laboral y social de la IA, generando preocupación en la industria.
+
+Ante esta situación, OpenAI y Anthropic han lanzado iniciativas de relaciones públicas, incluyendo la publicación de documentos de política con propuestas como la semana laboral de cuatro días y un fondo de riqueza pública. Además, han creado grupos de reflexión para influir en el debate y presentar soluciones.
+
+Sin embargo, críticos argumentan que estas acciones son principalmente un intento de relaciones públicas y que las empresas continúan presionando para una desregulación favorable a sus intereses. También señalan la influencia de la industria en la administración Trump, que ha intentado bloquear regulaciones estatales sobre IA.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

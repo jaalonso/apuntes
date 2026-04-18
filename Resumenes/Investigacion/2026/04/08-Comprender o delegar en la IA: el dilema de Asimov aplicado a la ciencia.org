@@ -1,0 +1,16 @@
+#+TITLE: Comprender o delegar en la IA: el dilema de Asimov aplicado a la ciencia
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/wXdMl][«Comprender o delegar en la IA: el dilema de Asimov aplicado a la ciencia»]] explora la relación entre la inteligencia artificial y la investigación científica, utilizando una analogía con una obra de Isaac Asimov. Se destaca la aparición de nuevas redes neuronales, como los KAN, que facilitan el análisis del "conocimiento" de la IA.
+
+El texto señala que, aunque la IA puede resolver problemas complejos, existe un límite en su capacidad para comprender sistemas que superan la inteligencia humana. Esta limitación plantea un dilema: ¿debemos esforzarnos por comprender la IA o simplemente delegar tareas complejas a la máquina?
+
+Los autores proponen un enfoque de "ingeniería científica" para el uso de la IA, donde se utiliza como una herramienta para resolver problemas específicos. Se advierte sobre los riesgos de delegar tareas sin comprender los procesos subyacentes, instando a la reflexión sobre hasta dónde estamos dispuestos a ceder el control a la IA.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

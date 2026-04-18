@@ -1,0 +1,16 @@
+#+TITLE: La desregulación no tiene que ver con el mercado, sino con el poder
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/7Fud3][«La desregulación no tiene que ver con el mercado, sino con el poder»]] analiza cómo la desregulación, presentada como una medida para simplificar normas y aumentar la competitividad, en realidad busca concentrar el poder en manos de grandes corporaciones. Se argumenta que existe una diferencia fundamental entre la lógica de la "industria", que busca crear valor de forma sostenible, y la del "negocio", que prioriza la acumulación de capital a cualquier precio.
+
+El texto explica que la desregulación permite a las grandes empresas externalizar costes, como la contaminación o los bajos salarios, a la sociedad. Las empresas del IBEX 35, por ejemplo, generan un alto volumen de emisiones de CO2 cuyos costes no se reflejan en sus cuentas, sino que se traducen en problemas ambientales y sanitarios para la población.
+
+El artículo concluye que la desregulación no es sinónimo de crecimiento económico, sino de empobrecimiento colectivo. Los costes no desaparecen, sino que se trasladan a la sociedad, manifestándose en mayores gastos sanitarios, deterioro ambiental y condiciones climáticas extremas. Se aboga por normas más efectivas y justas que prioricen el interés común.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

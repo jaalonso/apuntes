@@ -1,0 +1,16 @@
+#+TITLE: Necesitamos detener la carrera por crear inteligencias artificiales cada vez más inteligentes que nadie entiende
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/QtZdA][«Necesitamos detener la carrera por crear inteligencias artificiales cada vez más inteligentes que nadie entiende»]] recoge la entrevista a Nate Soares, coautor de un ensayo sobre riesgos existenciales de la IA, quien distingue entre los sistemas actuales —inofensivos— y una futura superinteligencia que podría actuar de forma autónoma e incontrolable, sin que los gobiernos hayan comprendido aún la amenaza.
+
+Soares argumenta que frenar la carrera hacia modelos cada vez más potentes sería técnicamente sencillo, dado que depende de una cadena de suministro muy concentrada, pero lamenta que la voluntad política no existe. Los propios líderes de las grandes empresas tecnológicas reconocen el peligro aunque son incapaces de detenerlo.
+
+El investigador descarta tanto el optimismo ingenuo como la resignación, y señala que incluso el escenario en que la superinteligencia quede bajo control de unos pocos oligarcas tecnológicos sería igualmente problemático para la ciudadanía, por lo que insiste en la urgencia de un debate político global.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

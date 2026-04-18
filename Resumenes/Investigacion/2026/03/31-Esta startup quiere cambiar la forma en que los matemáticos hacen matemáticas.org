@@ -1,0 +1,16 @@
+#+TITLE: Esta startup quiere cambiar la forma en que los matemáticos hacen matemáticas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/][«Esta startup quiere cambiar la forma en que los matemáticos hacen matemáticas»]] describe el lanzamiento de [[https://axiommath.ai/territory/axplorer][Axplorer]] por parte de [[https://axiommath.ai/][Axiom Math]], una herramienta de IA diseñada para ayudar a los matemáticos a descubrir patrones y resolver problemas complejos. La herramienta, basada en un proyecto anterior llamado [[https://arxiv.org/pdf/2411.00566][PatternBoost]], busca superar las limitaciones de los LLMs al enfocarse en la generación de nuevas ideas.
+
+Axplorer se diferencia de otras herramientas de IA por su accesibilidad, ya que puede funcionar en computadoras personales, eliminando la necesidad de supercomputadoras. Axiom Math espera que Axplorer contribuya a la [[https://www.darpa.mil/research/programs/expmath-exponential-mathematics][iniciativa expMath de DARPA]], que promueve el uso de la IA en matemáticas, y que impulse avances en campos como la informática y la seguridad en internet.
+
+Aunque algunos matemáticos se muestran cautelosos sobre el impacto real de la herramienta, Axplorer ha demostrado su potencial al resolver el problema de los cuatro ciclos de Turán. Axiom Math espera que la comunidad matemática adopte Axplorer para generar soluciones y contraejemplos, acelerando así el proceso de descubrimiento matemático.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

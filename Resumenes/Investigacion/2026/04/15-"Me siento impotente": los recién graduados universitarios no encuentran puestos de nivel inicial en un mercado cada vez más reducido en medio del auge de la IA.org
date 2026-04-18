@@ -1,0 +1,16 @@
+#+TITLE: "Me siento impotente": los recién graduados universitarios no encuentran puestos de nivel inicial en un mercado cada vez más reducido en medio del auge de la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/gisfR][«"Me siento impotente": los recién graduados universitarios no encuentran puestos de nivel inicial en un mercado cada vez más reducido en medio del auge de la IA»]] explora las dificultades que enfrentan los recién graduados universitarios en Estados Unidos a la hora de encontrar empleo. Estos jóvenes se encuentran con un mercado laboral ajustado, donde las oportunidades son limitadas y la competencia es alta. La situación se ve agravada por la creciente influencia de la inteligencia artificial y los cambios en las expectativas de los empleadores.
+
+Muchos graduados se quejan de que las ofertas de trabajo "de nivel inicial" exigen varios años de experiencia, lo que las hace inalcanzables. Además, los sistemas de contratación automatizados obligan a los candidatos a adaptar sus currículums con palabras clave específicas, lo que resulta frustrante y agotador.
+
+Ante esta situación, los graduados están dispuestos a reducir sus expectativas salariales, pero temen que la falta de oportunidades se prolongue en el tiempo. Las barreras estructurales, como la contratación interna y las redes de contactos, limitan aún más las opciones para quienes no tienen conexiones previas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

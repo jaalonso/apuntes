@@ -1,0 +1,16 @@
+#+TITLE: Estudiantes universitarios sopesan el impacto de la IA en sus carreras universitarias y profesionales
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://news.gallup.com/poll/704087/college-students-weigh-impact-majors-careers.aspx][«Estudiantes universitarios sopesan el impacto de la IA en sus carreras universitarias y profesionales»]] analiza cómo la inteligencia artificial está afectando las decisiones académicas y de inscripción de los estudiantes universitarios en Estados Unidos. La encuesta revela que una proporción significativa de estudiantes está reconsiderando sus carreras debido al impacto potencial de la IA en el mercado laboral.
+
+El estudio destaca que un porcentaje considerable de estudiantes ya ha cambiado su especialización como respuesta a las nuevas dinámicas impulsadas por la IA. Además, la preparación para la IA y la preocupación por su impacto en el empleo son factores que influyen en la decisión de algunos estudiantes de acceder a la educación superior.
+
+Los resultados sugieren que las instituciones educativas y los responsables políticos deben prestar atención a la creciente demanda de programas que preparen a los estudiantes para una economía impulsada por la IA. Es crucial conectar los resultados del aprendizaje con las necesidades cambiantes del mercado laboral y ayudar a los estudiantes a comprender cómo las habilidades relacionadas con la IA se traducen en oportunidades profesionales.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

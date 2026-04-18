@@ -1,0 +1,16 @@
+#+TITLE: Solo el comienzo
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/Cmbyc][«Solo el comienzo»]] describe un panorama global sombrío, donde la violencia y la opresión se han convertido en la norma. Se advierte que la destrucción de Gaza y la guerra contra Irán no son eventos aislados, sino el preludio de un nuevo orden mundial basado en la barbarie y la ley del más fuerte.
+
+El autor denuncia la corrupción y el hedonismo de las élites globales, describiéndolas como parásitos que explotan a los demás y desmantelan las instituciones democráticas. Se critica la ineficacia de organismos internacionales y la manipulación de la justicia, así como la creación de campos de concentración en Estados Unidos.
+
+Finalmente, el artículo llama a la resistencia como un acto de emancipación y dignidad, a pesar de la adversidad. Se advierte que la apatía y la rendición son la verdadera desesperación, y que la única opción que queda es obstaculizar el avance de este nuevo orden mundial o sucumbir a él.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

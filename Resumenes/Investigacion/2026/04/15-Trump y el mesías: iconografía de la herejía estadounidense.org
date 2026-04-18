@@ -1,0 +1,18 @@
+#+TITLE: Trump y el mesías: iconografía de la herejía estadounidense
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://legrandcontinent.eu/es/2026/04/15/trump-y-el-mesias-iconografia-de-la-herejia-estadounidense/][«Trump y el mesías: iconografía de la herejía estadounidense»]] explora cómo Donald Trump ha incorporado elementos religiosos a su imagen pública y a su campaña política. Se analiza la evolución de la retórica mesiánica en la política estadounidense, desde el concepto del "destino manifiesto" hasta la auto-proclamación de Trump como el elegido.
+
+El análisis se centra en la proliferación de imágenes generadas por IA que representan a Trump con atributos divinos, como la curación milagrosa y la vestimenta sagrada. Estas imágenes, difundidas en redes sociales, buscan reforzar su imagen de líder ungido y conectar con su base de seguidores evangélicos.
+
+El artículo concluye que esta estrategia, que mezcla religión, política y marketing, ha generado controversia pero ha sido clave para consolidar el apoyo de un sector del electorado estadounidense. Se advierte sobre el peligro de la idolatría política y las posibles divisiones que esto pueda generar en el futuro del movimiento MAGA.
+
+Saludos, José A.
+
+Donald Trump utiliza imágenes de fuerte contenido religioso en sus redes sociales. Estas representaciones, creadas con inteligencia artificial, lo muestran como una figura mesiánica con poderes divinos. Este fenómeno, analizado en el artículo, redefine la relación entre religión y política en Estados Unidos y genera controversia.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

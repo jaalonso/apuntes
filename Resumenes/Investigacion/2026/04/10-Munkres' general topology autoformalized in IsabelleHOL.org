@@ -1,0 +1,16 @@
+#+TITLE: Munkres' general topology autoformalized in Isabelle/HOL
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/abs/2604.07455v1][«Munkres' general topology autoformalized in Isabelle/HOL»]] presenta un experimento de autoformalización asistida por LLMs que tradujo el [[https://dn790007.ca.archive.org/0/items/munkres2/munkres2_text.pdf][libro de topología de Munkres]] a código verificable en [[https://en.wikipedia.org/wiki/Isabelle_%28proof_assistant%29][Isabelle/HOL]], cubriendo desde espacios topológicos hasta teoría de la dimensión en 85.472 líneas de código.
+
+La metodología consiste en escribir primero esqueletos de prueba con marcadores (/sorry/) y delegar los pasos de demostración al sistema automatizado [[https://isabelle.in.tum.de/website-Isabelle2009-1/sledgehammer.html][Sledgehammer]]. Dos LLMs trabajaron en secuencia: ChatGPT 5.2 generó las definiciones y enunciados; Claude Opus 4.6 eliminó los huecos restantes hasta completar todas las pruebas.
+
+El análisis cualitativo revela que los teoremas son correctos aunque el código es imperfecto: algunas definiciones son más débiles de lo necesario, ciertos enunciados omiten cláusulas del libro original y las pruebas carecen de un paso de optimización. Los autores estiman que una revisión experta de pocos días bastaría para elevar la calidad de la librería.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

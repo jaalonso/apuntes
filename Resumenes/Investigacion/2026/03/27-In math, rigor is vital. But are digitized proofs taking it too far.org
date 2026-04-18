@@ -1,0 +1,16 @@
+#+TITLE: In math, rigor is vital. But are digitized proofs taking it too far?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.quantamagazine.org/in-math-rigor-is-vital-but-are-digitized-proofs-taking-it-too-far-20260325/][«In math, rigor is vital. But are digitized proofs taking it too far?»]] explora la larga historia de la búsqueda de rigor en matemáticas, desde los axiomas de Euclides hasta los debates actuales sobre la formalización computacional. Esta búsqueda ha impulsado avances, pero también plantea interrogantes sobre el equilibrio entre precisión y creatividad.
+
+El proyecto Lean, que busca formalizar toda la matemática en un lenguaje de programación, representa un esfuerzo ambicioso para verificar pruebas automáticamente. Sin embargo, el artículo plantea si esta formalización excesiva podría homogeneizar los enfoques y limitar la diversidad en el campo.
+
+El futuro de la matemática se vislumbra como un equilibrio entre rigor y creatividad. La formalización computacional, como Lean, podría ser crucial, pero exige una reflexión sobre sus posibles implicaciones y la preservación de la intuición en el descubrimiento matemático.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Maven: el proyecto del Pentágono para hacer la guerra con la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://legrandcontinent.eu/es/2026/03/25/maven-el-proyecto-del-pentagono-para-hacer-la-guerra-con-la-ia/][«Maven: el proyecto del Pentágono para hacer la guerra con la IA»]] se comenta que el proyecto Maven surgió en 2017 como una iniciativa del Pentágono para incorporar la IA en las operaciones militares. Drew Cukor lideró este esfuerzo, buscando modernizar la toma de decisiones y superar las limitaciones humanas en el campo de batalla. La iniciativa se inició en un contexto de escepticismo, pero logró atraer a empresas de Silicon Valley y recursos del gobierno.
+
+El proyecto Maven evolucionó rápidamente, expandiéndose desde el análisis de imágenes de drones hasta el desarrollo de sistemas de selección de objetivos automatizados. Esta expansión generó controversias sobre la ética de delegar decisiones letales a máquinas y la posibilidad de errores. A pesar de las críticas, el proyecto continuó avanzando, implementándose en diversas ramas del ejército estadounidense y en la OTAN.
+
+Actualmente, la IA está siendo utilizada en operaciones militares reales, acelerando el ritmo de la guerra y planteando nuevos desafíos en términos de responsabilidad y control. El proyecto Maven representa un cambio fundamental en la forma en que se concibe la guerra, transformando al Pentágono en una organización más ágil y dependiente de la tecnología.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

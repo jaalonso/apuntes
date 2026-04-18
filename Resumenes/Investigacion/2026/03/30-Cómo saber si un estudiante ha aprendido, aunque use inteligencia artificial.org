@@ -1,0 +1,16 @@
+#+TITLE: ¿Cómo saber si un estudiante ha aprendido, aunque use inteligencia artificial?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://theconversation.com/como-saber-si-un-estudiante-ha-aprendido-aunque-use-inteligencia-artificial-276430?utm_medium=email&utm_campaign=La%20Conversacin%20Docente%20-%20Mar-30-26&utm_content=La%20Conversacin%20Docente%20-%20Mar-30-26+CID_5b6c3fd9519be979724d0dfd8b03943e&utm_source=campaign_monitor_es&utm_term=Cmo%20saber%20si%20un%20estudiante%20ha%20aprendido%20aunque%20use%20inteligencia%20artificial][«¿Cómo saber si un estudiante ha aprendido, aunque use inteligencia artificial?»]]  aborda el impacto de la inteligencia artificial en la evaluación educativa superior. La IA permite generar trabajos académicos de alta calidad, poniendo en duda la validez de los métodos tradicionales. Se plantea que el problema no es la tecnología en sí, sino la necesidad de demostrar un aprendizaje real y autoría.
+
+El texto argumenta que la educación superior debe cambiar su enfoque evaluativo, pasando de detectar el uso de IA a verificar la adquisición de competencias.  Se propone evaluar procesos de pensamiento a través de defensas orales, microtareas y la revisión de borradores, integrando la IA como una herramienta más y analizando su uso crítico por parte del estudiante.
+
+El artículo destaca la importancia de una evaluación formativa que oriente al estudiante y le permita mejorar.  Se busca transformar la corrección en un acompañamiento continuo, donde el error se reconozca como una oportunidad de aprendizaje y se fomente la metacognición, evidenciando así un aprendizaje visible y significativo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

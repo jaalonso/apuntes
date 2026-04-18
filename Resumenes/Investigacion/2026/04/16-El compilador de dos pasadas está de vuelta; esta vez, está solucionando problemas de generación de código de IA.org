@@ -1,0 +1,16 @@
+#+TITLE: El compilador de dos pasadas está de vuelta; esta vez, está solucionando problemas de generación de código de IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.infoworld.com/article/4154577/the-two-pass-compiler-is-back-this-time-its-fixing-ai-code-generation.html][«El compilador de dos pasadas está de vuelta; esta vez, está solucionando problemas de generación de código de IA»]] analiza cómo la generación de código por IA ha perdido el determinismo de los años noventa. Los modelos actuales producen resultados variables que no son aptos para software empresarial robusto.
+
+La solución que se  propone replica la arquitectura de compiladores de dos pasos. Primero, la IA crea una representación intermedia estructurada. Luego, un generador determinista transforma ese diseño en código final.
+
+Este método elimina errores de alucinación y vulnerabilidades de seguridad. El resultado es un software reproducible, auditable y listo para producción sin depender de la suerte del modelo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Cómo crear Skills de Claude sencillas para tener tu versión personalizada de la inteligencia artificial
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/basics/como-crear-skills-claude-sencillas-para-tener-tu-version-personalizada-inteligencia-artificial][«Cómo crear Skills de Claude sencillas para tener tu versión personalizada de la inteligencia artificial»]] explica qué son las Skills de Claude, describiéndolas como instrucciones encapsuladas que evitan repetir indicaciones en cada conversación y que cualquier usuario puede crear libremente desde la plataforma de Anthropic.
+
+Para crearlas, el usuario debe acceder a la sección Personalizar, seleccionar Skills y rellenar tres campos: un nombre identificativo, una descripción breve y las instrucciones detalladas que definirán personalidad, objetivos y formato de respuesta.
+
+Una vez creada, la skill se puede seleccionar manualmente al abrir un nuevo chat o bien Claude la detecta y aplica de forma automática cuando el prompt guarda relación con alguna de las habilidades disponibles.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

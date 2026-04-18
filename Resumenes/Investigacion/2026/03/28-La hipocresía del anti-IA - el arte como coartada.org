@@ -1,0 +1,16 @@
+#+TITLE: La hipocresía del “anti-IA”: el arte como coartada
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.eldiario.es/opinionsocios/hipocresia-anti-ia-arte-coartada_132_13100930.html][«La hipocresía del “anti-IA”: el arte como coartada»]] analiza la reciente polémica sobre el uso de la inteligencia artificial en publicidad. El autor, un artista visual, cuestiona la coherencia de quienes se oponen a la IA mientras aceptan herramientas digitales en el diseño gráfico, señalando una doble vara de medir.
+
+El texto argumenta que la tecnología siempre ha influido en el arte, optimizando procesos y permitiendo la producción a gran escala. La verdadera diferencia radica en que la IA es una herramienta más autónoma y, por tanto, genera mayor incomodidad en algunos profesionales.
+
+Finalmente, el autor subraya que la oposición a la IA no es una defensa del arte en sí, sino una preocupación laboral. Propone abordar el problema desde una perspectiva económica y regulatoria, evitando utilizar el arte como pretexto para un conflicto que pertenece a otro ámbito.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

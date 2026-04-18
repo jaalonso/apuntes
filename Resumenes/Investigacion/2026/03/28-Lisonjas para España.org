@@ -1,0 +1,16 @@
+#+TITLE: Lisonjas para España
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/6pnus][«Lisonjas para España»]] se comenta que España ha pasado de estar en riesgo de aislamiento a recibir reconocimiento internacional. El cambio se produce tras su postura contraria a la escalada bélica en Oriente Medio, generando un impacto en la política de otros países como Italia. Esta nueva situación abre oportunidades para España.
+
+La mejora de las relaciones con Argelia, impulsada por la necesidad de diversificación energética, y la oferta de Irán de facilitar el tránsito por el estrecho de Ormuz, demuestran el interés de estos países en mantener lazos con España. Sin embargo, el gobierno español rechaza estas ofertas para no romper la solidaridad europea.
+
+El conflicto en Oriente Medio también está generando un aumento del turismo y el interés por adquirir segundas residencias en España, consolidando al país como un refugio seguro. Andalucía podría beneficiarse de esta situación, aunque el impacto final dependerá de la evolución de la economía mundial.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

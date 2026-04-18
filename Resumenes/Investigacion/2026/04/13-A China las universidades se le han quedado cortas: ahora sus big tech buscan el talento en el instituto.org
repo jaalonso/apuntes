@@ -1,0 +1,16 @@
+#+TITLE: A China las universidades se le han quedado cortas: ahora sus big tech buscan el talento en el instituto
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/magnet/a-china-universidades-se-le-han-quedado-cortas-ahora-sus-big-tech-buscan-talento-instituto][«A China las universidades se le han quedado cortas: ahora sus big tech buscan el talento en el instituto»]] analiza el cambio en el reclutamiento tecnológico en China. Las empresas Big Tech ya no dependen exclusivamente de las universidades. Ahora buscan jóvenes talentos directamente en la secundaria para integrar la creatividad temprana en sus equipos de trabajo.
+
+Esta estrategia responde a la obsolescencia de los planes académicos frente a la IA. Además, China busca la autosuficiencia tecnológica ante las restricciones occidentales. El sector valora la flexibilidad mental de los adolescentes frente a la memorización universitaria.
+
+El fenómeno no es exclusivo de Asia. Empresas estadounidenses como Palantir y Google también priorizan las capacidades reales sobre los títulos académicos. El mercado global avanza hacia un modelo donde el talento prima sobre el diploma.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

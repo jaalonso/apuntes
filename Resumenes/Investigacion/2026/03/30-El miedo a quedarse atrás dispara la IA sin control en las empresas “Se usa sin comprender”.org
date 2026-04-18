@@ -1,0 +1,16 @@
+#+TITLE: El miedo a quedarse atrás dispara la IA sin control en las empresas “Se usa sin comprender”
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/fZFwp][«El miedo a quedarse atrás dispara la IA sin control en las empresas “Se usa sin comprender”»]] analiza cómo el temor a la competencia impulsa a las empresas a adoptar la IA sin evaluar plenamente sus riesgos. Un estudio revela que el 58% de los responsables de IT se sienten presionados a implementar estas tecnologías rápidamente, lo que genera falta de control sobre los sistemas en uso.
+
+El informe destaca que las organizaciones solo detectan entre el 21% y el 40% de las brechas de seguridad vinculadas a la IA, aumentando su vulnerabilidad. Se citan incidentes recientes en Amazon y Meta, donde fallos en la implementación de la IA causaron problemas operativos y filtraciones de datos.
+
+Finalmente, el artículo advierte que el "botón de apagado" propuesto como solución a los riesgos de la IA es insuficiente. La integración de esta tecnología es tan profunda que su desconexión podría provocar fallos en cadena. Los expertos recomiendan supervisión humana estricta y limitar la IA a funciones de apoyo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

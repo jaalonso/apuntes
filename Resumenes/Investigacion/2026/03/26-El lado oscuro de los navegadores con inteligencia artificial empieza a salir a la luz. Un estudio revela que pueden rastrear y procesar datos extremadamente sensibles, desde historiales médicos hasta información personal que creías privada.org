@@ -1,0 +1,16 @@
+#+TITLE: El lado oscuro de los navegadores con inteligencia artificial empieza a salir a la luz. Un estudio revela que pueden rastrear y procesar datos extremadamente sensibles, desde historiales médicos hasta información personal que creías privada
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://es.gizmodo.com/lado-oscuro-de-los-navegadores-de-ia-lo-que-revelo-un-estudio-sobre-tus-datos-mas-intimos-2000186353][«El lado oscuro de los navegadores con inteligencia artificial empieza a salir a la luz. Un estudio revela que pueden rastrear y procesar datos extremadamente sensibles, desde historiales médicos hasta información personal que creías privada»]] se comenta que un estudio internacional alerta que los navegadores con inteligencia artificial recopilan datos extremadamente sensibles de los usuarios, desde historiales médicos hasta información financiera, exponiendo riesgos graves para la privacidad digital.
+
+Investigadores del Reino Unido e Italia analizaron diez asistentes populares y detectaron que todos, salvo Perplexity AI, transmiten contenido completo de páginas visitadas a sus servidores, incluyendo números de seguridad social y registros académicos.
+
+Estas prácticas podrían infringir el RGPD europeo y leyes estadounidenses de privacidad. Los expertos advierten que la comodidad de la IA no debe comprometer el control ciudadano sobre su información personal.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

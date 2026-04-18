@@ -1,0 +1,14 @@
+#+TITLE: Will computers prove theorems?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En su charla [[https://podcasts.ox.ac.uk/will-computers-prove-theorems][«Will computers prove theorems?»]], Kevin Buzzard examina cómo los avances en IA y demostradores de teoremas están transformando las matemáticas. Aborda cuestiones clave: ¿Reemplazarán las computadoras a los matemáticos humanos? ¿Es un cambio inminente o distante? ¿Pueden las redes neuronales descubrir patrones que los humanos hemos pasado por alto?
+
+Buzzard señala que los modelos de lenguaje actuales generan ideas brillantes pero fallan en los detalles precisos. ¿Podría la combinación de estos modelos con demostradores como Lean superar estas limitaciones? También cuestiona si la literatura matemática moderna contiene errores significativos y si las máquinas podrían detectarlos y corregirlos. ¿Sería posible enseñar a una computadora demostraciones complejas como la del último teorema de Fermat? Y finalmente, ¿cuál es la postura de la comunidad matemática ante estos desarrollos?
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

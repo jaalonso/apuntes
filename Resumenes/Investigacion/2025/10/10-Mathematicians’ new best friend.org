@@ -1,0 +1,12 @@
+#+TITLE: Mathematicians’ new best friend?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://scilogs.spektrum.de/hlf/mathematicians-new-best-friend/][«Mathematicians’ new best friend?»]], se analiza el impacto transformador de la inteligencia artificial en las matemáticas, a partir de una mesa redonda celebrada durante el 12º Foro de Laureados de Heidelberg, un encuentro internacional que reúne a jóvenes investigadores y destacados científicos. En este contexto, expertos debatieron cómo la IA ya acelera la resolución de problemas abiertos y podría incluso superar la creatividad humana en tareas como la formulación de conjeturas, lo que genera preocupación sobre el futuro del trabajo matemático. Aunque algunos comparan este cambio con actividades como el ajedrez —donde los humanos siguen participando pese a la superioridad de las máquinas—, otros subrayan que la comunidad matemática aún tiene la responsabilidad de guiar la integración de la IA para preservar el valor humano de la intuición, la interpretación y la creatividad en la disciplina.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

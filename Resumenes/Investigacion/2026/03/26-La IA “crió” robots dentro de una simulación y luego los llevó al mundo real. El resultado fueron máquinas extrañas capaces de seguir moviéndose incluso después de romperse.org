@@ -1,0 +1,16 @@
+#+TITLE: La IA “crió” robots dentro de una simulación y luego los llevó al mundo real. El resultado fueron máquinas extrañas capaces de seguir moviéndose incluso después de romperse
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://es.gizmodo.com/la-ia-crio-robots-dentro-de-una-simulacion-y-luego-los-llevo-al-mundo-real-el-resultado-fueron-maquinas-extranas-capaces-de-seguir-moviendose-incluso-despues-de-romperse-2000228670][«La IA “crió” robots dentro de una simulación y luego los llevó al mundo real. El resultado fueron máquinas extrañas capaces de seguir moviéndose incluso después de romperse»]] se comenta que la Universidad Northwestern ha presentado unas «metamáquinas» cuyas formas no fueron diseñadas por humanos, sino evolucionadas por una IA dentro de simulaciones informáticas. El algoritmo probó miles de combinaciones para hallar configuraciones eficientes sin seguir planos preconcebidos.
+
+Los investigadores construyeron físicamente los diseños más exitosos y los sometieron a pruebas en terrenos reales complejos como barro, grava y césped. Estas estructuras modulares demostraron una capacidad de movimiento versátil y adaptada al entorno físico fuera del laboratorio.
+
+La principal innovación radica en su resiliencia: los robots siguen funcionando incluso si se rompen o separan sus módulos. Cada pieza conserva autonomía propia, lo que permite a la máquina operar tras sufrir daños graves que inutilizarían a los robots tradicionales.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

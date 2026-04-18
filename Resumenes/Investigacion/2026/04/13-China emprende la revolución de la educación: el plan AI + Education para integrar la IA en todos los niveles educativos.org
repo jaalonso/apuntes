@@ -1,0 +1,16 @@
+#+TITLE: China emprende la revolución de la educación: el plan "AI + Education" para integrar la IA en todos los niveles educativos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/robotica-e-ia/china-emprende-revolucion-educacion-plan-ai-education-para-integrar-ia-todos-niveles-educativos][«China emprende la revolución de la educación: el plan "AI + Education" para integrar la IA en todos los niveles educativos»]] describe el nuevo plan educativo chino "AI + Education", una iniciativa del Ministerio de Educación para integrar la Inteligencia Artificial en todos los niveles de enseñanza. Este plan responde a la creciente importancia de la IA a nivel global y busca posicionar a China como líder en este campo.
+
+El proyecto se centra en la redefinición de las habilidades necesarias para el futuro, con la IA como un componente central del currículo. Se prevé la formación de docentes en IA y la implementación de plataformas educativas basadas en esta tecnología, buscando un programa regulado y estandarizado a nivel nacional.
+
+Sin embargo, el artículo también señala la existencia de un lucrativo negocio de "salas de estudio" de IA, donde los niños realizan pruebas sin recibir instrucción, y advierte sobre el riesgo de que la IA ensanche la brecha social entre estudiantes de diferentes entornos. El Ministerio de Educación busca regular el uso de la IA en las aulas, promoviendo su uso como herramienta de apoyo supervisada.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

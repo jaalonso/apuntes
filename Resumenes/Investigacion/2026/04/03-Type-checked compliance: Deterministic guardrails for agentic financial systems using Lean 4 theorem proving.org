@@ -1,0 +1,16 @@
+#+TITLE: Type-checked compliance: Deterministic guardrails for agentic financial systems using Lean 4 theorem proving
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/abs/2604.01483v1][«Type-checked compliance: Deterministic guardrails for agentic financial systems using Lean 4 theorem proving»]] presenta una crisis arquitectónica en el sector financiero: los sistemas de IA agéntica operan de forma probabilística, mientras que reguladores como la SEC, FINRA y la OCC exigen garantías absolutas. Las soluciones actuales, como NeMo Guardrails, son insuficientes por su naturaleza estocástica.
+
+Para resolverlo, los autores diseñan el [[https://github.com/arkanemystic/lean-agent-protocol][Lean-Agent Protocol]], que usa el modelo [[https://aristotle.harmonic.fun/][Aristotle]] para convertir políticas institucionales en axiomas de [[https://lean-lang.org/][Lean 4]]. Cada acción propuesta por un agente debe ser demostrada matemáticamente antes de ejecutarse, con una latencia de solo cinco microsegundos y sandboxing vía WebAssembly.
+
+El protocolo se despliega en tres fases progresivas y cubre las principales normativas financieras y de privacidad. Además, incorpora un mecanismo de explicación en lenguaje natural para auditorías, transformando errores formales en avisos comprensibles que satisfacen mandatos de transparencia algorítmica.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

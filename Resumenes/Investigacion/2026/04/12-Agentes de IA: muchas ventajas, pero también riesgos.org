@@ -1,0 +1,16 @@
+#+TITLE: Agentes de IA: muchas ventajas, pero también riesgos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.lemondeinformatique.fr/actualites/lire-les-agents-ia-beaucoup-d-atouts-mais-aussi-des-risques-99840.html][«Agentes de IA: muchas ventajas, pero también riesgos»]] analiza el auge de la inteligencia artificial agéntica, sistemas con capacidad de tomar decisiones autónomas y ejecutar tareas complejas. Estas herramientas prometen optimizar flujos de trabajo y aumentar la eficiencia en las organizaciones, permitiendo a los empleados enfocarse en labores más estratégicas.
+
+Sin embargo, esta tecnología también presenta riesgos importantes. Se destaca la posibilidad de errores a gran escala debido a la velocidad de ejecución, así como vulnerabilidades de seguridad y el potencial de acceso no autorizado a datos sensibles, ejemplificado por un incidente con la herramienta OpenClaw.
+
+El artículo subraya la necesidad de una implementación cuidadosa, con controles robustos y una comprensión clara de los procesos internos de cada empresa. A pesar de los desafíos, se espera una adopción generalizada de la IA agéntica, aunque con un enfoque pragmático de experimentación y aprendizaje continuo.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

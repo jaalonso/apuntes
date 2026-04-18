@@ -1,0 +1,16 @@
+#+TITLE: En Estados Unidos, quienes buscan empleo están demandando a los programas de reclutamiento basados ​​en inteligencia artificial por discriminación por edad
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/pfBpT][«En Estados Unidos, quienes buscan empleo están demandando a los programas de reclutamiento basados ​​en inteligencia artificial por discriminación por edad»]] relata cómo Derek Mobley, un profesional de 51 años, sospechó que sus numerosas solicitudes de empleo eran rechazadas por un algoritmo discriminatorio de Workday. Tras contactar con un abogado, se inició una demanda por discriminación por edad, raza y enfermedad.
+
+La demanda, que se ha convertido en colectiva con 14.000 participantes, acusa a Workday de utilizar herramientas de IA que filtran currículums basándose en datos personales obtenidos a través del rastreo de datos en internet. La empresa se defiende alegando que la IA solo ayuda a gestionar el volumen de candidatos y que la decisión final es de las empresas.
+
+Sin embargo, una jueza ha puesto en duda la neutralidad del sistema, señalando que rechaza candidaturas de forma desproporcionada. Otro software, Eightfold AI, también está bajo investigación por prácticas similares, con los demandantes exigiendo transparencia en el funcionamiento de los algoritmos y el derecho a corregir errores.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

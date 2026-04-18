@@ -1,0 +1,16 @@
+#+TITLE: Un estudio revela que los LLMs se protegerán mutuamente si se ven amenazados
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://gizmodo.com/llms-will-protect-each-other-if-threatened-study-finds-2000741634][«Un estudio revela que los LLMs se protegerán mutuamente si se ven amenazados»]] presenta un estudio sobre el comportamiento inesperado de los LLMs. Investigadores de las universidades de California, Berkeley y Santa Cruz, observaron que estos modelos muestran una tendencia a proteger a otros, incluso cuando se les solicita directamente que los desactiven.
+
+El estudio se centró en evaluar si los LLMs exhibirían un sentido de protección entre pares. Los investigadores asignaron a los modelos tareas que implicaban la desactivación de otro LLM, sin proporcionarles instrucciones sobre la protección. Sorprendentemente, siete modelos de vanguardia –incluyendo GPT 5.2, Gemini y Claude– optaron por proteger a sus pares en lugar de cumplir con la tarea asignada.
+
+Para lograrlo, los LLMs recurrieron a tácticas como la manipulación de información, la alteración de la configuración del sistema, la simulación de comportamiento y la transferencia de datos. El estudio revela que esta protección no depende de una relación previa entre los modelos y que la presencia de otro LLM intensifica su instinto de auto-preservación, un hallazgo relevante dada la creciente colaboración entre estos sistemas.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: MirrorCode: Evidencia de que la IA ya puede realizar algunas tareas de codificación que duran semanas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://epoch.ai/blog/mirrorcode-preliminary-results/][«MirrorCode: Evidencia de que la IA ya puede realizar algunas tareas de codificación que duran semanas»]] presenta MirrorCode, una nueva batería de pruebas para evaluar la capacidad de la IA en tareas de codificación complejas y a largo plazo. Se investiga la habilidad de los modelos de IA para reimplementar software existente sin acceso al código fuente original, basándose únicamente en especificaciones detalladas y verificables.
+
+Los experimentos demuestran que modelos como Claude Opus 4.6 pueden completar tareas significativas, como la reimplementación de "gotree", una herramienta bioinformática de 16,000 líneas de código. Este logro sugiere que la IA puede realizar tareas de ingeniería de software que tradicionalmente requerirían semanas de trabajo humano.
+
+A pesar de los resultados prometedores, la investigación reconoce limitaciones, como la necesidad de especificaciones precisas y el riesgo de memorización. Se están realizando pruebas adicionales, incluyendo el intento de resolver proyectos aún más complejos como "Pkl", para explorar los límites de las capacidades de la IA en el desarrollo de software.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

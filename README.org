@@ -1,14 +1,8 @@
 #+TITLE: Almacén de apuntes
 
-* Enlaces
-+ [[./Enlaces_a_la_prensa.org][Enlaces a la prensa]].
-+ [[./Enlaces_listas_de_correo.org][Enlaces a las listas de correo]].
-
-* Lecturas
-+ [[./Lectures_on_AI_for_mathematics/Lectures_on_AI_for_mathematics.md][Lectures on AI for mathematics]].
-+ [[./The_agentification_of_scientific_research.md][The agentification of scientific research]].
-
-* Resúmenes
++ [[./Enlaces/Enlaces.org][Enlaces]]
++ [[./Lecturas/Lecturas.org][Lecturas]].
++ [[./Resumenes/Resumenes.org][Resúmenes]].
 
 ** Resúmenes de noticias
 + [[./Resumenes/Noticias/2026/04-Abril.org][Resúmenes de noticias de Abril de 2026]].

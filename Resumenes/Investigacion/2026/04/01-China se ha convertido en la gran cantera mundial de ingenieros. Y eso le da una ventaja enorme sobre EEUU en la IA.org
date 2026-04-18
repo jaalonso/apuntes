@@ -1,0 +1,16 @@
+#+TITLE: China se ha convertido en la gran cantera mundial de ingenieros. Y eso le da una ventaja enorme sobre EEUU en la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/robotica-e-ia/hay-carrera-ia-mucho-profunda-e-importante-que-china-esta-aplastando-a-sus-competidores-talento-humano][«China se ha convertido en la gran cantera mundial de ingenieros. Y eso le da una ventaja enorme sobre EEUU en la IA»]] analiza el auge de China como potencia en el campo de la IA. Destaca cómo, en la conferencia NeurIPS 2025, China superó a Estados Unidos en la presentación de estudios, marcando un hito en la carrera tecnológica global. Este cambio se atribuye a una inversión estratégica en educación e investigación.
+
+El análisis revela que las universidades chinas dominan la formación de los investigadores de IA, con nueve de las diez principales instituciones ubicadas en el país. Además, EE.UU. depende cada vez más del talento formado en China, ya que un porcentaje significativo de los investigadores que publican desde EE.UU. se graduaron en universidades chinas.
+
+Esta dinámica, junto con el aumento de graduados en IA en China y el creciente retorno de expertos, podría llevar a que el gigante asiático supere a EE.UU. en número de investigadores de IA en los próximos años.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

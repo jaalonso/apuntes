@@ -1,0 +1,16 @@
+#+TITLE: Ahora es opcional hacer los deberes escolares
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.theatlantic.com/technology/2026/04/ai-agents-school-education/686754][«¿Ahora es opcional hacer los deberes escolares?»]] examina cómo la inteligencia artificial está cambiando rápidamente el panorama educativo. La aparición de herramientas avanzadas, capaces de realizar tareas complejas como completar cursos online y responder exámenes, plantea interrogantes sobre el futuro del aprendizaje.
+
+La prueba de fuego fue el bot [[https://www.insidehighered.com/news/tech-innovation/artificial-intelligence/2026/02/26/agentic-ai-can-complete-whole-courses-now][Einstein]], diseñado para demostrar la capacidad de la IA para automatizar completamente el trabajo escolar. Su lanzamiento generó controversia y una respuesta legal de Canvas, pero evidenció el potencial de la IA para desafiar los métodos tradicionales de enseñanza.
+
+Actualmente, las empresas tecnológicas están promoviendo la integración de la IA en las aulas, ofreciendo acceso gratuito a sus herramientas. Mientras algunos estudiantes las utilizan para mejorar sus estudios, otros temen que esto pueda afectar negativamente sus habilidades de pensamiento crítico y la relación con los profesores.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

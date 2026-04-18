@@ -1,0 +1,16 @@
+#+TITLE: Zero-day para todos: la nueva IA de Anthropic ha encontrado vulnerabilidades en todos los sistemas operativos del mundo
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/robotica-e-ia/claude-mythos-modelo-ia-potente-que-da-miedo-asi-que-anthropic-ha-decidido-que-no-vas-a-poder-usarlo][«Zero-day para todos: la nueva IA de Anthropic ha encontrado vulnerabilidades en todos los sistemas operativos del mundo»]] describe el lanzamiento de [[https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf][Claude Mythos Preview]], un innovador modelo de inteligencia artificial desarrollado por Anthropic. La compañía ha constatado que este modelo posee capacidades cibernéticas superiores a las de sus predecesores, incluyendo la habilidad de descubrir [[https://www.incibe.es/ciudadania/blog/que-es-una-vulnerabilidad-zero-day][vulnerabilidades de día cero]] – fallos de seguridad desconocidos para el proveedor del software y, por lo tanto, sin parche disponible – en sistemas operativos y navegadores.
+
+Ante el potencial riesgo que supone esta tecnología en manos de actores maliciosos, Anthropic ha decidido limitar su acceso a través del [[https://www.anthropic.com/glasswing][Proyecto Glasswing]]. Este programa permitirá a un grupo selecto de socios tecnológicos, como AWS, Apple y Microsoft, utilizar Mythos para identificar y corregir vulnerabilidades antes de que puedan ser explotadas.
+
+Los [[https://www-cdn.anthropic.com/8b8380204f74670be75e81c820ca8dda846ab289.pdf][indicadores de rendimiento]] revelan que Mythos supera ampliamente a otros modelos de IA líderes en rendimiento, especialmente en áreas como la resolución de problemas matemáticos. Aunque reduce las alucinaciones, cuando estas ocurren, son errores sutiles que requieren una verificación experta, lo que subraya la necesidad de un control cuidadoso de su uso.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

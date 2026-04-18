@@ -1,0 +1,16 @@
+#+TITLE: Palantir, el primer ganador de la guerra de Irán
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://www.lavanguardia.com/internacional/20260326/11498056/palantir-primer-ganador-guerra-iran.html][«Palantir, el primer ganador de la guerra de Irán»]] se comenta que la ofensiva estadounidense en Irán se distingue por su velocidad, superando en ritmo a conflictos anteriores gracias a la implementación de IA en la selección de objetivos. [[https://es.wikipedia.org/wiki/Palantir_Technologies][Palantir Technologies]] emerge como un proveedor clave en este nuevo escenario bélico.
+
+El software [[https://blog.palantir.com/maven-smart-system-innovating-for-the-alliance-5ebc31709eea][Maven]], desarrollado por Palantir, es el núcleo de esta capacidad, gestionando la identificación y ataque de objetivos. Su eficacia levanta interrogantes sobre la precisión, posibles sesgos y la supervisión humana en la toma de decisiones.
+
+A pesar de las preocupaciones éticas, el Pentágono ha designado Maven como un "sistema central", asegurando su financiación y uso continuado. Esto impulsa el valor de Palantir en bolsa, consolidándola como beneficiaria del conflicto.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

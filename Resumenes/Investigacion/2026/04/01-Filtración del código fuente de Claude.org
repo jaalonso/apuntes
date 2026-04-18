@@ -1,0 +1,16 @@
+#+TITLE: Filtración del código fuente de Claude
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.latent.space/p/ainews-the-claude-code-source-leak][«Filtración del código fuente de Claude»]] analiza la reciente fuga del código fuente de Claude, destacando que, aunque embarazosa para Anthropic, no representa una amenaza directa a sus modelos de IA. La filtración expone la arquitectura del agente, incluyendo sus sistemas de memoria y planificación.
+
+La fuga ha generado un gran interés en la comunidad de desarrolladores, quienes están analizando el código para comprender mejor el diseño de los agentes de IA de última generación. Anthropic ha respondido con solicitudes de eliminación para controlar la propagación del código, pero la información ya está ampliamente disponible.
+
+Finalmente, el artículo también menciona la reciente ronda de financiación de OpenAI, que ha alcanzado una cifra récord, y el estancamiento en el crecimiento de usuarios de ChatGPT. Esto sitúa a ambas empresas en el centro de la atención en el competitivo campo de la inteligencia artificial.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

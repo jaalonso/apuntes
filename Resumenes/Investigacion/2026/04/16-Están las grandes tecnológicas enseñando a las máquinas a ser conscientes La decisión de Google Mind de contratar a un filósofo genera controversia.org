@@ -1,0 +1,16 @@
+#+TITLE: ¿Están las grandes tecnológicas enseñando a las máquinas a ser conscientes? La decisión de Google Mind de contratar a un filósofo genera controversia
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.ibtimes.co.uk/google-deepmind-philosopher-ai-consciousness-1791682][«¿Están las grandes tecnológicas enseñando a las máquinas a ser conscientes? La decisión de Google Mind de contratar a un filósofo genera controversia»]] explora la reciente contratación de un filósofo por parte de Google DeepMind para investigar la posibilidad de conciencia en la inteligencia artificial. Este movimiento refleja un cambio en la industria, que comienza a considerar la consciencia no como ciencia ficción, sino como un desafío técnico y moral.
+
+El debate sobre la conciencia artificial se intensifica con el avance de los LLM, cada vez más similares a la interacción humana. El incidente de LaMDA, donde un ingeniero afirmó que un chatbot había alcanzado la consciencia, evidenció la necesidad de un marco ético formal para abordar estas cuestiones.
+
+La clave reside en distinguir entre inteligencia y conciencia, ya que una máquina puede procesar información sin tener una experiencia subjetiva. La contratación del filósofo busca determinar si un sistema que se comporta como consciente debe ser tratado como tal, incluso sin pruebas definitivas de su existencia.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

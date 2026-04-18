@@ -1,0 +1,16 @@
+#+TITLE: La gente en la inteligencia artificial (II)
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/1Jczz][«La gente en la inteligencia artificial (II)»]] explora la tendencia de la tecnología, especialmente la digital, a generar respuestas automáticas en lugar de una reflexión consciente. Se argumenta que esta característica crea un "inconsciente digital" y una falta de conciencia sobre las implicaciones del desarrollo tecnológico.
+
+El autor señala que la gobernanza algorítmica, al basarse en la satisfacción de las preferencias individuales, puede despolitizar a la sociedad. Esta lógica algorítmica neutraliza el cuestionamiento crítico y dificulta la deliberación democrática, ya que impide el escrutinio de los modelos y la información subyacente.
+
+Se defiende que la democracia no debe limitarse a satisfacer necesidades, sino promover la reflexión colectiva sobre ellas. La tecnología no es un destino inevitable, sino una herramienta que puede ser moldeada por la intervención humana y adaptada a los valores y patrones culturales de cada sociedad.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

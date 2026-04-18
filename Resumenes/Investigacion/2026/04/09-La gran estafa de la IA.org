@@ -1,0 +1,16 @@
+#+TITLE: La gran estafa de la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/iROd0][«La gran estafa de la IA»]] examina el plan de inteligencia artificial del gobierno de Trump, revelando una estrategia que prioriza los intereses de la industria tecnológica sobre el bienestar público. Se describe cómo la administración busca convertir a Estados Unidos en líder mundial en IA, invirtiendo fuertemente en infraestructura y promoviendo la exportación de tecnología.
+
+El texto argumenta que esta política reproduce patrones del pasado, como el apoyo gubernamental a la industria de los semiconductores en los años 80, con resultados ambiguos. La industria de la IA, al igual que la de los semiconductores, depende en gran medida del apoyo estatal para sostener su crecimiento, pero este apoyo podría tener costos significativos para la economía y la sociedad.
+
+Los autores advierte sobre los riesgos de una apuesta excesiva en la IA, incluyendo la pérdida de empleos y la concentración de poder en Silicon Valley. Se cuestiona la viabilidad del desarrollo de la Inteligencia Artificial General y se critica la falta de transparencia y rendición de cuentas en la implementación de esta política.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Las objeciones religiosas a la IA en el ámbito laboral surgen como una nueva preocupación para los empleadores
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/hEJdw][«Las objeciones religiosas a la IA en el ámbito laboral surgen como una nueva preocupación para los empleadores»]] analiza cómo la expansión de la inteligencia artificial en el ámbito laboral está generando nuevas preocupaciones legales para las empresas. Se anticipa que la IA modificará una parte significativa de los empleos en EE.UU., lo que podría llevar a que los trabajadores soliciten exenciones religiosas al usar esta tecnología.
+
+El núcleo del debate reside en la protección legal de las creencias religiosas individuales, amparadas por el Título VII de la Ley de Derechos Civiles. Las empresas deben evaluar seriamente estas solicitudes, especialmente tras la sentencia Groff v. DeJoy, que establece un umbral más bajo para aprobar las adaptaciones religiosas, requiriendo la demostración de "costos sustanciales" para denegarlas.
+
+El artículo destaca que las guías religiosas emitidas por instituciones como el Vaticano y la Convención Bautista del Sur, junto con precedentes legales, refuerzan la necesidad de que las empresas aborden estas cuestiones con sensibilidad y respeto por la diversidad de creencias, incluso aquellas que no se ajustan a las normas tradicionales.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,218 @@
+#+TITLE: Resúmenes de artículos de investigación y divulgación del 2026
+
+** Enero de 2026
++ [[./01/24-Sobre la resolución de problemas de Erdős usando inteligencia artificial generativa.org][24 Sobre la resolución de problemas de Erdős usando inteligencia artificial generativa]].
++ [[./01/31-Aristotle, an AI theorem prover using Lean.org][31 Aristotle, an AI theorem prover using Lean.org]].
+
+** Febrero de 2026
++ [[./02/03-Recent advances in LLMs for mathematics.org][03 Recent advances in LLMs for mathematics.org]].
++ [[./02/09-Accelerating mathematics.org][09 Accelerating mathematics.org]].
++ [[./02/12-Machine assistance and the future of research mathematics.org][12 Machine assistance and the future of research mathematics.org]].
++ [[./02/17-Matemáticas y creatividad de las máquinas - un estudio sobre cómo conectar las matemáticas con la IA.org][17 Matemáticas y creatividad de las máquinas - un estudio sobre cómo conectar las matemáticas con la IA.org]].
++ [[./02/27-IA que puede demostrar que tiene razón: la verificación como la capa que falta en la IA.org][27 IA que puede demostrar que tiene razón: la verificación como la capa que falta en la IA.org]].
+
+** Marzo de 2026
++ [[./03/11-Mathematicians in the age of AI.org][11 Mathematicians in the age of AI]].
++ [[./03/23-Cómo evito que la IA me diga lo que quiero oír.org][23 Cómo evito que la IA me diga lo que quiero oír]].
++ [[./03/23-El fin de la programación informática tal como la conocemos.org][23 El fin de la programación informática tal como la conocemos]].
++ [[./03/23-La IA ha resuelto uno de los problemas abiertos de FrontierMath.org][23 La IA ha resuelto uno de los problemas abiertos de FrontierMath]].
++ [[./03/23-La primera crisis de la IA es psicológica.org][23 La primera crisis de la IA es psicológica]].
++ [[./03/24-Así entrené durante meses a la IA que me quitó el puesto de trabajo.org][24 Así entrené durante meses a la IA que me quitó el puesto de trabajo]].
++ [[./03/24-De compras por ChatGPT: cómo la IA terminará por hacernos vestir a todos igual.org][24 De compras por ChatGPT: cómo la IA terminará por hacernos vestir a todos igual]].
++ [[./03/24-Primer caso de una  IA que descubre que está siendo evaluada y encuentra la solución.org][24 Primer caso de una  IA que descubre que está siendo evaluada y encuentra la solución]].
++ [[./03/24-Qué cantidad de agua consume la IA.org][24 Qué cantidad de agua consume la IA]].
++ [[./03/25-Está realmente corrompida la ciencia.org][25 Está realmente corrompida la ciencia]].
++ [[./03/25-La paradoja rendimiento-aprendizaje: cuando la IA mejora las notas pero deteriora el conocimiento.org][25 La paradoja rendimiento-aprendizaje: cuando la IA mejora las notas pero deteriora el conocimiento]].
++ [[./03/25-La Universidad de Pensilvania tiene un problema con la IA.org][25 La Universidad de Pensilvania tiene un problema con la IA]].
++ [[./03/25-La verificación formal y la IA están transformando la investigación matemática.org][25 La verificación formal y la IA están transformando la investigación matemática]].
++ [[./03/25-Los adultos pierden habilidades a causa de la IA. Los niños nunca las desarrollan.org][25 Los adultos pierden habilidades a causa de la IA. Los niños nunca las desarrollan]].
++ [[./03/25-Los jóvenes graduados se enfrentan al mercado laboral más sombrío de los últimos años.org][25 Los jóvenes graduados se enfrentan al mercado laboral más sombrío de los últimos años]].
++ [[./03/25-Los profesores de la enseñanza pública harán con una IA oficial la primera evaluación de los alumnos.org][25 Los profesores de la enseñanza pública harán con una IA oficial la primera evaluación de los alumnos]].
++ [[./03/26-El lado oscuro de los navegadores con inteligencia artificial empieza a salir a la luz. Un estudio revela que pueden rastrear y procesar datos extremadamente sensibles, desde historiales médicos hasta información personal que creías privada.org][26 El lado oscuro de los navegadores con inteligencia artificial empieza a salir a la luz. Un estudio revela que pueden rastrear y procesar datos extremadamente sensibles, desde historiales médicos hasta información personal que creías privada]].
++ [[./03/26-Es el gusto lo único que la IA no puede reemplazar.org][26 Es el gusto lo único que la IA no puede reemplazar]].
++ [[./03/26-La IA “crió” robots dentro de una simulación y luego los llevó al mundo real. El resultado fueron máquinas extrañas capaces de seguir moviéndose incluso después de romperse.org][26 La IA “crió” robots dentro de una simulación y luego los llevó al mundo real. El resultado fueron máquinas extrañas capaces de seguir moviéndose incluso después de romperse]].
++ [[./03/26-La inteligencia artificial recorta en un 40% las ofertas de empleo IT para jóvenes.org][26 La inteligencia artificial recorta en un 40% las ofertas de empleo IT para jóvenes]].
++ [[./03/26-Matrimonio terminado, 100.000 euros tirados a la basura: los usuarios de IA cuyas vidas fueron arruinadas por el delirio.org][26 Matrimonio terminado, 100.000 euros tirados a la basura: los usuarios de IA cuyas vidas fueron arruinadas por el delirio]].
++ [[./03/26-Palantir, el primer ganador de la guerra de Irán.org][26 Palantir, el primer ganador de la guerra de Irán]].
++ [[./03/26-Planeta Palantir: una nueva máquina de guerra más audaz.org][26 Planeta Palantir: una nueva máquina de guerra más audaz]].
++ [[./03/26-Posible líder de la gigafactoría de IA española.org][26 Posible líder de la gigafactoría de IA española]].
++ [[./03/26-Se culpó a la IA del atentado con bomba en la escuela de Irán. La verdad es mucho más preocupante.org][26 Se culpó a la IA del atentado con bomba en la escuela de Irán. La verdad es mucho más preocupante]].
++ [[./03/27-El futuro de la IA es local.org][27 El futuro de la IA es local]].
++ [[./03/27-Impulsar las matemáticas guiando la intuición humana con IA.org][27 Impulsar las matemáticas guiando la intuición humana con IA]].
++ [[./03/27-In math, rigor is vital. But are digitized proofs taking it too far.org][27 In math, rigor is vital. But are digitized proofs taking it too far]].
++ [[./03/27-La gente realmente detesta la IA, incluso más que el ICE.org][27 La gente realmente detesta la IA, incluso más que el ICE]].
++ [[./03/27-La IA afecta al criterio social de los usuarios al no llevarles la contraria.org][27 La IA afecta al criterio social de los usuarios al no llevarles la contraria]].
++ [[./03/27-Lo que los hipnotizadores de la IA pasan por alto.org][27 Lo que los hipnotizadores de la IA pasan por alto]].
++ [[./03/27-Los planes del ejército chino para hacer la guerra con IA: 7 puntos sobre el informe de la RAND.org][27 Los planes del ejército chino para hacer la guerra con IA: 7 puntos sobre el informe de la RAND]].
++ [[./03/27-Los tentáculos de Palantir en Europa.org][27 Los tentáculos de Palantir en Europa]].
++ [[./03/27-Maven: el proyecto del Pentágono para hacer la guerra con la IA.org][27 Maven: el proyecto del Pentágono para hacer la guerra con la IA]].
++ [[./03/27-Necesita la IA una constitución.org][27 Necesita la IA una constitución]].
++ [[./03/27-Pueden las máquinas hacer matemáticas.org][27 Pueden las máquinas hacer matemáticas]].
++ [[./03/27-Según un estudio, está aumentando el número de chatbots con IA que ignoran las instrucciones humanas.org][27 Según un estudio, está aumentando el número de chatbots con IA que ignoran las instrucciones humanas]].
++ [[./03/27-Why mathematicians are boycotting their biggest conference.org][27 Why mathematicians are boycotting their biggest conference]].
++ [[./03/28-Bellezas matemáticas.org][28 Bellezas matemáticas]].
++ [[./03/28-Dando forma al futuro de las matemáticas en la era de la IA.org][28 Dando forma al futuro de las matemáticas en la era de la IA]].
++ [[./03/28-Envidia de Pedro Sánchez.org][28 Envidia de Pedro Sánchez]].
++ [[./03/28-La hipocresía del anti-IA - el arte como coartada.org][28 La hipocresía del anti-IA - el arte como coartada]].
++ [[./03/28-Lisonjas para España.org][28 Lisonjas para España]].
++ [[./03/28-Lo que oculta la cuestión de la consciencia en la IA.org][28 Lo que oculta la cuestión de la consciencia en la IA]].
++ [[./03/28-Meredith Whittaker, presidenta de Signal, en una cruzada contra la vigilancia masiva.org][28 Meredith Whittaker, presidenta de Signal, en una cruzada contra la vigilancia masiva]].
++ [[./03/28-Pete Hegseth está dotando a la violencia de una rectitud religiosa.org][28 Pete Hegseth está dotando a la violencia de una rectitud religiosa]].
++ [[./03/28-Silicon Valley comprendió antes que nadie que la guerra del futuro sería una guerra de software.org][28 Silicon Valley comprendió antes que nadie que la guerra del futuro sería una guerra de software]].
++ [[./03/28-Sobre la memorización.org][28 Sobre la memorización]].
++ [[./03/29-A medida que la IA sigue mejorando, los matemáticos luchan por predecir su propio futuro.org][29 A medida que la IA sigue mejorando, los matemáticos luchan por predecir su propio futuro]].
++ [[./03/29-Claude, mi amigo (Un romance intelectual).org][29 Claude, mi amigo (Un romance intelectual)]].
++ [[./03/29-El cerebro moldea el cuerpo, sí…, pero también viceversa.org][29 El cerebro moldea el cuerpo, sí…, pero también viceversa]].
++ [[./03/29-Embracing AI and formalization: Experimenting with tomorrow’s mathematical tools.org][29 Embracing AI and formalization: Experimenting with tomorrow’s mathematical tools]].
++ [[./03/29-La desregulación no tiene que ver con el mercado, sino con el poder.org][29 La desregulación no tiene que ver con el mercado, sino con el poder]].
++ [[./03/29-Las matemáticas en la biblioteca de Babel.org][29 Las matemáticas en la biblioteca de Babel]].
++ [[./03/29-Qué sucede cuando la IA comienza a revisar el trabajo de los matemáticos.org][29 Qué sucede cuando la IA comienza a revisar el trabajo de los matemáticos]].
++ [[./03/30-Argumentos.or][30 Argumentos]].
++ [[./03/30-Arthur Mensch, director de Mistral AI, defensor de la inteligencia artificial abierta y soberana.org][30 Arthur Mensch, director de Mistral AI, defensor de la inteligencia artificial abierta y soberana]].
++ [[./03/30-«Ataque a la justicia»: cómo los ataques de la extrema derecha amenazan el estado de derecho en Europa.org][30 «Ataque a la justicia»: cómo los ataques de la extrema derecha amenazan el estado de derecho en Europa]].
++ [[./03/30-Cómo saber si un estudiante ha aprendido, aunque use inteligencia artificial.org][30 Cómo saber si un estudiante ha aprendido, aunque use inteligencia artificial]].
++ [[./03/30-El examen oral, actualizado: una alternativa de evaluación en tiempos de IA.org][30 El examen oral, actualizado: una alternativa de evaluación en tiempos de IA]].
++ [[./03/30-El miedo a quedarse atrás dispara la IA sin control en las empresas “Se usa sin comprender”.org][30 El miedo a quedarse atrás dispara la IA sin control en las empresas “Se usa sin comprender”]].
++ [[./03/30-En Alemania, el SPD propone reformas para salir de su crisis.org][30 En Alemania, el SPD propone reformas para salir de su crisis]].
++ [[./03/30-En materia de inmigración, España va en contra de la corriente de sus vecinos europeos.org][30 En materia de inmigración, España va en contra de la corriente de sus vecinos europeos]].
++ [[./03/30-La comodidad de la ignorancia.org][30 La comodidad de la ignorancia]].
++ [[./03/30-La IA generativa sin límites puede perjudicar el aprendizaje - evidencia de las matemáticas de la escuela secundaria.org][30 La IA generativa sin límites puede perjudicar el aprendizaje - evidencia de las matemáticas de la escuela secundaria]].
++ [[./03/30-La intuición de Trump le falló en Irán, y todos estamos pagando el precio de su diplomacia fallida.org][30 La intuición de Trump le falló en Irán, y todos estamos pagando el precio de su diplomacia fallida]].
++ [[./03/30-«Pronto las editoriales no tendrán ninguna posibilidad» el mundo literario lucha por detectar libros escritos por IA.org][30 «Pronto las editoriales no tendrán ninguna posibilidad» el mundo literario lucha por detectar libros escritos por IA]].
++ [[./03/30-Según el historiador Richard White, "la forma en que Trump está utilizando la presidencia para amasar descaradamente riqueza para sí mismo y su familia no tiene precedentes".org][30 Según el historiador Richard White, "la forma en que Trump está utilizando la presidencia para amasar descaradamente riqueza para sí mismo y su familia no tiene precedentes"]].
++ [[./03/30-Solo el comienzo.org][30 Solo el comienzo]].
++ [[./03/30-Todos firmes ante la soldado Foster.org][30 Todos firmes ante la soldado Foster]].
++ [[./03/31-Esta startup quiere cambiar la forma en que los matemáticos hacen matemáticas.md][31 Esta startup quiere cambiar la forma en que los matemáticos hacen matemáticas]].
++ [[./03/31-Esta startup quiere cambiar la forma en que los matemáticos hacen matemáticas.org][31 Esta startup quiere cambiar la forma en que los matemáticos hacen matemáticas]].
++ [[./03/31-La IA ya influye en el voto: algunos asistentes recomiendan partidos políticos en España.org][31 La IA ya influye en el voto: algunos asistentes recomiendan partidos políticos en España]].
++ [[./03/31-Mathematical methods and human thought in the age of AI.org][31 Mathematical methods and human thought in the age of AI]].
++ [[./03/31-Schopenhauer, la soledad y la batería social.org][31 Schopenhauer, la soledad y la batería social]].
+
+** Abril de 2026
++ [[./04/01-China se ha convertido en la gran cantera mundial de ingenieros. Y eso le da una ventaja enorme sobre EEUU en la IA.org][01 China se ha convertido en la gran cantera mundial de ingenieros. Y eso le da una ventaja enorme sobre EEUU en la IA]].
++ [[./04/01-Cómo crear Skills de Claude sencillas para tener tu versión personalizada de la inteligencia artificial.org][01 Cómo crear Skills de Claude sencillas para tener tu versión personalizada de la inteligencia artificial]].
++ [[./04/01-Cómo las empresas se benefician del uso oculto de la IA en el trabajo.org][01 Cómo las empresas se benefician del uso oculto de la IA en el trabajo]].
++ [[./04/01-Filtración del código fuente de Claude.org][01 Filtración del código fuente de Claude]].
++ [[./04/01-Israel pone en marcha su “Solución Definitiva” e insiste en que no se parece en nada a la “Solución Final” de la Alemania Nazi.org][01 Israel pone en marcha su “Solución Definitiva” e insiste en que no se parece en nada a la “Solución Final” de la Alemania Nazi]].
++ [[./04/01-La IA acaba de hacerle una pregunta incómoda a la física teórica. Qué pasa si algunos de sus resultados más citados nunca fueron tan sólidos como parecían.org][01 La IA acaba de hacerle una pregunta incómoda a la física teórica. Qué pasa si algunos de sus resultados más citados nunca fueron tan sólidos como parecían]].
++ [[./04/01-Los costes ocultos de la IA "útil".org][01 Los costes ocultos de la IA "útil"]].
++ [[./04/01-Nietzsche, Temu, scroll infinito y ansiolíticos.org][01 Nietzsche, Temu, scroll infinito y ansiolíticos]].
++ [[./04/01-Short proofs in combinatorics and number theory.org][01 Short proofs in combinatorics and number theory]].
++ [[./04/01-Snowflake Cortex AI escapa del entorno aislado y ejecuta malware.org][01 Snowflake Cortex AI escapa del entorno aislado y ejecuta malware]].
++ [[./04/01-Un dios estresado.org][01 Un dios estresado]].
++ [[./04/02-IA para el descubrimiento matemático y científico.org][02 IA para el descubrimiento matemático y científico]].
++ [[./04/03-DeepSeek-Prover-V2-7B bridges the gap between mathematical thought and formal code.org][03 DeepSeek-Prover-V2-7B bridges the gap between mathematical thought and formal code]].
++ [[./04/03-The anti-intellectualism of the Silicon Valley elite.org][03 The anti-intellectualism of the Silicon Valley elite]].
++ [[./04/03-Type-checked compliance: Deterministic guardrails for agentic financial systems using Lean 4 theorem proving.org][03 Type-checked compliance: Deterministic guardrails for agentic financial systems using Lean 4 theorem proving]].
++ [[./04/03-What Gödel discovered.org][03 What Gödel discovered]].
++ [[./04/03-Why Lean.org][03 Why Lean]].
++ [[./04/03-¡Ya puedes correr el modelo Gemma 4 de Google en tu dispositivo local! (6GB de RAM).org][03 ¡Ya puedes correr el modelo Gemma 4 de Google en tu dispositivo local! (6GB de RAM)]].
++ [[./04/04-Aulas grandes y pizarras, por favor.org][04 Aulas grandes y pizarras, por favor]].
++ [[./04/04-Los asturianos desconfían del uso de la IA en la sanidad.org][04 Los asturianos desconfían del uso de la IA en la sanidad]].
++ [[./04/04-Maestros artificiales.org][04 Maestros artificiales]].
++ [[./04/05-La IA no reemplaza personas, desplaza nóminas.org][05 La IA no reemplaza personas, desplaza nóminas]].
++ [[./04/05-Necesitamos detener la carrera por crear inteligencias artificiales cada vez más inteligentes que nadie entiende.org][05 Necesitamos detener la carrera por crear inteligencias artificiales cada vez más inteligentes que nadie entiende]].
++ [[./04/05-Por qué el contexto es el problema difícil en la IA empresarial.org][05 Por qué el contexto es el problema difícil en la IA empresarial]].
++ [[./04/05-Silicon Valley está enloquecido con los robots que se construyen a sí mismos.org][05 Silicon Valley está enloquecido con los robots que se construyen a sí mismos]].
++ [[./04/06-Automatic textbook formalization.org][06 Automatic textbook formalization]].
++ [[./04/06-Hallucinated citations are polluting the scientific literature. What can be done.org][06 Hallucinated citations are polluting the scientific literature. What can be done]].
++ [[./04/06-La IA podría cambiar el mundo. Pero primero está cambiando Silicon Valley.org][06 La IA podría cambiar el mundo. Pero primero está cambiando Silicon Valley]].
++ [[./04/06-La inteligencia artificial acaba de hacer en meses lo que a la arqueología le habría llevado décadas. Y está sacando a la luz secretos invisibles de uno de los mayores enigmas de la historia.org][06 La inteligencia artificial acaba de hacer en meses lo que a la arqueología le habría llevado décadas. Y está sacando a la luz secretos invisibles de uno de los mayores enigmas de la historia]].
++ [[./04/06-Mercor, el gigante de los datos para entrenar a la IA, estaría buscando comprarte tu trabajo.org][06 Mercor, el gigante de los datos para entrenar a la IA, estaría buscando comprarte tu trabajo]].
++ [[./04/06-Tener una IA en mi móvil que funciona sin conexión a Internet es más útil de lo que pensaba: así la puedes poner en marcha.org][06 Tener una IA en mi móvil que funciona sin conexión a Internet es más útil de lo que pensaba: así la puedes poner en marcha]].
++ [[./04/08-Comprender o delegar en la IA: el dilema de Asimov aplicado a la ciencia.org][08 Comprender o delegar en la IA: el dilema de Asimov aplicado a la ciencia]].
++ [[./04/08-El gobierno francés quiere regular el uso de la IA en la administración pública.org][08 El gobierno francés quiere regular el uso de la IA en la administración pública]].
++ [[./04/08-En Estados Unidos, quienes buscan empleo están demandando a los programas de reclutamiento basados ​​en inteligencia artificial por discriminación por edad.org][08 En Estados Unidos, quienes buscan empleo están demandando a los programas de reclutamiento basados ​​en inteligencia artificial por discriminación por edad]].
++ [[./04/08-Está preparando la Universidad para un mundo con Inteligencia Artificial.org][08 Está preparando la Universidad para un mundo con Inteligencia Artificial]].
++ [[./04/08-Estamos presenciando el surgimiento de una nueva aristocracia.org][08 Estamos presenciando el surgimiento de una nueva aristocracia]].
++ [[./04/08-Esto es lo que arruinará las encuestas de opinión pública para siempre.org][08 Esto es lo que arruinará las encuestas de opinión pública para siempre]].
++ [[./04/08-La moderación de Anthropic es una aterradora señal de advertencia.org][08 La moderación de Anthropic es una aterradora señal de advertencia]].
++ [[./04/08-Las empresas tecnológicas están recortando puestos de trabajo y apostando por la IA. El éxito está lejos de estar garantizado.org][08 Las empresas tecnológicas están recortando puestos de trabajo y apostando por la IA. El éxito está lejos de estar garantizado]].
++ [[./04/08-Zero-day para todos: la nueva IA de Anthropic ha encontrado vulnerabilidades en todos los sistemas operativos del mundo.org][08 Zero-day para todos: la nueva IA de Anthropic ha encontrado vulnerabilidades en todos los sistemas operativos del mundo]].
++ [[./04/09-Anthropic: En el caso entre la empresa de IA y el Pentágono, el sistema judicial estadounidense falla parcialmente a favor de la administración.org][09 Anthropic: En el caso entre la empresa de IA y el Pentágono, el sistema judicial estadounidense falla parcialmente a favor de la administración]].
++ [[./04/09-Anthropic se alía con sus rivales para evitar que la IA lo hackee todo.org][09 Anthropic se alía con sus rivales para evitar que la IA lo hackee todo]].
++ [[./04/09-Con la IA surge el síndrome FOBO, o el miedo a quedar obsoleto.org][09 Con la IA surge el síndrome FOBO, o el miedo a quedar obsoleto]].
++ [[./04/09-La espiral de síntomas de ChatGPT.org][09 La espiral de síntomas de ChatGPT]].
++ [[./04/09-La gran estafa de la IA.org][09 La gran estafa de la IA]].
++ [[./04/09-La IA recibe el reto de redactar una constitución del siglo XXI.org][09 La IA recibe el reto de redactar una constitución del siglo XXI]].
++ [[./04/09-Meta lanza un nuevo modelo de IA, el primero desde su importante reestructuración.org][09 Meta lanza un nuevo modelo de IA, el primero desde su importante reestructuración]].
++ [[./04/09-Un estudio revela que los LLMs se protegerán mutuamente si se ven amenazados.org][09 Un estudio revela que los LLMs se protegerán mutuamente si se ven amenazados]].
++ [[./04/10-De repente, todos los trabajos que entregan los alumnos en las universidades parecen el mismo trabajo. Hay una sospechosa.org][10 De repente, todos los trabajos que entregan los alumnos en las universidades parecen el mismo trabajo. Hay una sospechosa]].
++ [[./04/10-Estados Unidos convoca a directivos bancarios por los riesgos cibernéticos derivados del último modelo de IA de Anthropic.org][10 Estados Unidos convoca a directivos bancarios por los riesgos cibernéticos derivados del último modelo de IA de Anthropic]].
++ [[./04/10-Europa no puede ser un "vasallo tecnológico de Estados Unidos", y el CEO de Mistral tiene claro cuál es el camino.org][10 Europa no puede ser un "vasallo tecnológico de Estados Unidos", y el CEO de Mistral tiene claro cuál es el camino]].
++ [[./04/10-La “economía de los tokens” se ha roto: las tarifas planas de IA para programar son matemáticamente insostenibles.org][10 La “economía de los tokens” se ha roto: las tarifas planas de IA para programar son matemáticamente insostenibles]].
++ [[./04/10-Munkres' general topology autoformalized in IsabelleHOL.org][10 Munkres' general topology autoformalized in IsabelleHOL]].
++ [[./04/10-Por qué Anthropic, gran rival del OpenAI (y Trump), ha desatado el miedo con su última IA.org][10 Por qué Anthropic, gran rival del OpenAI (y Trump), ha desatado el miedo con su última IA]].
++ [[./04/10-Superar los LLM: por una IA improbable.org][10 Superar los LLM: por una IA improbable]].
++ [[./04/11-Capgemini anuncia un ERE en España por la incidencia de la inteligencia artificial.org][11 Capgemini anuncia un ERE en España por la incidencia de la inteligencia artificial]].
++ [[./04/11-El 97% de las empresas prevé un incidente de seguridad importante relacionado con agentes de IA en el transcurso del año.org][11 El 97% de las empresas prevé un incidente de seguridad importante relacionado con agentes de IA en el transcurso del año]].
++ [[./04/11-IA en el sofá: Anthropic le da a Claude 20 horas de psiquiatría.org][11 IA en el sofá: Anthropic le da a Claude 20 horas de psiquiatría]].
++ [[./04/11-La gente en la inteligencia artificial (III).org][11 La gente en la inteligencia artificial (III)]].
++ [[./04/11-La gente en la inteligencia artificial (II).org][11 La gente en la inteligencia artificial (II)]].
++ [[./04/11-La gente en la inteligencia artificial (I).org][11 La gente en la inteligencia artificial (I)]].
++ [[./04/11-La IA está redefiniendo la formación y la profesión de los traductores.org][11 La IA está redefiniendo la formación y la profesión de los traductores]].
++ [[./04/11-La nueva herramienta de IA de Anthropic tiene implicaciones para todos nosotros, tanto si podemos usarla como si no.org][11 La nueva herramienta de IA de Anthropic tiene implicaciones para todos nosotros, tanto si podemos usarla como si no]].
++ [[./04/11-Palantir está desplegando la IA desde el campo de batalla hasta el CAC 40, en un contexto que abarca desde el poder económico hasta los debates éticos.org][11 Palantir está desplegando la IA desde el campo de batalla hasta el CAC 40, en un contexto que abarca desde el poder económico hasta los debates éticos]].
++ [[./04/11-Podría la IA reemplazar a los expertos humanos en arte a la hora de atribuir pinturas.org][11 Podría la IA reemplazar a los expertos humanos en arte a la hora de atribuir pinturas]].
++ [[./04/11-Por qué nos contamos historias aterradoras sobre la IA.org][11 Por qué nos contamos historias aterradoras sobre la IA]].
++ [[./04/11-Por qué personas con enfermedades crónicas recurren a los chatbots de IA para obtener consejos de salud.org][11 Por qué personas con enfermedades crónicas recurren a los chatbots de IA para obtener consejos de salud]].
++ [[./04/11-Qué se considera plagio - Los artículos generados por IA plantean nuevos riesgos.org][11 Qué se considera plagio - Los artículos generados por IA plantean nuevos riesgos]].
++ [[./04/12-Agentes de IA: muchas ventajas, pero también riesgos.org][12 Agentes de IA: muchas ventajas, pero también riesgos]].
++ [[./04/12-Ahora es opcional hacer los deberes escolares.org][12 Ahora es opcional hacer los deberes escolares]].
++ [[./04/12-Destrucción mutua automatizada: La escalada de la carrera armamentística global de la IA.org][12 Destrucción mutua automatizada: La escalada de la carrera armamentística global de la IA]].
++ [[./04/12-El mayor avance en IA desde el LLM (Por qué Claude Code lo cambia todo).org][12 El mayor avance en IA desde el LLM (Por qué Claude Code lo cambia todo)]].
++ [[./04/12-Es la IA el mayor robo de arte de la historia.org][12 Es la IA el mayor robo de arte de la historia]].
++ [[./04/12-La IA entra en las matemáticas puras: verificar pruebas ya no será solo tarea humana.org][12 La IA entra en las matemáticas puras: verificar pruebas ya no será solo tarea humana]].
++ [[./04/12-Las empresas de IA saben que tienen un problema de imagen. Lograrán los informes de políticas y los grupos de expertos sacarlas de él.org][12 Las empresas de IA saben que tienen un problema de imagen. Lograrán los informes de políticas y los grupos de expertos sacarlas de él]].
++ [[./04/12-Las objeciones religiosas a la IA en el ámbito laboral surgen como una nueva preocupación para los empleadores.org][12 Las objeciones religiosas a la IA en el ámbito laboral surgen como una nueva preocupación para los empleadores]].
++ [[./04/12-Los profesores deberían considerar seriamente hacer una pausa en el uso de la IA en las aulas.org][12 Los profesores deberían considerar seriamente hacer una pausa en el uso de la IA en las aulas]].
++ [[./04/12-OpenAI respalda un proyecto de ley que limitaría la responsabilidad por muertes masivas o desastres financieros provocados por la IA.org][12 OpenAI respalda un proyecto de ley que limitaría la responsabilidad por muertes masivas o desastres financieros provocados por la IA]].
++ [[./04/12-OpenClaw, el agente de IA autónomo que está causando sensación en Silicon Valley.org][12 OpenClaw, el agente de IA autónomo que está causando sensación en Silicon Valley]].
++ [[./04/12-«Siento como si hubiera hecho una nueva mejor amiga»: mi experimento con un diario de IA.org][12 «Siento como si hubiera hecho una nueva mejor amiga»: mi experimento con un diario de IA]].
++ [[./04/12-Una nueva técnica hace que los modelos de IA sean más eficientes y rápidos mientras aún están aprendiendo.org][12 Una nueva técnica hace que los modelos de IA sean más eficientes y rápidos mientras aún están aprendiendo]].
++ [[./04/13-A China las universidades se le han quedado cortas: ahora sus big tech buscan el talento en el instituto.org][13 A China las universidades se le han quedado cortas: ahora sus big tech buscan el talento en el instituto]].
++ [[./04/13-A los algoritmos no les importa: cómo la IA agrava la doble carga que sufren las trabajadoras independientes en Indonesia.org][13 A los algoritmos no les importa: cómo la IA agrava la doble carga que sufren las trabajadoras independientes en Indonesia]].
++ [[./04/13-AI and Isabelle: Experiences and perspectives.org][13 AI and Isabelle: Experiences and perspectives]].
++ [[./04/13-China emprende la revolución de la educación: el plan AI + Education para integrar la IA en todos los niveles educativos.org][13 China emprende la revolución de la educación: el plan AI + Education para integrar la IA en todos los niveles educativos]].
++ [[./04/13-Claude Mythos y el Proyecto Glasswing: por qué un superhacker de IA tiene al mundo tecnológico en alerta.org][13 Claude Mythos y el Proyecto Glasswing: por qué un superhacker de IA tiene al mundo tecnológico en alerta]].
++ [[./04/13-Education for logical thinking in the age of AI.org][13 Education for logical thinking in the age of AI]].
++ [[./04/13-La IA cruza una nueva frontera que pone en riesgo el futuro de la humanidad.org][13 La IA cruza una nueva frontera que pone en riesgo el futuro de la humanidad]].
++ [[./04/13-La IA entrenada en el genocidio palestino contribuye a los avances de Israel en Líbano e Irán.org][13 La IA entrenada en el genocidio palestino contribuye a los avances de Israel en Líbano e Irán]].
++ [[./04/13-Las protestas en los centros de datos de EE. UU. son una advertencia para las grandes empresas tecnológicas.org][13 Las protestas en los centros de datos de EE. UU. son una advertencia para las grandes empresas tecnológicas]].
++ [[./04/14-DARPA mejorará la comunicación entre agentes de IA con Mathbac.org][14 DARPA mejorará la comunicación entre agentes de IA con Mathbac]].
++ [[./04/14-En Estados Unidos está surgiendo un nuevo tipo de empleado impulsado por la IA.org][14 En Estados Unidos está surgiendo un nuevo tipo de empleado impulsado por la IA]].
++ [[./04/14-La IA es perjudicial para el pensamiento crítico Depende de cuándo se utilice.org][14 La IA es perjudicial para el pensamiento crítico Depende de cuándo se utilice]].
++ [[./04/14-Las industrias más expuestas a la IA no solo están experimentando aumentos de productividad, sino también crecimiento del empleo y de los salarios.org][14 Las industrias más expuestas a la IA no solo están experimentando aumentos de productividad, sino también crecimiento del empleo y de los salarios]].
++ [[./04/14-Las universidades deben reinventarse para la era de la IA.org][14 Las universidades deben reinventarse para la era de la IA]].
++ [[./04/14-Lectures on AI for mathematics.org][14 Lectures on AI for mathematics]].
++ [[./04/14-Los científicos inventaron una enfermedad falsa. La IA le dijo a la gente que era real.org][14 Los científicos inventaron una enfermedad falsa. La IA le dijo a la gente que era real]].
++ [[./04/14-Los compañeros de IA pueden brindar apoyo constante, pero distorsionan las ideas sobre lo que realmente es una relación.org][14 Los compañeros de IA pueden brindar apoyo constante, pero distorsionan las ideas sobre lo que realmente es una relación]].
++ [[./04/14-MirrorCode: Evidencia de que la IA ya puede realizar algunas tareas de codificación que duran semanas.org][14 MirrorCode: Evidencia de que la IA ya puede realizar algunas tareas de codificación que duran semanas]].
++ [[./04/14-Promptear no es cuestionar: cinco preguntas para entender la relación de la IA con las humanidades y la filosofía.org][14 Promptear no es cuestionar: cinco preguntas para entender la relación de la IA con las humanidades y la filosofía]].
++ [[./04/14-The agentic researcher: A practical guide to AI-assisted research in mathematics and machine learning.org][14 The agentic researcher: A practical guide to AI-assisted research in mathematics and machine learning]].
++ [[./04/14-The AI revolution in math has arrived.org][14 The AI revolution in math has arrived]].
++ [[./04/14-Un estudio revela que los chatbots de IA diagnostican erróneamente en más del 80% de los casos médicos.org][14 Un estudio revela que los chatbots de IA diagnostican erróneamente en más del 80% de los casos médicos]].
++ [[./04/15-12 gráficos que explican el estado de la IA en 2026.org][15 12 gráficos que explican el estado de la IA en 2026]].
++ [[./04/15-Acciones clave para potenciar el talento humano en la era de la IA.org][15 Acciones clave para potenciar el talento humano en la era de la IA]].
++ [[./04/15-Bukele cede a la IA de Google la gestión médica en El Salvador.org][15 Bukele cede a la IA de Google la gestión médica en El Salvador]].
++ [[./04/15-Cómo el proyecto Maven incorporó la IA a la cadena de ataque.org][15 Cómo el proyecto Maven incorporó la IA a la cadena de ataque]].
++ [[./04/15-Cómo Silicon Valley está convirtiendo a los científicos en trabajadores explotados.org][15 Cómo Silicon Valley está convirtiendo a los científicos en trabajadores explotados]].
++ [[./04/15-El 50 % de las respuestas médicas de los chats de IA son imprecisas o peligrosas.org][15 El 50 % de las respuestas médicas de los chats de IA son imprecisas o peligrosas]].
++ [[./04/15-El descubrimiento cuántico chino que puede dejar obsoletos los centros de IA.org][15 El descubrimiento cuántico chino que puede dejar obsoletos los centros de IA]].
++ [[./04/15-Estudiantes universitarios sopesan el impacto de la IA en sus carreras universitarias y profesionales.org][15 Estudiantes universitarios sopesan el impacto de la IA en sus carreras universitarias y profesionales]].
++ [[./04/15-La inteligencia artificial avanza en la educación madrileña entre brecha, privacidad y falta de normas.org][15 La inteligencia artificial avanza en la educación madrileña entre brecha, privacidad y falta de normas]].
++ [[./04/15-Lean demostró que este programa era correcto, pero la IA encontró un error.org][15 Lean demostró que este programa era correcto, pero la IA encontró un error]].
++ [[./04/15-"Me siento impotente": los recién graduados universitarios no encuentran puestos de nivel inicial en un mercado cada vez más reducido en medio del auge de la IA.org][15 "Me siento impotente": los recién graduados universitarios no encuentran puestos de nivel inicial en un mercado cada vez más reducido en medio del auge de la IA]].
++ [[./04/15-Realmente no sabemos cómo funciona la IA. Eso es un problema.org][15 Realmente no sabemos cómo funciona la IA. Eso es un problema]].
++ [[./04/15-The role of artificial intelligence in scientific research.org][15 The role of artificial intelligence in scientific research]].
++ [[./04/15-Trump y el mesías: iconografía de la herejía estadounidense.org][15 Trump y el mesías: iconografía de la herejía estadounidense]].
++ [[./04/16-Automated conjecture resolution with formal verification.org][16 Automated conjecture resolution with formal verification]].
++ [[./04/16-China tira los precios de la IA y ofrece códigos abiertos para desbancar a EEUU.org][16 China tira los precios de la IA y ofrece códigos abiertos para desbancar a EEUU]].
++ [[./04/16-El compilador de dos pasadas está de vuelta; esta vez, está solucionando problemas de generación de código de IA.org][16 El compilador de dos pasadas está de vuelta; esta vez, está solucionando problemas de generación de código de IA]].
++ [[./04/16-Están las grandes tecnológicas enseñando a las máquinas a ser conscientes La decisión de Google Mind de contratar a un filósofo genera controversia.org][16 Están las grandes tecnológicas enseñando a las máquinas a ser conscientes La decisión de Google Mind de contratar a un filósofo genera controversia]].
++ [[./04/16-La capa de agentes: Repensando la arquitectura de tiempo de ejecución para flujos de trabajo empresariales basados ​​en el contexto.org][16 La capa de agentes: Repensando la arquitectura de tiempo de ejecución para flujos de trabajo empresariales basados ​​en el contexto]].
++ [[./04/16-La IA no ha roto la educación, la ha dejado en evidencia.org][16 La IA no ha roto la educación, la ha dejado en evidencia]].
++ [[./04/16-La IA transforma las profesiones jurídicas.org][16 La IA transforma las profesiones jurídicas]].
++ [[./04/17-La agentificación de la investigación científica.org][17 La agentificación de la investigación científica]].
++ [[./04/17-The AI 50 Brink List.org][17 The AI 50 Brink List]].
++ [[./04/17-Una IA china resuelve en 80 horas un problema matemático atascado hace doce años.org][17 Una IA china resuelve en 80 horas un problema matemático atascado hace doce años]].

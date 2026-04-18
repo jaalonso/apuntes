@@ -1,0 +1,16 @@
+#+TITLE: La comodidad de la ignorancia
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/aG33E][«La comodidad de la ignorancia»]] explora la creciente aceptación de la ignorancia en la sociedad contemporánea. Se argumenta que esta no es una simple falta de conocimiento, sino una elección deliberada para evitar la incomodidad de la verdad y mantener una sensación de bienestar.
+
+El texto señala cómo esta tendencia se manifiesta en figuras públicas y en la política, donde la falta de respuestas y la opacidad son aceptadas con demasiada facilidad. Se establece un paralelismo con las advertencias históricas sobre el poder que busca mantener a la población en la ignorancia.
+
+Finalmente, el artículo critica la normalización del bajo rendimiento en la educación y recurre a la mitología griega para ilustrar cómo la ignorancia, representada por el dios Coalemo, se ha instalado cómodamente en nuestra cultura, requiriendo solo que le permitamos espacio.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

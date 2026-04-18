@@ -1,0 +1,16 @@
+#+TITLE: ¿Necesita la IA una constitución?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/xWO8E][«¿Necesita la IA una constitución?»]] El artículo aborda la preocupación por el desarrollo de la Inteligencia Artificial (IA) y su posible impacto en la humanidad. Se analiza la propuesta de dotar a la IA de principios morales, comparando su desarrollo con la crianza de un niño, para prevenir escenarios catastróficos.
+
+Ante la carencia de regulación gubernamental, empresas como Anthropic están estableciendo límites éticos para sus sistemas de IA. Han creado una "Constitución" para su chatbot Claude, un conjunto de principios que orienten su comportamiento.
+
+No obstante, se cuestiona la legitimidad de esta solución privada, comparándola con la crisis de la democracia constitucional. El texto sugiere que la falta de liderazgo político ha dejado a las empresas tecnológicas a cargo de regular una tecnología con un potencial transformador y peligroso.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

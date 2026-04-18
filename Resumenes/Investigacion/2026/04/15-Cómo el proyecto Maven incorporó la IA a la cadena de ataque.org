@@ -1,0 +1,16 @@
+#+TITLE: Cómo el proyecto Maven incorporó la IA a la cadena de ataque
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/HRD6U][«Cómo el proyecto Maven incorporó la IA a la cadena de ataque»]]  explora el desarrollo de Project Maven, un programa del Departamento de Defensa para integrar inteligencia artificial en la selección de objetivos militares. El proyecto, impulsado por el oficial de los Marines Drew Cukor, busca crear una plataforma de datos unificada para mejorar la precisión y eficiencia en el campo de batalla.
+
+El programa reside en el Maven Smart System, proporcionado por Palantir, que permite procesar grandes cantidades de información y agilizar el proceso de selección de objetivos. La integración del modelo de lenguaje Claude de Anthropic generó controversia, revelando la creciente automatización del proceso y las preocupaciones sobre la responsabilidad.
+
+Actualmente, Project Maven permite identificar y atacar miles de objetivos diarios, con un proceso simplificado de cuatro clics. El artículo plantea interrogantes sobre las implicaciones éticas y de seguridad de esta automatización, así como sobre el papel de la supervisión humana en la toma de decisiones militares.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

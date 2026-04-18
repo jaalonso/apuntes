@@ -1,0 +1,16 @@
+#+TITLE: Schopenhauer, la soledad y la batería social
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://ethic.es/schopenhauer-soledad][«Schopenhauer, la soledad y la batería social»]] explora la filosofía de Arthur Schopenhauer sobre la soledad, destacando su visión de que el recogimiento es esencial para el desarrollo personal y la libertad intelectual. Schopenhauer argumentaba que la vida social puede ser agotadora para individuos dotados, quienes encuentran en su interior suficiente estímulo.
+
+El texto conecta las ideas de Schopenhauer con el fenómeno actual de la "fatiga social", un agotamiento provocado por la sobreexposición a estímulos y compromisos sociales. Investigaciones recientes confirman que, aunque la interacción social puede ser energizante a corto plazo, a menudo conduce a la fatiga posterior, evidenciando la necesidad de tiempo para la recuperación.
+
+Finalmente, el artículo reivindica la soledad no como aislamiento, sino como un espacio político y ético para el autocuidado y el fortalecimiento de la autoestima. Se destaca la importancia de la soledad para el autoconocimiento y la autonomía como herramienta para la participación activa en la sociedad.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

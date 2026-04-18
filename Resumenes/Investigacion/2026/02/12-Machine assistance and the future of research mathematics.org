@@ -1,0 +1,14 @@
+#+TITLE: Machine assistance and the future of research mathematics
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el vídeo [[https://youtu.be/zJvuaRVc8Bg][«Machine assistance and the future of research mathematics»]], Terence Tao analiza la transformación de las matemáticas por la IA. Tao señala que las matemáticas están pasando de estudios individuales a proyectos masivos. El ingrediente clave es la verificación formal, que permite validar contribuciones masivas y filtrar el ruido de la IA.
+
+Tao usa los problemas de Erdős para ilustrar cómo la IA agiliza la búsqueda de literatura y la traducción a código verificable. Aunque aún no supera los retos más complejos, la IA es ideal para resolver sistemáticamente problemas de dificultad media. Tao augura un futuro de colaboración humano-máquina que democratizará y escalará la investigación científica de forma inédita.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

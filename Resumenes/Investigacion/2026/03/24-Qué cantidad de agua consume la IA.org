@@ -1,0 +1,16 @@
+#+TITLE: Qué cantidad de agua consume la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://is.gd/KNGZAs][«Qué cantidad de agua consume la IA»]] analiza el creciente debate sobre el consumo de agua de los centros de datos, impulsado por el desarrollo de la inteligencia artificial. Ecologistas en Acción ha presentado un recurso judicial en Aragón contra estos proyectos, alertando de que su elevado consumo hídrico -especialmente por sistemas de refrigeración por evaporación- agrava la desertificación regional. Mientras los ecologistas denuncian su insostenibilidad, las empresas y expertos tecnológicos defienden su eficiencia comparada con otros sectores como la agricultura.
+
+La refrigeración representa el mayor consumo de agua en estos centros, aunque se están implementando alternativas más sostenibles como la refrigeración líquida y el uso de aguas grises. Investigaciones recientes revelan que incluso operaciones básicas como responder a un chatbot o enviar un correo electrónico tienen un impacto hídrico significativo cuando se considera todo el ciclo de producción y energía. Sin embargo, la falta de transparencia de las empresas dificulta obtener datos precisos sobre su consumo real.
+
+España atrae inversiones en centros de datos por su abundancia de energías renovables, pero su escasez hídrica -agravada por la desertificación y la sobreexplotación agrícola- plantea un desafío estratégico. Casos como la solicitud de Amazon en Aragón para aumentar su consumo de agua ante previsiones climáticas más cálidas demuestran la necesidad de seleccionar ubicaciones con acceso a agua regenerada y que no compitan con usos esenciales como el consumo humano o la agricultura.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

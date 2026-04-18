@@ -1,0 +1,16 @@
+#+TITLE: ¿Por qué personas con enfermedades crónicas recurren a los chatbots de IA para obtener consejos de salud?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/O0u0r][«¿Por qué personas con enfermedades crónicas recurren a los chatbots de IA para obtener consejos de salud?»]] explora el fenómeno del uso de chatbots de IA por parte de personas con enfermedades crónicas complejas. Ante la dificultad de obtener un diagnóstico y tratamiento adecuado en el sistema sanitario tradicional, algunas pacientes recurren a la IA para buscar respuestas a sus problemas de salud.
+
+El texto detalla cómo mujeres con enfermedades como Covid persistente o enfermedades autoinmunes han utilizado chatbots como Claude o ChatGPT para identificar posibles diagnósticos, a menudo confirmados posteriormente por médicos. Sin embargo, se advierte sobre los riesgos de la desinformación y la necesidad de alfabetización científica para evaluar la fiabilidad de la información proporcionada por la IA.
+
+El artículo concluye que, si bien la IA puede ser una herramienta útil para complementar la atención médica, no debe reemplazar el consejo profesional. Subraya la importancia de abordar las deficiencias del sistema sanitario que llevan a las personas a buscar alternativas como la IA para gestionar su salud.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

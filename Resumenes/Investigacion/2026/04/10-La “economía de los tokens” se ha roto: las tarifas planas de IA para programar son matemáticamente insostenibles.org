@@ -1,0 +1,16 @@
+#+TITLE: La “economía de los tokens” se ha roto: las tarifas planas de IA para programar son matemáticamente insostenibles
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/robotica-e-ia/economia-tokens-se-ha-roto-tarifas-planas-ia-para-programar-matematicamente-insostenibles][«La “economía de los tokens” se ha roto: las tarifas planas de IA para programar son matemáticamente insostenibles»]] analiza la crisis del modelo de suscripción en la IA para programar. Las tarifas planas se basaban en un consumo moderado de tokens. Sin embargo, la llegada de los agentes ha disparado los costes operativos de forma imprevista.
+
+Herramientas externas no optimizan el caché de contexto. Esto provoca que el gasto real supere enormemente el precio de la cuota mensual. Anthropic ha respondido bloqueando el acceso a sus planes y obligando al pago por uso.
+
+Este cambio encarece el desarrollo para los programadores independientes. La industria busca ahora optimizar la gestión de datos para sobrevivir económicamente. ¿Podrá la IA mantener la accesibilidad económica mientras aumenta su potencia de procesamiento?
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

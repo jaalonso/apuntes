@@ -1,0 +1,16 @@
+#+TITLE: Why Lean?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://leodemoura.github.io/blog/2026-4-2-why-lean/][«Why Lean?»]], de Leonardo de Moura, explica por qué Lean se ha convertido en una herramienta singular para verificación formal. Su característica más determinante es estar implementado en su propio lenguaje, lo que permite a cualquier programador extender el sistema desde sus entrañas sin fricciones ni capas intermedias.
+
+Esto ha generado un ecosistema imprevisto: Mathlib supera los 200.000 teoremas escritos por la comunidad, y proyectos como Veil o Verso nacieron sin coordinación con sus creadores. Un kernel pequeño con múltiples implementaciones independientes garantiza que ninguna prueba incorrecta pase desapercibida, propiedad que Terence Tao identifica como esencial frente al aprendizaje por refuerzo.
+
+El autor reconoce el precio de este enfoque: la compatibilidad hacia atrás se sacrifica cuando escalar lo exige, y él mismo cedió sus preferencias teóricas ante las necesidades reales de los usuarios. El resultado es un sistema menos puro, pero genuinamente útil.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

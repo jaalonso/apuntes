@@ -1,0 +1,16 @@
+#+TITLE: De compras por ChatGPT: cómo la IA terminará por hacernos vestir a todos igual
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/WbdQM][«De compras por ChatGPT: cómo la IA terminará por hacernos vestir a todos igual»]] se comenta que el comercio online de moda en España supera ya el 25% del mercado. Actualmente, la inteligencia artificial generativa está desplazando a los motores de búsqueda tradicionales como Google, ya que los usuarios priorizan respuestas inmediatas donde las marcas sugeridas adquieren una visibilidad sin precedentes frente a los resultados convencionales.
+
+Un estudio revela que Zara y H&M lideran el ranking de visibilidad en herramientas de IA. Sin embargo, las pequeñas firmas aún pueden destacar en nichos especializados, como la moda sostenible. Las fuentes que alimentan estos algoritmos incluyen principalmente blogs y redes sociales, desplazando a los medios tradicionales y otorgando mayor influencia a los creadores de contenido.
+
+El futuro próximo podría incluir la compra directa a través de IA, junto con estrategias de optimización generativa. No obstante, los expertos advierten sobre riesgos como la homogeneización del estilo personal y la pérdida de creatividad. Además, la recopilación masiva de datos personales genera preocupaciones en torno a la privacidad y el control comercial sobre las preferencias de los consumidores.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

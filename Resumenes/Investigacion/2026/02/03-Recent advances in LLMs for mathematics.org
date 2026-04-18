@@ -1,0 +1,16 @@
+#+TITLE: Recent advances in LLMs for mathematics
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En la conferencia [[https://youtu.be/MH3lG7V7SuU][«Recent advances in LLMs for mathematics»]], Sébastien Bubeck expone el salto desde la lógica básica de GPT-3.5 hasta el razonamiento de nivel de investigación en GPT-5. Los modelos han pasado de resolver problemas escolares de competición al 100 % a abordar cuestiones abiertas, evolucionando desde respuestas directas hacia una compleja «cadena de pensamiento» interna.
+
+El progreso se evidencia en áreas como la optimización convexa y la combinatoria. Los LLMs actuales son capaces de detectar vacíos en artículos científicos, mejorar límites matemáticos y hallar demostraciones inéditas más elegantes que las humanas. Tareas que requerirían meses de trabajo investigador se resuelven ahora en una tarde, empleando herramientas de aproximación avanzadas.
+
+Pese al avance, el nivel actual equivale al de un estudiante de postgrado inicial y aún no alcanza la excelencia de las publicaciones más prestigiosas. Bubeck advierte sobre fallos en problemas de extrema complejidad y enfatiza que la pericia humana es hoy más crucial que nunca para validar resultados, orientar los modelos y profundizar en nuestra comprensión conceptual de la realidad.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Envidia de Pedro Sánchez
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/6jnZs][«Envidia de Pedro Sánchez»]] plantea un posible giro en el clima político europeo. Durante años, la ultraderecha aprovechó el miedo y la incertidumbre para ganar terreno. Líderes como Trump supieron captar este espíritu de época y movilizarlo en su beneficio.
+
+Ahora, se sugiere que este 'Zeitgeist' está cambiando. Pedro Sánchez es presentado como un líder intuitivo que ha detectado este nuevo escenario y ha optado por confrontar directamente a Trump. Esta estrategia le ha valido reconocimiento en medios internacionales.
+
+Los recientes resultados electorales en varios países europeos, como Italia, Dinamarca y Francia, parecen confirmar esta tendencia. La derrota de la ultraderecha en estos contextos sugiere un creciente rechazo a sus políticas, incluso por parte de figuras como Marine Le Pen.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

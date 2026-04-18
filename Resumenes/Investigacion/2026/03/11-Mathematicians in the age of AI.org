@@ -1,0 +1,16 @@
+#+TITLE: Reseña de «Mathematicians in the age of AI»
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/abs/2603.03684v2][«Mathematicians in the age of AI»]] describe cómo la IA ha pasado, en menos de cuatro años, de ser incapaz de razonar matemáticamente a resolver problemas de nivel de investigación, tanto en demostraciones informales como formales verificadas por ordenador.
+
+El episodio más revelador es el de Math Inc., que se apropió de un proyecto colaborativo de formalización para lanzar su agente Gauss con un golpe de efecto publicitario. Paralelamente, el agente Aletheia de DeepMind resolvió seis de diez problemas matemáticos inéditos propuestos por investigadores en activo.
+
+El autor advierte del riesgo de pérdida de empleos y de sentido pedagógico, pero concluye con un llamamiento a la acción: los matemáticos deben liderar el uso de estas herramientas, preservar la intuición matemática en la enseñanza y aprovechar la IA para avanzar en los grandes problemas abiertos de la disciplina.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

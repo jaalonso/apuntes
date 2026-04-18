@@ -1,0 +1,16 @@
+#+TITLE: El descubrimiento cuántico chino que puede dejar obsoletos los centros de IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/SwmeN][«El descubrimiento cuántico chino que puede dejar obsoletos los centros de IA»]] describe un innovador sistema cuántico desarrollado por científicos chinos que promete revolucionar el campo de la inteligencia artificial. El sistema, basado en resonancia magnética nuclear, ofrece un rendimiento comparable o superior a las granjas de servidores tradicionales, pero con una reducción significativa de costes y tamaño.
+
+Este logro se basa en la computación cuántica de reserva, utilizando un proceso físico llamado relajación longitudinal para crear una memoria temporal. A diferencia de la computación cuántica tradicional, este sistema no requiere refrigeración criogénica, lo que reduce aún más los costes. Las pruebas con datos climáticos y en pruebas estandarizadas han demostrado su eficacia.
+
+La investigación representa un hito importante, ya que es la primera demostración experimental de un sistema de aprendizaje automático cuántico que supera a las redes neuronales clásicas en conjuntos de datos realistas. Aunque aún queda camino por recorrer, este avance podría allanar el camino para reemplazar los sistemas de computación masiva actuales con una alternativa más eficiente y sostenible.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

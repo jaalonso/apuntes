@@ -1,0 +1,16 @@
+#+TITLE: Aulas grandes y pizarras, por favor
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/Wx8kP][«Aulas grandes y pizarras, por favor»]] analiza la evolución de la docencia universitaria y cuestiona la efectividad de reducir el número de alumnos por aula. El autor argumenta que, aunque se buscaba una mayor personalización, esta medida no ha logrado mejorar la calidad de la enseñanza.
+
+El texto resalta las cualidades de las nuevas generaciones de estudiantes, como su creatividad, capacidad crítica y habilidad para manejar la información. Sin embargo, señala que la docencia actual no aprovecha estas fortalezas, limitándose a métodos tradicionales y poco interactivos.
+
+El autor propone recuperar las aulas grandes y herramientas como la pizarra para fomentar la socialización, el debate y la participación de los estudiantes. También aboga por una mayor flexibilidad en la oferta académica y el uso inteligente de la tecnología para mejorar la experiencia de aprendizaje.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

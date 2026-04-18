@@ -1,0 +1,16 @@
+#+TITLE: Destrucción mutua automatizada: La escalada de la carrera armamentística global de la IAho
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/Z8lCd][«Destrucción mutua automatizada: La escalada de la carrera armamentística global de la IA»]] analiza la creciente carrera armamentística global en el campo de la inteligencia artificial. Diversas naciones, lideradas por China, Estados Unidos y Rusia, están invirtiendo significativamente en el desarrollo de armas y sistemas militares autónomos. Esta competencia busca obtener una ventaja estratégica en un futuro donde la IA podría definir el equilibrio de poder.
+
+El desarrollo de drones autónomos, capaces de operar sin intervención humana, es un componente central de esta carrera. Tanto en China como en Estados Unidos, se están realizando pruebas y se están fabricando estos sistemas a un ritmo acelerado. La guerra en Ucrania ha servido como un laboratorio para probar estas tecnologías en un entorno real de combate, acelerando su desarrollo.
+
+La situación plantea serias preocupaciones éticas y de seguridad. La velocidad y la autonomía de estos sistemas podrían conducir a una escalada involuntaria de conflictos y a la pérdida del control humano sobre decisiones críticas. Expertos advierten sobre la necesidad de establecer límites claros y garantizar que la tecnología no supere la capacidad de control de los gobiernos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

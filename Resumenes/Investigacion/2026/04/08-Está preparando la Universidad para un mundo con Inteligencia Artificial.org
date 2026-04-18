@@ -1,0 +1,16 @@
+#+TITLE: ¿Está preparando la Universidad para un mundo con Inteligencia Artificial?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/FS6tX][«¿Está preparando la Universidad para un mundo con Inteligencia Artificial?»]] analiza la irrupción de la Inteligencia Artificial en la enseñanza superior y la necesidad de adaptar la universidad a este nuevo entorno. Se destaca que la adaptación es clave para el éxito, evitando tanto el ciberoptimismo ingenuo como el alarmismo. La formación de estudiantes y docentes es fundamental para aprovechar las oportunidades que ofrece la IA.
+
+El texto advierte sobre el peligro de una nueva brecha social si no se proporciona una educación adecuada en IA. La falta de pensamiento crítico y la delegación cognitiva podrían generar desigualdades en el acceso al conocimiento y al mercado laboral. Se propone integrar la alfabetización digital desde etapas tempranas y capacitar a los docentes para liderar esta transformación.
+
+Finalmente, el artículo enfatiza la importancia de utilizar la IA como un "exoesqueleto intelectual" que amplíe las capacidades humanas, en lugar de un sustituto del esfuerzo cognitivo. La formación integral, que combine técnica, ética y conocimiento, es esencial para evitar la dependencia de la IA y garantizar que los estudiantes desarrollen un pensamiento crítico y una sólida autoestima.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

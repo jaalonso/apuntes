@@ -1,0 +1,16 @@
+#+TITLE: Matemáticas y creatividad de las máquinas: un estudio sobre cómo conectar las matemáticas con la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/abs/2412.16543v1][«Matemáticas y creatividad de las máquinas: un estudio sobre cómo conectar las matemáticas con la IA»]], se analiza cómo la IA transforma la investigación matemática. Aunque los modelos actuales fallan en lógica deductiva pura, su capacidad inductiva ofrece un valioso apoyo creativo para los matemáticos.
+
+El texto destaca tres aplicaciones: demostraciones asistidas por computadora, formulación de conjeturas mediante reconocimiento de patrones y construcción de objetos matemáticos. Herramientas como [[https://www.nature.com/articles/s41586-023-06924-6][FunSearch]] demuestran el potencial de la IA para descubrir soluciones innovadoras que superan las capacidades humanas tradicionales.
+
+Finalmente, se abordan los límites actuales y el impacto educativo. Pese a no crear conceptos abstractos nuevos, la IA actúa como un socio estratégico que potencia la intuición humana, fomentando una colaboración interdisciplinaria necesaria para resolver problemas de la ciencia.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

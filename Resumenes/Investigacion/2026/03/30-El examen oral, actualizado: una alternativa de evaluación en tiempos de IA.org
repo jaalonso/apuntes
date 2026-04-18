@@ -1,0 +1,16 @@
+#+TITLE: El examen oral, actualizado: una alternativa de evaluación en tiempos de IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://theconversation.com/el-examen-oral-actualizado-una-alternativa-de-evaluacion-en-tiempos-de-ia-273868?utm_medium=email&utm_campaign=La%20Conversacin%20Docente%20-%20Mar-30-26&utm_content=La%20Conversacin%20Docente%20-%20Mar-30-26+CID_5b6c3fd9519be979724d0dfd8b03943e&utm_source=campaign_monitor_es&utm_term=El%20examen%20oral%20actualizado%20una%20alternativa%20de%20evaluacin%20en%20tiempos%20de%20IA][«El examen oral, actualizado: una alternativa de evaluación en tiempos de IA»]] explora la importancia de la evaluación como parte integral del proceso de aprendizaje, destacando que su objetivo principal es comprender el progreso del estudiante. Se argumenta que la evaluación oral, bien diseñada, puede fomentar habilidades cruciales como el diálogo, la reflexión y el pensamiento crítico.
+
+El texto propone superar la lógica tradicional de transmisión de conocimiento, transformando el rol del docente en un facilitador del diálogo y del estudiante en un argumentador activo. Se enfatiza la importancia de plantear preguntas abiertas que inviten a la reflexión y a la consulta de diversas fuentes, incluyendo el uso de la IA como herramienta complementaria.
+
+El artículo subraya la adaptabilidad de la evaluación oral a diferentes contextos educativos y su potencial para promover una "educación de la pregunta" en lugar de una "educación de la respuesta". Esto implica priorizar el debate, la reflexión y la comprensión profunda sobre la mera memorización de datos.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

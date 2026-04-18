@@ -1,0 +1,16 @@
+#+TITLE: Teaching real analysis as a game
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En [[https://youtu.be/6J_LCQUFX-s][«Teaching real analysis as a game»]], Alex Kontorovich propone enseñar análisis real usando el asistente de pruebas Lean como un videojuego. Su idea central es que, al igual que un principiante de ajedrez necesita ver el tablero, los estudiantes necesitan una representación visual de las hipótesis y objetivos en una demostración. Lean actúa como ese "tablero de juego" interactivo e indispensable.
+
+La metodología transforma el curso en niveles donde los estudiantes usan "tácticas" (comandos de Lean) para resolver problemas. Este enfoque fuerza a distinguir claramente entre lo que se sabe y lo que se debe probar. El objetivo no es aprender a programar, sino internalizar la lógica formal de manera intuitiva y profunda a través de la práctica interactiva.
+
+Los resultados mostraron que los estudiantes, tras usar la herramienta, fueron capaces de escribir demostraciones en lenguaje natural excepcionalmente claras y rigurosas en sus exámenes. Kontorovich concluye que este método es prometedor, ya que sirve como un andamiaje efectivo para dominar la complejidad del análisis real.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

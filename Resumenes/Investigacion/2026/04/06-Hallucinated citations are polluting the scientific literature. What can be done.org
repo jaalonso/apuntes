@@ -1,0 +1,16 @@
+#+TITLE: Hallucinated citations are polluting the scientific literature. What can be done?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.nature.com/articles/d41586-026-00969-z][«Hallucinated citations are polluting the scientific literature. What can be done?»]] explora el auge de las "citaciones alucinatorias" en la literatura científica, un fenómeno impulsado por el uso de los LLMs en la investigación. Estos modelos, utilizados para búsquedas bibliográficas y redacción de manuscritos, a veces generan referencias que no corresponden a publicaciones reales.
+
+El problema se ha manifestado con un aumento significativo en el número de citaciones no rastreables en conferencias de informática, y análisis recientes sugieren que decenas de miles de publicaciones podrían contener referencias inválidas. Las fuentes de error incluyen errores tradicionales y la creación de "citaciones Frankenstein", combinaciones de fragmentos de publicaciones existentes.
+
+Las editoriales están respondiendo con el desarrollo de herramientas de detección y la revisión manual de referencias, pero persisten desafíos como la distinción entre errores humanos y de la IA, y las limitaciones de las herramientas automatizadas. La magnitud del problema y su impacto en la integridad de la ciencia aún están por determinarse.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

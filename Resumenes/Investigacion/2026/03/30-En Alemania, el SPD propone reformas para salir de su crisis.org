@@ -1,0 +1,16 @@
+#+TITLE: En Alemania, el SPD propone reformas para salir de su crisis
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://legrandcontinent.eu/es/2026/03/30/en-alemania-el-spd-propone-reformas-para-salir-de-su-crisis/][«En Alemania, el SPD propone reformas para salir de su crisis»]] analiza la situación del SPD en Alemania, un partido en crisis tras las recientes elecciones regionales. Sus dirigentes buscan una nueva estrategia para recuperar el apoyo popular, enfocándose en propuestas de reforma social y económica.
+
+El vicecanciller y líder del SPD, Lars Klingbeil, ha presentado una serie de medidas para adaptar la protección social, modernizar la economía y facilitar la reincorporación laboral. Entre ellas, destaca la eliminación de un sistema fiscal que beneficia a parejas con ingresos desiguales, buscando impulsar el empleo femenino.
+
+Finalmente, Klingbeil aboga por una mayor soberanía económica, con medidas proteccionistas selectivas y un impulso a la innovación y la tecnología. Además, se ha eliminado un sistema de pensiones complementarias por su complejidad y bajo rendimiento, buscando alternativas más eficientes y rentables.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

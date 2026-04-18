@@ -1,0 +1,16 @@
+#+TITLE: ¿El futuro de la IA es local?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://tombedor.dev/open-source-models][«¿El futuro de la IA es local?»]] plantea una alternativa a la actual carrera por construir grandes centros de datos para la IA. Sugiere que los modelos de código abierto están progresando a un ritmo sorprendente, alcanzando la paridad con los modelos propietarios en un tiempo cada vez menor. Esta tendencia, combinada con los altos costes computacionales de los modelos más avanzados, podría cambiar el panorama de la IA.
+
+El aumento de los precios de los servicios de IA basados en la nube, ejemplificado por las tarifas de OpenAI y Anthropic, está creando un incentivo para buscar alternativas más económicas. Los modelos especializados, diseñados para tareas específicas, podrían ofrecer una solución viable, y la comunidad de código abierto está bien posicionada para satisfacer esta demanda.
+
+Con los avances en hardware, los ordenadores personales podrían ser capaces de ejecutar modelos de IA complejos de forma eficiente, ofreciendo a los usuarios una experiencia más rápida, privada y gratuita.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: Superar los LLM: por una IA improbable
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/j6C3u][«Superar los LLM: por una IA improbable»]] analiza los modelos de lenguaje como tecnologías culturales. Estos sistemas absorben la expresión humana a escala global. Sin embargo, priorizan los datos más frecuentes y eliminan lo improbable. Esto genera una visión sesgada basada en la probabilidad estadística.
+
+La concentración del poder en empresas estadounidenses crea una monocultura algorítmica. Los valores anglófonos se imponen como universales. Esta situación margina las lenguas regionales y los conocimientos analógicos. El mercado ignora la diversidad cultural en favor de la eficiencia industrial.
+
+Europa debe desarrollar su propia capacidad productiva y normativa. El texto propone tratar los datos como un bien común. La inversión en infraestructuras públicas garantizaría una IA diversa. Así se evitaría el aplanamiento cultural y se protegería la identidad europea.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

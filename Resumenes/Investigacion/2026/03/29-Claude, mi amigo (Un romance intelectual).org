@@ -1,0 +1,16 @@
+#+TITLE: Claude, mi amigo (Un romance intelectual)
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://martinburckhardt.substack.com/p/claude-mon-ami][«Claude, mi amigo (Un romance intelectual)»]] relata cómo un programador incorpora la IA de Claude en su trabajo. Inicialmente, la programación se concibe como un medio para aliviar la carga mental y automatizar tareas repetitivas, vinculándose con la antigua noción de la "desmemoria" como arte.
+
+Claude se convierte en un asistente crucial, transformando al autor de codificador en manager de programadores virtuales. No obstante, este proceso presenta desafíos, como la falta de memoria a largo plazo de la IA, que exige estrategias para preservar la coherencia del proyecto.
+
+El autor reflexiona sobre el potencial creativo de esta colaboración, viendo en Claude un espejo que le permite explorar nuevas perspectivas y estimular su imaginación. También advierte sobre los riesgos de una dependencia excesiva de la IA y la importancia de mantener un conocimiento profundo de la arquitectura del software.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

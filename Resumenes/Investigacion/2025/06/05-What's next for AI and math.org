@@ -1,0 +1,16 @@
+#+TITLE: What's next for AI and math
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.technologyreview.com/2025/06/04/1117753/whats-next-for-ai-and-math/][«What's next for AI and math»]] examina la transformación que la inteligencia artificial está generando en el ámbito matemático. La [[https://www.darpa.mil/research/programs/expmath-exponential-mathematics][iniciativa expMath (Exponentiating Mathematics)]] de DARPA busca revolucionar el progreso matemático mediante una IA coautora capaz de abordar problemas de alta complejidad. Aunque los modelos de lenguaje grandes (LLMs) han demostrado un rendimiento excepcional en problemas de nivel escolar y universitario —superando frecuentemente a los humanos en exámenes como la [[https://www.vals.ai/benchmarks/aime-2025-04-18][AIME (American Invitational Mathematics Examination)]— estos sistemas operan principalmente siguiendo patrones previamente establecidos. No obstante, cuando se enfrentan a desafíos de investigación abiertos y sin precedentes, como los planteados en el nuevo test [[https://epoch.ai/frontiermath][FrontierMath]], las limitaciones actuales de la IA se manifiestan claramente, revelando una brecha considerable entre las capacidades actuales y la resolución de problemas del calibre de la Hipótesis de Riemann.
+
+Pese a estas limitaciones, la IA está realizando contribuciones significativas al asistir a los matemáticos en la exploración de nuevos enfoques y la identificación de rutas prometedoras. Herramientas como [[https://deepmind.google/discover/blog/alphaevolve-a-gemini-powered-coding-agent-for-designing-advanced-algorithms/][AlphaEvolve]] y [[https://arxiv.org/abs/2411.00566][PatternBoost]] han sido específicamente diseñadas para generar hipótesis, evaluar soluciones potenciales y descartar aproximaciones infructuosas, optimizando así el tiempo de investigación. Paralelamente, se están desarrollando metodologías para simplificar las complejas secuencias de pasos requeridas para resolver problemas de extrema dificultad, como se evidenció en el reciente avance relacionado con la [[https://en.wikipedia.org/wiki/Andrews%E2%80%93Curtis_conjecture][conjetura de Andrews-Curtis]].
+
+Sin embargo, la intuición profunda y la creatividad conceptual que caracterizan a los grandes descubrimientos matemáticos permanecen como dominios esencialmente humanos. En este contexto, la IA funciona como una herramienta potente que complementa y amplifica la investigación matemática, pero la chispa de genialidad —esa capacidad de "pensar fuera de los marcos establecidos"— continúa siendo patrimonio exclusivo de la mente humana.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

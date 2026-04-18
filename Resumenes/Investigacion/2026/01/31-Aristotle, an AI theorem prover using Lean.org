@@ -1,0 +1,12 @@
+#+TITLE: Aristotle, an AI theorem prover using Lean
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En [[https://youtu.be/XmD-Vl2iiqM][«Aristotle, an AI theorem prover using Lean»]], Alex Best presenta una IA de Harmonic que usa modelos de lenguaje y aprendizaje por refuerzo para demostrar teoremas en Lean de forma autónoma. Es capaz de autoformalizar artículos y hallar contraejemplos complejos. La IA se puede usar libremente en https://aristotle.harmonic.fun como un colaborador para acelerar la investigación.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

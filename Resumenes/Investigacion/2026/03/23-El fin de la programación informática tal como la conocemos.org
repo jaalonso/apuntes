@@ -1,0 +1,16 @@
+#+TITLE: El fin de la programación informática tal como la conocemos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[http://archive.today/jmIMc][«El fin de la programación informática tal como la conocemos»]] se comenta que la inteligencia artificial está transformando radicalmente la programación, con desarrolladores que ahora supervisan agentes capaces de generar y probar código automáticamente. Si bien esto multiplica la productividad, genera incertidumbre sobre el futuro del empleo y las competencias que los programadores deberán dominar.
+
+El perfil del desarrollador está evolucionando hacia el de un "arquitecto digital", cuya labor consiste en evaluar y dirigir el trabajo de las IA. Este cambio democratiza la programación, permitiendo que personas sin formación técnica creen software, lo que podría redefinir la industria.
+
+Silicon Valley enfrenta una revolución sin precedentes, donde la colaboración entre humanos e inteligencia artificial redefine no solo la profesión, sino también el panorama laboral en su conjunto, presentando tanto desafíos como oportunidades sin igual.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,16 @@
+#+TITLE: La Universidad de Pensilvania tiebe un problema con la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En el artículo [[https://www.thedp.com/article/2026/03/penn-ai-dominance-education][«La Universidad de Pensilvania tiebe un problema con la IA»]] se comenta que la Universidad de Pensilvania ha impulsado la inteligencia artificial con nuevos programas y una fuerte inversión, posicionándose como líder en este ámbito. Aunque esta estrategia es comprensible en un mundo cada vez más dominado por la tecnología, ha llevado a un uso masivo de herramientas de IA entre los estudiantes para tareas académicas.
+
+No obstante, la ausencia de una política universitaria clara sobre el uso de estas herramientas genera confusión y preocupación. Muchos temen que la dependencia excesiva de la IA pueda erosionar habilidades fundamentales como el pensamiento crítico y el análisis independiente de los estudiantes.
+
+El artículo concluye advirtiendo que esta apuesta total por la IA podría resultar contraproducente. No solo amenaza con debilitar la esencia de la educación superior, sino que también prepara a los estudiantes para un futuro laboral incierto, donde la automatización podría reducir drásticamente las oportunidades profesionales.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

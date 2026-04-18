@@ -1,0 +1,16 @@
+#+TITLE: A new paradigm for mathematical proof?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En la conferencia [[https://youtu.be/fzxW2XJS6SE][«A new paradigm for mathematical proof?]]», Emily Riehl explora los desafíos actuales en la verificación de demostraciones matemáticas. Ejemplos como la conjetura de Kepler y el programa de Langlands muestran cómo las pruebas se han vuelto tan largas y complejas que incluso matemáticos como Voevodsky y Scholze han encontrado errores en su propio trabajo.
+
+Como respuesta, Riehl propone la formalización computacional mediante asistentes de prueba como Lean y Agda. Proyectos como la verificación del teorema de Feit-Thompson demuestran que es posible certificar la corrección de demostraciones complejas mediante verificación automática, aunque requiere un esfuerzo colaborativo significativo.
+
+La conclusión es que este enfoque podría constituir un nuevo paradigma para asegurar el rigor matemático, especialmente frente al riesgo de pruebas generadas por IA. Riehl sugiere que las demostraciones asistidas por computadora deberían incluir tanto la formalización verificada como una explicación para humanos, manteniendo así los estándares de la comunidad matemática.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:

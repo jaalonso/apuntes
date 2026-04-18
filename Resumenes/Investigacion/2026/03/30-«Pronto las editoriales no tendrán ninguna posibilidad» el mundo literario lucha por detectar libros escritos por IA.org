@@ -1,0 +1,16 @@
+#+TITLE: «Pronto las editoriales no tendrán ninguna posibilidad» el mundo literario lucha por detectar libros escritos por IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/7YZBA][««Pronto las editoriales no tendrán ninguna posibilidad» el mundo literario lucha por detectar libros escritos por IA»]] explora la creciente preocupación en el mundo literario por el uso de la inteligencia artificial en la escritura. Agentes han detectado un aumento en el uso de IA para redactar cartas de presentación, lo que ha llevado a cuestionar la autenticidad de los manuscritos.
+
+El caso de la novela "Shy Girl", retirada de la venta tras sospechas de que hasta el 78% fue generado por IA, ha evidenciado la dificultad de detectar este tipo de contenido. Expertos señalan que las herramientas de detección son ineficaces y que la IA aprende rápidamente a evadirlas.
+
+La discusión se extiende a las implicaciones culturales de la IA en la literatura, incluyendo la pérdida de diversidad creativa, el control corporativo y la amenaza a los autores emergentes. Se propone la iniciativa "Human Authored" como un intento de preservar la autenticidad, pero se subraya la importancia fundamental de la confianza entre lectores y escritores.
+
+Saludos, José A.
+
+# Local Variables:
+# eval: (visual-line-mode 1)
+# End:
