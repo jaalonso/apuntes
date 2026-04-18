@@ -3,6 +3,3 @@
 + [[./Enlaces/Enlaces.org][Enlaces]]
 + [[./Lecturas/Lecturas.org][Lecturas]].
 + [[./Resumenes/Resumenes.org][Resúmenes]].
-
-** Resúmenes de noticias
-+ [[./Resumenes/Noticias/2026/04-Abril.org][Resúmenes de noticias de Abril de 2026]].
