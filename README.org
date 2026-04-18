@@ -7,3 +7,8 @@
 * Lecturas
 + [[./Lectures_on_AI_for_mathematics/Lectures_on_AI_for_mathematics.md][Lectures on AI for mathematics]].
 + [[./The_agentification_of_scientific_research.md][The agentification of scientific research]].
+
+* Resúmenes
+
+** Resúmenes de noticias
++ [[./Resumenes/Noticias/2026/04-Abril.org][Resúmenes de noticias de Abril de 2026]].
