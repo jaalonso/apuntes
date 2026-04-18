@@ -1,3 +1,0 @@
-#+TITLE: Resúmenes de noticias del 2026
-
-+ [[./04-Abril.org][Resúmenes de abril de 2026]].

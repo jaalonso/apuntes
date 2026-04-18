@@ -1,5 +1,0 @@
-#+TITLE: Resúmenes de noticias
-
-Resúmenes de noticias de prensa
-
-+ [[./2026/Resumenes_2026.org][Resúmenes de 2026]].
