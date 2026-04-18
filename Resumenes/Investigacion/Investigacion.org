@@ -1,1 +1,4 @@
 #+TITLE: Resúmenes de artículos de investigación
+
++ [[./2025/Resumenes_2025.org][Resúmenes del 2025]].
++ [[./2026/Resumenes_2026.org][Resúmenes del 2026]].

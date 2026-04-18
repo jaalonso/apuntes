@@ -1,0 +1,40 @@
+#+TITLE: Resúmenes de artículos de investigación y divulgación del 2025
+
+** Mayo 2025
++ [[./05/17-Will computers prove theorems.org][17 Will computers prove theorems]].
+
+** Junio 2025
++ [[./06/05-What's next for AI and math.org][05 What's next for AI and math.org]].
++ [[./06/19-Can A.I. quicken the pace of math discovery.org][19 Can A.I. quicken the pace of math discovery]].
+
+** Julio 2025
++ [[./07/04-LeanConjecturer: Automatic generation of mathematical conjectures for theorem proving.org][04 LeanConjecturer: Automatic generation of mathematical conjectures for theorem proving]].
++ [[./07/11-AI for mathematical discovery (symbolic, neural and neuro-symbolic methods).org][11 AI for mathematical discovery (symbolic, neural and neuro-symbolic methods)]].
++ [[./07/27-Solving formal math problems by decomposition and iterative reflection.org][27 Solving formal math problems by decomposition and iterative reflection]].
+
+** Agosto 2025
++ [[./08/01-The math is haunted.org][01 The math is haunted]].
++ [[./08/03-AI at IMO 2025: a round-up.org][03 AI at IMO 2025: a round-up]].
++ [[./08/18-Teaching mathematics with Lean: Interactive theorem provers in the classroom.org][18 Teaching mathematics with Lean: Interactive theorem provers in the classroom]].
+
+** Septiembre 2025
++ [[./09/18-Claude can (sometimes) prove it.org][18 Claude can (sometimes) prove it]].
+
+** Octubre 2025
++ [[./10/09-Mathematics: The rise of the machines.org][09 Mathematics: The rise of the machines]]
++ [[./10/10-Mathematicians’ new best friend.org][10 Mathematicians’ new best friend]]
++ [[./10/18-Ax-Prover: A deep reasoning agentic framework for theorem proving in mathematics and quantum physics.org][18 Ax-Prover: A deep reasoning agentic framework for theorem proving in mathematics and quantum physics]]
++ [[./10/26-Gauss – towards autoformalization for the working mathematician.org][26 Gauss – towards autoformalization for the working mathematician]]
++ [[./10/28-Les IA vont-elles remplacer les mathématiciens.org][28 Les IA vont-elles remplacer les mathématiciens]]
++ [[./10/31-Cuándo podrá la Inteligencia artificial ayudarnos a demostrar teoremas.org][31 Cuándo podrá la Inteligencia artificial ayudarnos a demostrar teoremas]]
+
+** Noviembre 2025
++ [[./11/07-Mathematical exploration and discovery at scale.org][07 Mathematical exploration and discovery at scale]].
++ [[./11/07-The path to a superhuman AI mathematician.org][07 The path to a superhuman AI mathematician]].
++ [[./11/08-A new paradigm for mathematical proof.org][08 A new paradigm for mathematical proof]].
++ [[./11/14-How we achieved an IMO medal, one year before any other AI system.org][14 How we achieved an IMO medal, one year before any other AI system]].
++ [[./11/18-Teaching real analysis as a game.org][18 Teaching real analysis as a game]].
+
+** Diciembre 2025
++ [[./12/07-50 years of proof assistants.org][07 50 years of proof assistants]].
++ [[./12/09-The story of Erdős problem #1026.org][09 The story of Erdős problem #1026]]
