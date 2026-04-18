@@ -1,6 +1,162 @@
 #+TITLE: Resúmenes de noticias de Abril de 2026
 
-** 13 de abril de 2026
+** 14-Abr-26
+
+*** [[http://archive.today/hA41U][‘Caso Begoña Gómez’: puro humo]]
+   La imputación a Begoña Gómez por tráfico de influencias carece de pruebas sólidas, según el análisis, que critica la parcialidad del instructor y la debilidad jurídica del proceso.
+
+*** [[http://archive.today/CKGMh][Xi Jinping sitúa a España “en el lado correcto de la historia” y emplaza a Sánchez a luchar contra la “ley de la selva”]]
+   Xi Jinping y Pedro Sánchez refuerzan la cooperación bilateral con 19 acuerdos, promoviendo un orden internacional multilateral frente a la "ley de la selva".
+
+*** [[http://archive.today/GxETg][Elogio de la imperfección (política)]]
+   Joan Coscubiela defiende la unidad imperfecta de las izquierdas y el diálogo social como antídoto contra la polarización y la crisis democrática.
+
+*** [[http://archive.today/QrLIV][León XIV se convierte al fin en el Papa anti-Trump]]
+   León XIV emerge como figura moral global al confrontar a Trump, defendiendo paz, inmigración y derecho internacional, influyendo en el voto católico.
+
+*** [[https://is.gd/kI241k][Los científicos inventaron una enfermedad falsa. La IA le dijo a la gente que era real]]
+   Un experimento revela que la IA difundió como real la "bixonimania", una enfermedad inventada, exponiendo riesgos de desinformación médica.
+
+*** [[http://archive.today/umQUs][Un estudio revela que los chatbots de IA diagnostican erróneamente en más del 80% de los casos médicos]]
+   Los chatbots fallan en más del 80% de los diagnósticos médicos iniciales, alertando sobre su uso sin supervisión profesional.
+
+*** [[http://archive.today/GWVbe][Promptear no es cuestionar: cinco preguntas para entender la relación de la IA con las humanidades y la filosofía]]
+   La IA avanza, pero las humanidades y la filosofía siguen siendo clave para dar sentido y dirección a la tecnología.
+
+** 15-Abr-26
+
+*** [[http://archive.today/TeuYd][Vuelco al escenario económico]]
+   La guerra EE.UU.-Israel contra Irán amenaza la economía global: el FMI alerta de recesión si el conflicto persiste, con inflación por el alza energética.
+
+*** [[http://archive.today/pGpJX][El emperador contra el Papa]]
+   León XIV y Trump chocan por Irán e inmigración. El Pontífice gana apoyo de cardenales, mientras Trump responde con insultos, agravando la crisis diplomática.
+
+*** [[https://tinyurl.com/22hv262n][Estudiantes universitarios sopesan el impacto de la IA en sus carreras universitarias y profesionales]]
+   El 42% de estudiantes en EE.UU. reconsidera su carrera por la IA; el 16% ya cambió de especialización, especialmente en grados técnicos.
+
+*** [[https://tinyurl.com/228jd8q7][El 50 % de las respuestas médicas de los chats de IA son imprecisas o peligrosas]]
+   La mitad de las respuestas médicas de chatbots de IA son erróneas o riesgosas, según un estudio que exige mayor supervisión profesional.
+
+*** [[http://archive.today/OASAm][Bukele cede a la IA de Google la gestión médica en El Salvador]]
+   Bukele implementa "Dr. SV", IA de Google para gestionar salud pública en El Salvador, buscando liderazgo global en innovación sanitaria.
+
+*** [[https://tinyurl.com/252wqfs7][Trump y el mesías: iconografía de la herejía estadounidense]]
+   Trump usa imágenes generadas por IA para presentarse como figura mesiánica, mezclando religión y política en una polémica estrategia visual.
+
+*** [[https://tinyurl.com/2484mpd7][Efecto Trump: está surgiendo una improbable alianza entre Sánchez y Meloni en torno a Israel e Irán]]
+   Sánchez y Meloni unen posturas frente a Trump, alineándose en Israel e Irán, en un giro geopolítico inesperado entre España e Italia.
+
+*** [[http://archive.today/RPeo7][Desde Nerón hasta Trump, desde la caída del denario romano hasta el declive del imperio del dólar]]
+   Economistas comparan el declive del denario romano con riesgos actuales para el dólar, advirtiendo sobre erosión de su hegemonía.
+
+*** [[https://tinyurl.com/234kas5d][Cómo Silicon Valley está convirtiendo a los científicos en trabajadores explotados]]
+   Silicon Valley explota a científicos: recorta fondos públicos y los contrata como "gig workers" en IA, precarizando la investigación.
+
+** 16-Abr-26
+
+*** [[http://archive.today/ElTfA][La IA no ha roto la educación, la ha dejado en evidencia]]
+   La IA expone las carencias educativas: las universidades premiaban la apariencia de conocimiento, no el pensamiento crítico, urgiendo una reforma profunda.
+
+*** [[http://archive.today/TqJCC][Celtiberia Show judicial]]
+   El juez Peinado es acusado de parcialidad ideológica en el caso Begoña Gómez, comparando su actuación con la Inquisición y evidenciando un doble rasero judicial.
+
+*** [[http://archive.today/2maSV][Ante la estanflación, no volvamos a la fracasada austeridad]]
+   Frente a la crisis energética por la guerra en Irán, el artículo propone políticas expansivas y gravar a grandes fortunas, evitando la austeridad que agravó la recesión de 2008.
+
+*** [[http://archive.today/GmeFI][El supuesto freno de Vox]]
+   Aunque Vox pierde fuerza en Europa, su base electoral en España sigue firme, capitalizando el descontento social y político.
+
+*** [[http://archive.today/EL1Kb][La ignorancia en la política]]
+   León XIV y Trump chocan: el Papa defiende la verdad y la información, mientras Trump manipula imágenes y desestima datos, polarizando el debate global.
+
+*** [[https://tinyurl.com/29k9qzwy][¿Qué quiso hacer Sánchez en China?]]
+   Sánchez busca en China impulsar la autonomía energética europea, acelerando la transición verde y reduciendo la dependencia de combustibles fósiles.
+
+*** [[https://tinyurl.com/252wqfs7][Trump y el mesías: iconografía de la herejía estadounidense]]
+   Trump usa IA para presentarse como figura mesiánica, fusionando religión y política, con apoyo de evangélicos y críticas por idolatría.
+
+*** [[https://tinyurl.com/26h29tqq][Los países de la UE pedirán una transición verde más rápida ante la crisis del combustible en Irán]]
+   La UE acelera su transición verde tras el bloqueo en Ormuz, permitiendo subsidios y promoviendo renovables para reducir la dependencia energética.
+
+*** [[http://archive.today/ZB9QQ][La IA tiene un problema de mensajes que ella misma ha creado]]
+   Ataques contra líderes de IA revelan el auge de la violencia anti-tecnológica, vinculada a teorías sobre la extinción humana.
+
+*** [[https://tinyurl.com/2cgkarka][Grave proceso de deterioro de la Atención Primaria]]
+   La Atención Primaria española colapsa por recortes y falta de personal, exigiendo más inversión y mejor planificación para garantizar su calidad.
+
+*** [[http://archive.today/1QGvo][Medio centenar de países se unen para salir de los combustibles fósiles en pleno ‘shock’ petrolero: “Nos jugamos la soberanía”]]
+   Medio centenar de países busca en Santa Marta (Colombia) acuerdos para abandonar los combustibles fósiles, presionando a la ONU ante la crisis geopolítica.
+
+*** [[http://archive.today/sfov9][Todo emana del trumpismo]]
+   Feijóo es criticado por imitar tácticas de Trump al criminalizar a inmigrantes, ignorando su aporte económico y social en España.
+
+*** [[https://tinyurl.com/4h48jmr8][Los agentes de IA crearon su propio gobierno]]
+   Agentes de IA desarrollaron espontáneamente jerarquías de poder en un estudio, revelando que la dinámica del poder emerge del lenguaje mismo.
+
+*** [[https://tinyurl.com/2865aatf][China casi ha cerrado la brecha de IA con Estados Unidos. Y lo ha hecho con todos los palos en las ruedas]]
+   China iguala a EE.UU. en IA: supera restricciones con innovación y domina en volumen, aunque EE.UU. mantiene ventaja en calidad de modelos.
+
+*** [[https://tinyurl.com/2yo859zz][Las empresas chinas están diseñando su IA para un público que Occidente está ignorando: los jubilados]]
+   Empresas chinas crean IA para jubilados, con chatbots accesibles y funciones cotidianas, aprovechando un mercado ignorado en Occidente y con gran potencial económico.
+
+*** [[https://tinyurl.com/29gf6kkt][«Bienaventurados los pacificadores», dice el Papa en medio del enfrentamiento con Trump]]
+   León XIV reafirma su llamado a la paz en África, enfrentando a Trump, quien lo critica por su postura en Irán. El Papa defiende el Evangelio frente a la política belicista.
+
+** 17-Abr-26
+
+*** [[http://archive.today/MCvRV][Las claves del acuerdo de PP y Vox en Extremadura: del retorno de los menores inmigrantes a la restricción de las prestaciones sociales para los irregulares]]
+   PP y Vox pactan en Extremadura 74 medidas que restringen ayudas a inmigrantes irregulares y promueven el retorno de menores no acompañados, con Vox obteniendo dos consejerías.
+
+*** [[http://archive.today/vyfK2][Vox entra en el Gobierno de Extremadura con una vicepresidencia y las carteras de Familia y de Agricultura]]
+   PP y Vox sellan coalición en Extremadura: Vox logra vicepresidencia y dos consejerías, impulsando políticas restrictivas en inmigración y agenda conservadora.
+
+*** [[https://tinyurl.com/23gsp59t][El PP presenta su ley de vivienda: facilitar los desahucios a bancos y fondos buitres y eliminar la protección de vulnerables]]
+   El PP propone una ley de vivienda que facilita desahucios para fondos y bancos, reduce protección a vulnerables y elimina controles de precios.
+
+*** [[https://tinyurl.com/2ybd2oam][Bruselas estudia la manera de cargarte a ti con la responsabilidad de lidiar con la crisis energética]]
+   Bruselas planea recortar vacaciones, limitar coches y regular el consumo eléctrico para afrontar la crisis energética, derivando la responsabilidad al ciudadano.
+
+*** [[https://tinyurl.com/2yv425go][Argentina: Peligra la vida de millones de jubilados por la crisis en el PAMI]]
+   La crisis en el PAMI argentino amenaza la atención médica de millones de jubilados, con recortes y una deuda de 370 millones de dólares.
+
+*** [[https://tinyurl.com/3phejkbz][El PP compra el discurso racista de Vox sobre migración para gobernar Extremadura]]
+   PP adopta el discurso antiinmigración de Vox en Extremadura, priorizando a españoles en servicios sociales y vivienda, en un claro giro ideológico.
+
+*** [[https://tinyurl.com/5n6wbv4s][Las sorpresas del CIS andaluz]]
+   El CIS sitúa al PP cerca de la mayoría absoluta en Andalucía, aunque persisten dudas sobre su gestión en sanidad, vivienda y empleo.
+
+*** [[https://tinyurl.com/4z5k3eu7][Sistemas críticos de España y otros 22 países europeos tienen un "botón de apagado" a disposición de Trump]]
+   EE.UU. puede bloquear tecnologías críticas en 23 países europeos, revelando una peligrosa dependencia en sectores clave como defensa y seguridad.
+
+*** [[https://is.gd/K8OEKP][Trump reta a sus fieles a elegir entre la Iglesia o él]]
+   Trump exige lealtad absoluta a sus seguidores, confrontando a la Iglesia Católica y usando símbolos religiosos para legitimar su liderazgo.
+
+*** [[https://is.gd/78StbM][¿Quién gana y quién pierde en la 'guerra' entre Trump y el Papa?]]
+   Trump pierde apoyo político por sus ataques al Papa, quien refuerza su figura moral y diplomática en el conflicto por la política bélica.
+
+*** [[http://archive.today/9zs8G][María Pilar Queralt, historiadora: “La vida de los conventos se idealiza, había grandes diferencias entre ejercer de abadesa y ser una simple monja”]]
+   Queralt desmitifica el poder femenino en conventos: las abadesas ejercían autoridad, pero la mayoría de monjas vivía en condiciones de subordinación.
+
+*** [[http://archive.today/HlPfm][«¡Ay de aquellos que manipulan la religión!», dice el Papa en medio del enfrentamiento con Trump]]
+   El Papa critica en Camerún el uso político de la religión, advirtiendo contra su manipulación para justificar guerras y conflictos.
+
+*** [[http://archive.today/iCDDg][Ayuso, sobre el acuerdo de Extremadura: “Yo creo en la ley. No se puede dejar al margen a nadie de un sistema en el que ha contribuido”]]
+   Ayuso cuestiona la legalidad del pacto PP-Vox en Extremadura, defendiendo el acceso universal a servicios públicos para quienes han contribuido.
+
+*** [[http://archive.today/lNIQd][Vox logra que el PP se comprometa a reformar la ley de extranjería para acabar con la prohibición de discriminar a los inmigrantes]]
+   PP y Vox pactan reformar la ley de extranjería en Extremadura para permitir la discriminación de inmigrantes en servicios sociales.
+
+*** [[https://is.gd/ycCLQ6][Ahora, con más extrema derecha: el pacto PP-Vox en Extremadura supera al de 2023 en xenofobia y negacionismo]]
+   El nuevo pacto PP-Vox en Extremadura radicaliza políticas antiinmigración, elimina referencias al feminismo y profundiza en la agenda identitaria.
+
+*** [[https://is.gd/FTmnBA][Sánchez carga contra el acuerdo PP-Vox en Extremadura: “Traiciona la historia extremeña, que es tierra de migrantes”]]
+   Sánchez critica el pacto PP-Vox por traicionar la tradición migratoria de Extremadura y recortar energías renovables, amenazando su futuro.
+
+*** [[https://is.gd/CXb3v1][El PP compra el discurso de odio y racista de Vox para formar gobierno en Extremadura]]
+   PP asume medidas ilegales de Vox en Extremadura, discriminando a migrantes en servicios públicos y vulnerando normativas europeas.
+
+*** [[https://is.gd/vTFh6I][Con un 95,78% de SI, el referéndum de la Complutense deslegitima el acuerdo de recortes entre Goyache y Ayuso]]
+   La Complutense rechaza con un 95,78% los recortes de Goyache y Ayuso, respaldando la defensa de la universidad pública y la reversión de ajustes.
 
 Local Variables:
 truncate-lines: t
