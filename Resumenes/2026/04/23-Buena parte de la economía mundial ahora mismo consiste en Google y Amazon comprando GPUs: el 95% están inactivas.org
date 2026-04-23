@@ -1,0 +1,17 @@
+#+TITLE: Buena parte de la economía mundial ahora mismo consiste en Google y Amazon comprando GPUs: el 95% están inactivas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/empresas-y-economia/big-tech-estan-fundiendo-miles-millones-dolares-gpus-para-ia-95-estan-inactivas][«Buena parte de la economía mundial ahora mismo consiste en Google y Amazon comprando GPUs: el 95% están inactivas»]] analiza la ineficiencia en el uso de recursos en los centros de datos de las grandes empresas tecnológicas. Se evidencia un sobreaprovisionamiento masivo de GPUs, motivado por el miedo a perder terreno en el campo de la inteligencia artificial.
+
+Este comportamiento genera un ciclo de escasez de componentes, encareciendo productos para el consumidor final y afectando a la industria en general. Las empresas, a pesar de conocer la situación, prefieren mantener esta estrategia.
+
+El informe de Cast AI revela que mantener GPUs inactivas supone un coste significativo, que se traslada a los precios del alquiler de potencia de cálculo, sin vislumbrar un cambio en esta tendencia a corto plazo.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

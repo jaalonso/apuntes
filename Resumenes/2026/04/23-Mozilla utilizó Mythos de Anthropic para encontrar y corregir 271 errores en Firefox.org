@@ -1,0 +1,17 @@
+#+TITLE: Mozilla utilizó Mythos de Anthropic para encontrar y corregir 271 errores en Firefox
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/kEdzA][«Mozilla utilizó Mythos de Anthropic para encontrar y corregir 271 errores en Firefox»]] describe cómo Mozilla ha utilizado la IA de Anthropic, Mythos Preview, para mejorar la seguridad de su navegador Firefox. La compañía accedió a esta herramienta en fase de pruebas y la empleó para identificar 271 vulnerabilidades en la versión 150.
+
+Este avance representa un cambio en la ciberseguridad, ya que la IA automatiza la búsqueda de fallos, superando las limitaciones de las técnicas manuales. El CTO de Firefox, Bobby Holley, compara esta situación con un "bootcamp" de seguridad que todo el software deberá afrontar.
+
+El artículo destaca que el software de código abierto, con frecuencia mantenido por equipos pequeños, es especialmente vulnerable a estos fallos. Mozilla espera que esta revisión proactiva ayude a fortalecer la seguridad del software a nivel global.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

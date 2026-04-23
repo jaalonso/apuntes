@@ -54,6 +54,7 @@
 - [[https://www.epe.es/es/temas/inteligencia-artificial-ia-1755060][El periódico de España (IA)]].
 - [[https://www.elsaltodiario.com/inteligencia-artificial][El Salto (IA)]].
 - [[https://www.lavanguardia.com/topics/inteligencia-artificial][La Vanguardia (IA)]].
+- [[https://muyinteresante.okdiario.com/temas/inteligencia-artificial/][Muy interesante (IA)]].
 
 *** Técnicos (con RSS)
 - [[https://gizmodo.com/tech/artificial-intelligence][Gizmodo (IA)]].

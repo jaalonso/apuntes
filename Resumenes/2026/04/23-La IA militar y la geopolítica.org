@@ -1,0 +1,18 @@
+#+TITLE: La IA militar y la geopolítica
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.elconfidencial.com/mundo/2026-04-23/inteligencia-artificial-guerra-militar-iran-1hms_4343302/][«El ‘Experto’ arrasa en el campo de batalla, pero pierde su primera guerra contra la geopolítica»]] comienza exponiendo la evolución histórica de los sistemas de identificación y destrucción de objetivos militares, desde los métodos manuales hasta la actual integración de la inteligencia artificial. Se presenta el Maven Smart System como la última innovación, capaz de acelerar exponencialmente el proceso.
+
+El análisis se centra en el funcionamiento de Maven, su capacidad para integrar datos de diversas fuentes y reducir drásticamente el tiempo de decisión en el combate. Se destaca su uso en conflictos recientes y el debate ético sobre la delegación de decisiones letales a la IA.
+
+La guerra en Irán ha mostrado los límites de la IA. La tecnología puede acelerar el proceso, pero no puede superar las complejidades geopolíticas y las "fricciones" inherentes a la guerra, como las que describió Clausewitz.
+
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

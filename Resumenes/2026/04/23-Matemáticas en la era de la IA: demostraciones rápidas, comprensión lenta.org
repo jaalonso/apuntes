@@ -1,0 +1,13 @@
+#+TITLE: Matemáticas en la era de la IA: demostraciones rápidas, comprensión lenta
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+Terence Tao ha compartido en [[https://mathstodon.xyz/@tao/116450581967483825][Mastodon]] una reflexión sobre el futuro de la investigación matemática. Según el matemático, la inteligencia artificial está transformando el proceso tradicional: mientras la generación y verificación de demostraciones se aceleran gracias a herramientas automatizadas, la comprensión profunda de estos resultados avanza a un ritmo mucho más lento. Este desajuste, sumado a un sistema de incentivos que valora más "resolver" un problema que "entenderlo", podría obstaculizar el avance real en áreas donde las demostraciones, aunque técnicamente correctas, no son asimiladas ni contextualizadas por la comunidad.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
