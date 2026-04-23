@@ -217,6 +217,8 @@
 + 17 [[./04/17-The AI 50 Brink List.org][The AI 50 Brink List]].
 + 17 [[./04/17-Una IA china resuelve en 80 horas un problema matemático atascado hace doce años.org][Una IA china resuelve en 80 horas un problema matemático atascado hace doce años]].
 + 20 [[~/alonso/estudio/apuntes/Resumenes/2026/04/20-Anthropic instala secretamente software espía al instalar Claude Desktop.org][Anthropic instala secretamente software espía al instalar Claude Desktop]].
++ 21 [[~/alonso/estudio/apuntes/Resumenes/2026/04/21-Los enjambres de IA podrían secuestrar la democracia sin que nadie se dé cuenta.org][Los enjambres de IA podrían secuestrar la democracia sin que nadie se dé cuenta]].
++ 22 [[~/alonso/estudio/apuntes/Resumenes/2026/04/22-The fall of the theorem economy - How AI could destroy mathematics and barely touch it.org][The fall of the theorem economy (How AI could destroy mathematics and barely touch it)]].
 
 # Local Variables:
 # truncate-lines: t

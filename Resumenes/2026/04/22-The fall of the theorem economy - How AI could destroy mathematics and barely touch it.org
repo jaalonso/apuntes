@@ -1,0 +1,17 @@
+#+TITLE: The fall of the theorem economy (How AI could destroy mathematics and barely touch it)
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://davidbessis.substack.com/p/the-fall-of-the-theorem-economy][«The fall of the theorem economy (How AI could destroy mathematics and barely touch it)»]] argumenta que las matemáticas han operado durante siglos bajo un "código de honor" que reduce su valor a la demostración de teoremas, ocultando que su aportación real es el desarrollo de la comprensión humana y de nuevos marcos conceptuales.
+
+La llegada de sistemas de inteligencia artificial capaces de resolver problemas de investigación ha puesto en crisis ese modelo. La IA genera demostraciones formalmente correctas pero opacas e ininteligibles, incapaces de integrarse en la biblioteca colectiva del conocimiento matemático, lo que amenaza con fragmentar la disciplina entre resultados verificables y resultados comprensibles.
+
+El autor advierte de que, sin una redefinición explícita y urgente de lo que las matemáticas aportan —comprensión, formación del pensamiento, construcción de conceptos—, la comunidad matemática perderá la batalla narrativa frente a la IA, con consecuencias graves para la investigación, la enseñanza y el lugar de las matemáticas en la cultura.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

@@ -1,0 +1,17 @@
+#+TITLE: Los enjambres de IA podrían secuestrar la democracia sin que nadie se dé cuenta
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.sciencedaily.com/releases/2026/04/260420014748.htm][«Los enjambres de IA podrían secuestrar la democracia sin que nadie se dé cuenta»]] publicado en Science advierte sobre el surgimiento de enjambres de IA como una amenaza sin precedentes para la democracia. Estos sistemas, compuestos por miles de agentes autónomos, pueden coordinarse para infiltrarse en comunidades digitales, imitar interacciones humanas y generar contenido persuasivo en tiempo real, superando las capacidades de los bots tradicionales.
+
+Los expertos destacan que, a diferencia de campañas de desinformación anteriores, los enjambres de IA operan sin supervisión humana constante, adaptando sus mensajes según la respuesta de los usuarios. Su capacidad para mantener identidades falsas persistentes y aprender de las interacciones los hace especialmente peligrosos para manipular la opinión pública y erosionar la confianza en las instituciones democráticas.
+
+El texto concluye con un llamado urgente a la acción: se propone la creación de un observatorio internacional y el desarrollo de herramientas para detectar y neutralizar estos sistemas. Los investigadores subrayan que, sin medidas efectivas, los enjambres de IA podrían alterar radicalmente los procesos electorales y el debate público en los próximos años, especialmente a partir de 2028.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
