@@ -224,11 +224,11 @@
 + 23 [[~/alonso/estudio/apuntes/Resumenes/2026/04/23-Buena parte de la economía mundial ahora mismo consiste en Google y Amazon comprando GPUs: el 95% están inactivas.org][Buena parte de la economía mundial ahora mismo consiste en Google y Amazon comprando GPUs: el 95% están inactivas]].
 + 23 [[~/alonso/estudio/apuntes/Resumenes/2026/04/23-La IA militar y la geopolítica.org][La IA militar y la geopolítica]].
 + 23 [[~/alonso/estudio/apuntes/Resumenes/2026/04/23-El fin de la fricción cognitiva: cómo la IA complaciente está degradando la información humana en Internet.org][El fin de la fricción cognitiva: cómo la IA complaciente está degradando la información humana en Internet]].
-+ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/23-Matemáticas en la era de la IA: demostraciones rápidas, comprensión lenta.org][Matemáticas en la era de la IA: demostraciones rápidas, comprensión lenta]].
-+ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/23-Mozilla utilizó Mythos de Anthropic para encontrar y corregir 271 errores en Firefox.org][Mozilla utilizó Mythos de Anthropic para encontrar y corregir 271 errores en Firefox]].
-+ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/23-Buena parte de la economía mundial ahora mismo consiste en Google y Amazon comprando GPUs: el 95% están inactivas.org][Buena parte de la economía mundial ahora mismo consiste en Google y Amazon comprando GPUs: el 95% están inactivas]].
-+ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/23-La IA militar y la geopolítica.org][La IA militar y la geopolítica]].
-+ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/23-El fin de la fricción cognitiva: cómo la IA complaciente está degradando la información humana en Internet.org][El fin de la fricción cognitiva: cómo la IA complaciente está degradando la información humana en Internet]].
++ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/24-Matemáticas en la era de la IA: demostraciones rápidas, comprensión lenta.org][Matemáticas en la era de la IA: demostraciones rápidas, comprensión lenta]].
++ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/24-Mozilla utilizó Mythos de Anthropic para encontrar y corregir 271 errores en Firefox.org][Mozilla utilizó Mythos de Anthropic para encontrar y corregir 271 errores en Firefox]].
++ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/24-Buena parte de la economía mundial ahora mismo consiste en Google y Amazon comprando GPUs: el 95% están inactivas.org][Buena parte de la economía mundial ahora mismo consiste en Google y Amazon comprando GPUs: el 95% están inactivas]].
++ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/24-La IA militar y la geopolítica.org][La IA militar y la geopolítica]].
++ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/24-El fin de la fricción cognitiva: cómo la IA complaciente está degradando la información humana en Internet.org][El fin de la fricción cognitiva: cómo la IA complaciente está degradando la información humana en Internet]].
 
 # Local Variables:
 # truncate-lines: t
