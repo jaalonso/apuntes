@@ -1,0 +1,17 @@
+#+TITLE: El fin de la fricción cognitiva: cómo la IA complaciente está degradando la información humana en Internet
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://muyinteresante.okdiario.com/ia/slop-ia-contenido-sintetico-web-granjas-contenido-2026.html][«El fin de la fricción cognitiva: cómo la IA complaciente está degradando la información humana en Internet»]] plantea un problema cada vez más acuciante en Internet: la proliferación de contenido sintético de baja calidad, al que se ha acuñado el nombre de *“slop.”* Este material, creado por sistemas de IA con el único objetivo de captar impresiones publicitarias, está saturando la web y dificulta enormemente la distinción entre información útil y ruido.
+
+La causa profunda de este fenómeno radica en la economía que lo sustenta. Producir un artículo de “slop” cuesta menos de 2,25 USD; sin embargo, la masiva generación de impresiones publicitarias –financiada, en muchos casos, sin que los anunciantes lo sepan– lo convierte en un modelo de negocio altamente rentable. Además, los modelos de IA, entrenados mediante retroalimentación humana, tienden a generar textos complacientes y carentes de conflicto, lo que elimina la “fricción cognitiva” esencial para un debate informativo crítico.
+
+Como respuesta, el ecosistema digital ha comenzado a implementar filtros, estándares de verificación y herramientas de detección, pero la velocidad con la que aparecen nuevas granjas de contenido supera con creces la capacidad de control. La cuestión central que plantea el artículo es si el sistema informativo puede absorber tanto ruido sin que la señal de información valiosa se pierda por completo.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
