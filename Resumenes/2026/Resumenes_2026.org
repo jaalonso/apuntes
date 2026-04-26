@@ -229,6 +229,9 @@
 + 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/24-Buena parte de la economía mundial ahora mismo consiste en Google y Amazon comprando GPUs: el 95% están inactivas.org][Buena parte de la economía mundial ahora mismo consiste en Google y Amazon comprando GPUs: el 95% están inactivas]].
 + 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/24-La IA militar y la geopolítica.org][La IA militar y la geopolítica]].
 + 24 [[~/alonso/estudio/apuntes/Resumenes/2026/04/24-El fin de la fricción cognitiva: cómo la IA complaciente está degradando la información humana en Internet.org][El fin de la fricción cognitiva: cómo la IA complaciente está degradando la información humana en Internet]].
++ 25 [[~/alonso/estudio/apuntes/Resumenes/2026/04/25-Tres razones por las que el nuevo modelo de DeepSeek es importante.org][Tres razones por las que el nuevo modelo de DeepSeek es importante]].
++ 25 [[~/alonso/estudio/apuntes/Resumenes/2026/04/25-OpenAI lanza GPT-5.5: la nueva IA que navega y trabaja en tu ordenador como un humano.org][OpenAI lanza GPT-5.5: la nueva IA que navega y trabaja en tu ordenador como un humano]].
++ 25 [[~/alonso/estudio/apuntes/Resumenes/2026/04/25-Qué hará falta para eliminar la IA de las escuelas.org][¿Qué hará falta para eliminar la IA de las escuelas?]].
 
 # Local Variables:
 # truncate-lines: t

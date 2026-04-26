@@ -1,0 +1,17 @@
+#+TITLE: OpenAI lanza GPT-5.5: la nueva IA que navega y trabaja en tu ordenador como un humano
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/ia6mZ][«OpenAI lanza GPT-5.5: la nueva IA que navega y trabaja en tu ordenador como un humano»]] describe el lanzamiento de GPT-5.5 por parte de OpenAI, un nuevo modelo de inteligencia artificial con capacidades avanzadas. OpenAI busca crear una "super app" que integre múltiples servicios y herramientas.
+
+GPT-5.5 se distingue por su capacidad de navegar por internet, ejecutar tareas en ordenadores y automatizar flujos de trabajo, ofreciendo un razonamiento más rápido y eficiente. Este avance representa un paso significativo hacia una informática más intuitiva y orientada a la acción.
+
+OpenAI anticipa que el ritmo de innovación en IA seguirá acelerándose, abriendo nuevas posibilidades en campos como la programación, el análisis de datos y la investigación científica, consolidando su posición en el desarrollo de la inteligencia artificial autónoma.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

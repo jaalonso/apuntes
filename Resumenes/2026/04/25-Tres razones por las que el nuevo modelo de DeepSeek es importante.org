@@ -1,0 +1,17 @@
+#+TITLE: Tres razones por las que el nuevo modelo de DeepSeek es importante
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.technologyreview.com/2026/04/24/1136422/why-deepseeks-v4-matters/][«Tres razones por las que el nuevo modelo de DeepSeek es importante»]] presenta el lanzamiento de DeepSeek V4, un nuevo modelo de IA que busca consolidar a la empresa china como líder en el sector. V4 se distingue por su arquitectura innovadora, que permite procesar grandes cantidades de texto de manera eficiente.
+
+El modelo, de código abierto, compite en rendimiento con los líderes del mercado (OpenAI, Anthropic, Google) a un costo mucho menor, lo que lo hace atractivo para desarrolladores y empresas. DeepSeek ha optimizado V4 para funcionar con chips chinos, marcando un paso hacia la independencia tecnológica.
+
+El artículo destaca que V4 podría ser un catalizador para el desarrollo de una infraestructura de IA paralela en China, reduciendo la dependencia de proveedores extranjeros y fomentando la innovación local.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
