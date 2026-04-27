@@ -1,0 +1,17 @@
+#+TITLE: Qué es la inteligencia irregular o ‘jagged’ y qué significa para la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.nytimes.com/es/2026/04/25/espanol/ia-inteligencia-irregular-jagged.html][«Qué es la inteligencia irregular o ‘jagged’ y qué significa para la IA»]] explora el concepto de "inteligencia irregular" en la IA, destacando su capacidad para superar a los humanos en tareas específicas como las matemáticas, mientras que lucha con el sentido común. Esta disparidad plantea interrogantes sobre la comparación entre la IA y la inteligencia humana.
+
+El análisis se centra en cómo esta "inteligencia irregular" podría afectar el futuro del trabajo, sugiriendo que la IA automatizará tareas específicas en lugar de reemplazar empleos completos. La velocidad a la que la IA mejora sus capacidades es un factor crucial para determinar el alcance de este impacto.
+
+El autor explica las limitaciones del aprendizaje de la IA, que se basa en datos digitales y carece de comprensión del mundo físico, así como los desafíos del aprendizaje por refuerzo en áreas subjetivas. La IA está en constante evolución, cerrando brechas en sus capacidades, pero también creando nuevas áreas de debilidad.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

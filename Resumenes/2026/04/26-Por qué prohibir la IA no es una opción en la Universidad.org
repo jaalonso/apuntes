@@ -1,0 +1,18 @@
+#+TITLE: Por qué prohibir la IA no es una opción en la Universidad
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/KEGXP][«Por qué prohibir la IA no es una opción en la Universidad»]] aborda la creciente presencia de la inteligencia artificial en el ámbito universitario. Se plantea que, ante su inevitabilidad, la prohibición no es una opción sensata, sino que es necesario adaptarse a esta nueva realidad.
+
+El texto analiza los riesgos de fraude académico asociados al uso indebido de la IA, así como la necesidad de establecer regulaciones claras que delimiten los límites de su aplicación. Se subraya la importancia de proteger los derechos de los estudiantes y garantizar la seguridad jurídica en los procesos de evaluación.
+
+El autor propone nuevos formatos de evaluación que combinen la parte escrita con la oral, ponderando esta última para valorar la contribución personal del estudiante y fomentar el desarrollo de competencias en IA. Esto permitiría una evaluación más justa y efectiva, adaptada a los desafíos del siglo XXI.
+
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

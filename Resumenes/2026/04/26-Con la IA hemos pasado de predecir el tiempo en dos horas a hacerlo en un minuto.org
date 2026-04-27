@@ -1,0 +1,17 @@
+#+TITLE: Con la IA hemos pasado de predecir el tiempo en dos horas a hacerlo en un minuto
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/9eXkZ][«Con la IA hemos pasado de predecir el tiempo en dos horas a hacerlo en un minuto»]] describe el innovador enfoque de Google DeepMind en la predicción meteorológica. La empresa ha creado un modelo de inteligencia artificial que aprende de datos históricos para predecir el tiempo futuro, superando las limitaciones de los métodos tradicionales.
+
+Este nuevo sistema ha logrado avances significativos en la precisión de las previsiones, especialmente a medio plazo. Además, ha reducido drásticamente los recursos computacionales necesarios, pasando de supercomputadoras a ordenadores de mesa.
+
+El objetivo final de esta investigación es doble: mejorar la toma de decisiones cotidianas y, lo más importante, salvar vidas a través de la predicción precisa de eventos meteorológicos extremos.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

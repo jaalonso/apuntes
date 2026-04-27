@@ -1,0 +1,17 @@
+#+TITLE: ¿Puede alguna vez una empresa de IA ser buena?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/bOXGU][«¿Puede alguna vez una empresa de IA ser buena?»]] explora la paradoja de la inteligencia artificial: una tecnología maravillosa pero voraz. Devora recursos naturales y datos a escala global, actuando como un monstruo moderno. Sus fundadores, motivados por el miedo a una superinteligencia peligrosa, buscaron crear IA "alineada" con la humanidad, pero la realidad corporativa impone prioridades económicas.
+
+El conflicto surge cuando los ideales éticos chocan con la necesidad de beneficios. Empresas como OpenAI y Anthropic, aunque nacen con propósitos nobles, ven cómo el "bien" se diluye en disputas internas y externas. La tensión entre innovación y responsabilidad define su camino, revelando que la ética no es suficiente sin regulación.
+
+El autor plantea una pregunta clave: ¿puede una empresa de IA ser "buena"? La respuesta del autor es clara: no sin reglas. Sin marcos legales y sociales, la IA seguirá siendo un experimento peligroso, donde el bien común depende de decisiones ajenas a su propia naturaleza corporativa.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
