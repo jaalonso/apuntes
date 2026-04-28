@@ -1,0 +1,18 @@
+#+TITLE: Las advertencias sobre la IA son cada vez más fuertes. ¿Son realistas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/tcq67][«Las advertencias sobre la IA son cada vez más fuertes. ¿Son realistas»]] destaca que, mientras el debate público se centra en hipótesis catastróficas, la comunidad científica prioriza riesgos reales y actuales de la inteligencia artificial. Entre ellos, la capacidad de los modelos para difundir desinformación, erosionar la privacidad mediante vigilancia algorítmica y automatizar ciberataques con precisión sin precedentes.
+
+El análisis subraya que estos riesgos ya operan en sociedades modernas, exacerbados por la falta de marcos regulatorios. Problemas como el uso bélico de IA, la discriminación por sesgos en algoritmos o la dependencia excesiva de sistemas opacos agravan vulnerabilidades sociales. Estudios recientes revelan que el 97% de los investigadores en IA consideran estos peligros más urgentes que la extinción humana.
+
+Los expertos concluyen que la atención debe redirigirse hacia políticas preventivas: transparencia en modelos, auditorías independientes y cooperación internacional. Sin acción inmediata, advierten, los daños en democracia, seguridad y equidad serán irreversibles, incluso sin llegar a los escenarios distópicos que acaparan titulares.
+
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

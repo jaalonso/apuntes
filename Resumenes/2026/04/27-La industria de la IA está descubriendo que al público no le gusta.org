@@ -1,0 +1,17 @@
+#+TITLE: La industria de la IA está descubriendo que al público no le gusta
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://newrepublic.com/article/209163/ai-industry-discovering-public-backlash][«La industria de la IA está descubriendo que al público no le gusta»]] expone cómo la industria de la IA enfrenta un rechazo público sin precedentes, ejemplificado por ataques violentos y encuestas que revelan desconfianza masiva. Mientras líderes como Sam Altman alternan entre advertir sobre riesgos existenciales y prometer beneficios económicos, la ciudadanía asocia la IA con desempleo, desigualdad y costos ocultos, como el aumento del 25% en tarifas eléctricas por centros de datos.
+
+El conflicto se agrava por la falta de evidencia que respalde las promesas de la industria: el 80% de las empresas no reportan ganancias en productividad con IA, y proyectos como los de OpenAI y Microsoft carecen de mecanismos de transparencia o rendición de cuentas. La percepción de hipocresía —como apoyar regulaciones en discurso pero financiar lobbies contra ellas— alimenta un movimiento "populista anti-IA" que exige participación democrática y responsabilidad legal.
+
+El texto concluye que, sin acciones concretas —transparencia técnica, aceptación de regulaciones vinculantes y diálogo con comunidades afectadas—, el descontento escalará. El riesgo no es solo la cancelación de proyectos, sino la normalización de la violencia como respuesta a una tecnología percibida como impuesta por élites ajenas a las necesidades ciudadanas.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

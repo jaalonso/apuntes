@@ -236,6 +236,11 @@
 + 26 [[~/alonso/estudio/apuntes/Resumenes/2026/04/26-Con la IA hemos pasado de predecir el tiempo en dos horas a hacerlo en un minuto.org][Con la IA hemos pasado de predecir el tiempo en dos horas a hacerlo en un minuto]].
 + 26 [[~/alonso/estudio/apuntes/Resumenes/2026/04/26-Por qué prohibir la IA no es una opción en la Universidad.org][Por qué prohibir la IA no es una opción en la Universidad]].
 + 26 [[~/alonso/estudio/apuntes/Resumenes/2026/04/26-Qué es la inteligencia irregular o ‘jagged’ y qué significa para la IA.org][Qué es la inteligencia irregular o ‘jagged’ y qué significa para la IA]].
++ 27 [[~/alonso/estudio/apuntes/Resumenes/2026/04/27-La paradoja de la IA: Automatización y dependencia económica.org][La paradoja de la IA: Automatización y dependencia económica]].
++ 27 [[~/alonso/estudio/apuntes/Resumenes/2026/04/27-Las advertencias sobre la IA son cada vez más fuertes. ¿Son realistas.org][Las advertencias sobre la IA son cada vez más fuertes. ¿Son realistas?]].
++ 27 [[~/alonso/estudio/apuntes/Resumenes/2026/04/27-La industria de la IA está descubriendo que al público no le gusta.org][La industria de la IA está descubriendo que al público no le gusta]].
++ 27 [[~/alonso/estudio/apuntes/Resumenes/2026/04/27-Dejen de fingir que la revisión por pares usando IA no está ocurriendo.org][Dejen de fingir que la revisión por pares usando IA no está ocurriendo]].
++ 27 [[~/alonso/estudio/apuntes/Resumenes/2026/04/27-Reivindicando el ludismo en la era de la IA.org][Reivindicando el ludismo en la era de la IA]].
 
 # Local Variables:
 # truncate-lines: t

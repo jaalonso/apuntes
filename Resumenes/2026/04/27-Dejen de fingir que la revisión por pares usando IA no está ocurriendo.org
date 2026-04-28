@@ -1,0 +1,17 @@
+#+TITLE: Dejen de fingir que la revisión por pares usando IA no está ocurriendo
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://aaceendocrine.ai/articles/2026/04/stop-pretending-ai-peer-review-isn-t-happening/][«Dejen de fingir que la revisión por pares usando IA no está ocurriendo»]] expone la paradoja de la revisión por pares: mientras instituciones prohíben el uso de IA, esta ya se emplea de forma encubierta por más de la mitad de los investigadores. El sistema tradicional —lento, sesgado y sobrecargado— no puede manejar el crecimiento exponencial de manuscritos, con errores graves pasando desapercibidos en el 80% de los casos.
+
+La evidencia sugiere que la IA puede ser parte de la solución. En el experimento de ICLR 2025, un agente de IA mejoró la calidad de las revisiones en un 89% de los casos, sin alterar las tasas de aceptación y con un costo mínimo. La IA destaca en tareas objetivas (verificación de datos, coherencia lógica), mientras los humanos se enfocan en aspectos subjetivos (originalidad, relevancia), creando un modelo sinérgico que supera las limitaciones actuales.
+
+El texto concluye que la resistencia a la IA en revisión por pares es insostenible: su uso ya es una realidad oculta. En lugar de prohibiciones, se requiere un marco colaborativo con protocolos de confidencialidad, validación multicapa y transparencia. Solo así se podrá garantizar un proceso más rápido, justo y riguroso, evitando que la ciencia siga dependiendo de un sistema en crisis.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

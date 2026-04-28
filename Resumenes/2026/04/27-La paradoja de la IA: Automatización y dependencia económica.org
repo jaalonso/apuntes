@@ -1,0 +1,17 @@
+#+TITLE: La paradoja de la IA: Automatización y dependencia económica
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://aiweekly.co/issues/100-years-from-now-the-allowance][«La paradoja de la IA: Automatización y dependencia económica»]] expone cómo figuras como Elon Musk, históricamente críticas con el intervencionismo estatal, ahora promueven una Renta Básica Universal (RBU) para compensar el desempleo generado por la IA. La paradoja subraya un cambio de discurso: quienes automatizaron empleos ofrecen "soluciones" que, en realidad, profundizan la dependencia tecnológica.
+
+La RBU, según el análisis, no es una red de seguridad, sino un instrumento de control. Los pagos, gestionados por plataformas privadas, podrían suspenderse o devaluarse, dejando a la población sin habilidades relevantes ni alternativas laborales. Un estudio académico lo define como "licencia social": compensaciones mínimas para legitimar la dominación tecnológica.
+
+La crítica final apela al concepto de "violencia simbólica" de Bourdieu: la población acepta estas migajas como "progreso", mientras las élites tecnológicas consolidan su poder. El artículo concluye que, lejos de ser una solución, el ingreso universal propuesto es un mecanismo para normalizar la desigualdad y la pérdida de autonomía en la era de la IA.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

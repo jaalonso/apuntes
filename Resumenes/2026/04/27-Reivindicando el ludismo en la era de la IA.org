@@ -1,0 +1,17 @@
+#+TITLE: Reivindicando el ludismo en la era de la IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/xNn5q][«Reivindicando el ludismo en la era de la IA»]] comienza planteando la mala fama del ludismo, un movimiento obrero del siglo XIX. Se explica que los luditas no eran enemigos del progreso, sino que resistían a la mecanización que perjudicaba sus condiciones de vida.
+
+La comparación con la inteligencia artificial actual constituye el núcleo del argumento. Se señala que la IA, al igual que las máquinas de la Revolución Industrial, puede generar desposesión del trabajo y concentración de poder.
+
+En conclusión, el artículo destaca que el legado del ludismo es la necesidad de un debate social sobre el control de la tecnología y un progreso inclusivo. Reivindica una mirada crítica para democratizar el desarrollo tecnológico.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
