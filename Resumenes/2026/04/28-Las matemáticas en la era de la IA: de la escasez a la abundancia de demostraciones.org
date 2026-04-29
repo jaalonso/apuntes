@@ -1,0 +1,17 @@
+#+TITLE: Las matemáticas en la era de la IA: de la escasez a la abundancia de demostraciones
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+Terence Tao ha compartido en [[https://mathstodon.xyz/@tao/116477351524980995][Mastodon]] una nueva reflexión sobre el futuro de la investigación matemática en la que, como en la [[https://mathstodon.xyz/@tao/116450581967483825][anterior]], observa cómo las matemáticas atraviesan una transición de la escasez a la abundancia de demostraciones, impulsada por la inteligencia artificial. Esta aceleración ha generado un desequilibrio entre los tres pilares del trabajo matemático: producir, verificar y comprender pruebas.
+
+El desajuste se hace patente en el sitio web de problemas de Erdős, donde se acumula un número sin precedentes de soluciones pendientes de evaluación. A través de una analogía culinaria, Tao sostiene que una demostración "cruda", entregada sin verificación ni explicación, es tan poco útil como un trozo de carne cruda de origen desconocido: imposible de servir en la mesa.
+
+Tao augura que la comunidad matemática desplazará su reconocimiento hacia quienes verifican y comunican los resultados, y no solo hacia quienes los generan. Una demostración que nadie es capaz de comprender, concluye, no representa ningún avance para las matemáticas.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
