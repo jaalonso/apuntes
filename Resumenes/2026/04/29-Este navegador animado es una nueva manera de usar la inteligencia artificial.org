@@ -1,0 +1,17 @@
+#+TITLE: Este navegador animado es una nueva manera de usar la inteligencia artificial
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.elconfidencial.com/tecnologia/novaceno/2026-04-29/flipbook-enciclopedia-ia-animada-educacion_4346437/][«Este navegador animado es una nueva manera de usar la inteligencia artificial»]] presenta [[https://flipbook.page/][Flipbook]], un prototipo que transforma la interacción con la inteligencia artificial en una navegación visual. El sistema genera páginas ilustradas en tiempo real y permite profundizar en cada elemento con nuevos clics.
+
+La propuesta rompe con el modelo del chat textual y recupera una lógica espacial cercana a HyperCard. La IA genera toda la página como una imagen única e incluso puede animarla mediante vídeo.
+
+El artículo subraya, sin embargo, que el proyecto sigue siendo inestable y comete errores de contenido. Aun así, lo interpreta como un anticipo de una IA más visual, intuitiva y útil para el aprendizaje.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
