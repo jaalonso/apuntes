@@ -246,6 +246,9 @@
 + 28 [[~/alonso/estudio/apuntes/Resumenes/2026/04/28-Kimi Code hace el 75% de lo que hace Claude Code al 20% de su precio. La pregunta es si ese 25% que falta es el que importa.org][Kimi Code hace el 75% de lo que hace Claude Code al 20% de su precio. La pregunta es si ese 25% que falta es el que importa]].
 + 29 [[~/alonso/estudio/apuntes/Resumenes/2026/04/29-España destruye empleo a ritmo récord en el sector tecnológico en pleno auge de la IA.org][España destruye empleo a ritmo récord en el sector tecnológico en pleno auge de la IA]].
 + 29 [[~/alonso/estudio/apuntes/Resumenes/2026/04/29-Este navegador animado es una nueva manera de usar la inteligencia artificial.org][Este navegador animado es una nueva manera de usar la inteligencia artificial]].
++ 30 [[~/alonso/estudio/apuntes/Resumenes/2026/04/30-La universidad ante la IA agéntica: despertar o morir para siempre.org][La universidad ante la IA agéntica: despertar o morir para siempre]].
++ 30 [[~/alonso/estudio/apuntes/Resumenes/2026/04/30-Carrera por la IA: cuatro gigantes tecnológicos gastan más que el Proyecto Manhattan.org][Carrera por la IA: cuatro gigantes tecnológicos gastan más que el Proyecto Manhattan]].
++ 30 [[~/alonso/estudio/apuntes/Resumenes/2026/04/30-El temor a la IA que se extiende en Silicon Valley.org][El temor a la IA que se extiende en Silicon Valley]].
 
 # Local Variables:
 # truncate-lines: t
