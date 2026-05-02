@@ -250,6 +250,12 @@
 + 30 [[~/alonso/estudio/apuntes/Resumenes/2026/04/30-Carrera por la IA: cuatro gigantes tecnológicos gastan más que el Proyecto Manhattan.org][Carrera por la IA: cuatro gigantes tecnológicos gastan más que el Proyecto Manhattan]].
 + 30 [[~/alonso/estudio/apuntes/Resumenes/2026/04/30-El temor a la IA que se extiende en Silicon Valley.org][El temor a la IA que se extiende en Silicon Valley]].
 
+** Mayo 2026
++ 01 [[~/alonso/estudio/apuntes/Resumenes/2026/05/01- La inteligencia artificial irrumpe con despidos en el mercado de trabajo con muchas dudas sobre su impacto real.org][La inteligencia artificial irrumpe con despidos en el mercado de trabajo con muchas dudas sobre su impacto real]].
++ 01 [[~/alonso/estudio/apuntes/Resumenes/2026/05/01-«Absolutamente horrible»: los solicitantes de empleo del Reino Unido expresan su frustración con las entrevistas con IA.org][«Absolutamente horrible»: los solicitantes de empleo del Reino Unido expresan su frustración con las entrevistas con IA]].
++ 01 [[~/alonso/estudio/apuntes/Resumenes/2026/05/01-Nvidia no solo es el pegamento de la IA: ahora tiene un modelo omnipotente que lee, ve y escucha. Todo a la vez.org][Nvidia no solo es el pegamento de la IA: ahora tiene un modelo omnipotente que lee, ve y escucha. Todo a la vez]].
++ 01 [[~/alonso/estudio/apuntes/Resumenes/2026/05/01-_Ha crecido el absentismo en la universidad_ El decano de una facultad abre el debate.org][¿Ha crecido el absentismo en la universidad? El decano de una facultad abre el debate]].
+
 # Local Variables:
 # truncate-lines: t
 # eval: (auto-fill-mode -1)

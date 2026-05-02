@@ -1,0 +1,17 @@
+#+TITLE:  La inteligencia artificial irrumpe con despidos en el mercado de trabajo con muchas dudas sobre su impacto real
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.eldiario.es/economia/inteligencia-artificial-irrumpe-despidos-mercado-trabajo-dudas-impacto-real_1_13175570.html][« La inteligencia artificial irrumpe con despidos en el mercado de trabajo con muchas dudas sobre su impacto real»]] analiza el temor a que la inteligencia artificial destruya empleo tras una nueva tanda de despidos en grandes tecnológicas. Aunque varias empresas atribuyen los recortes a esta tecnología, expertos y sindicatos creen que muchas reducciones responden también a ajustes anteriores y a decisiones empresariales ya previstas.
+
+La información destaca que la IA ya se está extendiendo con rapidez en Europa y en España. Hoy actúa sobre todo como herramienta complementaria, pero modifica tareas, eleva la productividad y cambia los perfiles demandados. El efecto más claro recae en los puestos júnior, que pierden peso en la contratación.
+
+El artículo concluye que el impacto definitivo sigue abierto. Los actuales modelos aún fallan y requieren supervisión humana, pero la evolución hacia agentes más autónomos puede alterar de forma más profunda el trabajo. El debate central ya no es solo cuántos empleos desaparecerán, sino quién controlará esa transformación.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

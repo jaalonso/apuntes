@@ -1,0 +1,17 @@
+#+TITLE: ¿Ha crecido el absentismo en la universidad? El decano de una facultad abre el debate
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/JjR25][«¿Ha crecido el absentismo en la universidad? El decano de una facultad abre el debate»]] aborda el debate sobre el absentismo en la universidad a partir de la carta enviada por el decano de Ciencias Políticas y Sociales de la UPF. En ella denuncia baja asistencia, poca implicación académica y actitudes poco responsables entre alumnos de primeros cursos.
+
+El texto recoge después testimonios de otras universidades. Un profesor de la UB asegura que en una clase con 34 matriculados solo acudieron cuatro estudiantes. Otros responsables académicos admiten el problema, aunque rechazan interpretarlo solo como falta de compromiso del alumnado.
+
+El artículo concluye que el absentismo responde a causas diversas, como la pandemia, la distancia al campus, el trabajo, la vivienda y los cambios en el acceso a la información. Las universidades apuestan por estudiar el fenómeno y por redefinir el valor de la presencialidad en el aula.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
