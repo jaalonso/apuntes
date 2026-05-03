@@ -255,6 +255,7 @@
 + 01 [[~/alonso/estudio/apuntes/Resumenes/2026/05/01-«Absolutamente horrible»: los solicitantes de empleo del Reino Unido expresan su frustración con las entrevistas con IA.org][«Absolutamente horrible»: los solicitantes de empleo del Reino Unido expresan su frustración con las entrevistas con IA]].
 + 01 [[~/alonso/estudio/apuntes/Resumenes/2026/05/01-Nvidia no solo es el pegamento de la IA: ahora tiene un modelo omnipotente que lee, ve y escucha. Todo a la vez.org][Nvidia no solo es el pegamento de la IA: ahora tiene un modelo omnipotente que lee, ve y escucha. Todo a la vez]].
 + 01 [[~/alonso/estudio/apuntes/Resumenes/2026/05/01-_Ha crecido el absentismo en la universidad_ El decano de una facultad abre el debate.org][¿Ha crecido el absentismo en la universidad? El decano de una facultad abre el debate]].
++ 02 [[~/alonso/estudio/apuntes/Resumenes/2026/05/02-Resistencia a la IA desde Madrid: las profesiones que no temen la gran sustitución.org][Resistencia a la IA desde Madrid: las profesiones que no temen la gran sustitución]].
 
 # Local Variables:
 # truncate-lines: t

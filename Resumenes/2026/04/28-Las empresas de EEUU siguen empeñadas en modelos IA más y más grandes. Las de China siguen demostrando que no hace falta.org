@@ -3,7 +3,7 @@
 
 Buenos días.
 
-El artículo [[https://www.xataka.com/robotica-e-ia/empresas-eeuu-siguen-empenadas-modelos-ia-grandes-china-siguen-demostrando-que-se-puede-hacer][«Las empresas de EEUU siguen empeñadas en modelos IA más y más grandes. Las de China siguen demostrando que no hace falta»]] destaca cómo Alibaba rompe con el paradigma de los modelos de IA gigantes al lanzar *Qwen3.6-27B* . Este modelo denso, de 27.000 millones de parámetros y menos de 17 GB, supera en pruebas técnicas a su versión anterior de 397.000 millones, cuestionando la necesidad de escalar indiscriminadamente.
+El artículo [[https://www.xataka.com/robotica-e-ia/empresas-eeuu-siguen-empenadas-modelos-ia-grandes-china-siguen-demostrando-que-se-puede-hacer][«Las empresas de EEUU siguen empeñadas en modelos IA más y más grandes. Las de China siguen demostrando que no hace falta»]] destaca cómo Alibaba rompe con el paradigma de los modelos de IA gigantes al lanzar *Qwen3.6-27B*. Este modelo denso, de 27.000 millones de parámetros y menos de 17 GB, supera en pruebas técnicas a su versión anterior de 397.000 millones, cuestionando la necesidad de escalar indiscriminadamente.
 
 Los resultados en benchmarks como /SWE-bench Verified/ y /Terminal-Bench 2.0/ confirman su superioridad, incluso igualando a /Claude Opus 4.5/  de Anthropic. La arquitectura densa elimina la complejidad de los modelos MoE, ofreciendo un rendimiento predecible y compacto.
 
