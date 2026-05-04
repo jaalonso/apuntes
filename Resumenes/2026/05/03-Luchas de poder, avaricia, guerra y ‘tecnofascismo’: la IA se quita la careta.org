@@ -1,0 +1,17 @@
+#+TITLE: Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://elpais.com/tecnologia/2026-05-03/luchas-de-poder-avaricia-guerra-y-tecnofascismo-la-ia-se-quita-la-careta.html][«Luchas de poder, avaricia, guerra y ‘tecnofascismo’: la IA se quita la careta»]] describe cómo varios hechos recientes han desmontado la imagen amable de la inteligencia artificial. El BCE ha alertado a la banca por el riesgo cibernético de un modelo de Anthropic, mientras Google y otras tecnológicas han estrechado su colaboración militar con el Pentágono.
+
+También expone que la IA ya no solo se vende como motor de progreso, sino como herramienta de vigilancia, control social y guerra. Los manifiestos de Palantir y Altman, la actividad de Peter Thiel y el uso militar de algoritmos refuerzan esa deriva ideológica y estratégica.
+
+El artículo culmina con el juicio contra OpenAI, que revela ambición, rivalidad y ruptura con la misión fundacional de la empresa. La conclusión es clara: la IA aparece menos como proyecto para beneficiar a la humanidad y más como instrumento de poder y enriquecimiento.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
