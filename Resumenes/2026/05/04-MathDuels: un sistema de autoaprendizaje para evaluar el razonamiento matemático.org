@@ -1,0 +1,17 @@
+#+TITLE: MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.rabdos.ai/research/introducing-mathduels-ai][«MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático»]] presenta [[https://mathduels.ai/][MathDuels]], un benchmark de razonamiento matemático que evalúa a los modelos en dos funciones: resolver problemas y escribirlos. La propuesta busca superar los límites de los tests fijos, que se saturan, se filtran al entrenamiento y solo miden una parte de la capacidad matemática.
+
+El sistema asigna un *Solve Rating* y un *Author Rating*  tras filtrar los enunciados con un verificador independiente y ajustar los resultados con un modelo de Rasch. Los datos muestran que ambas puntuaciones se relacionan, pero no describen una única habilidad.
+
+El artículo sostiene que redactar buenos problemas mide una competencia propia y parcialmente separada de la resolución. Dos ejemplos de Gemini y Grok ilustran esa diferencia. El proyecto se actualiza en [[https://mathduels.ai/][mathduels.ai]] y aspira a seguir siendo útil conforme mejoren los modelos.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

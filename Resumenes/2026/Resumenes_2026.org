@@ -260,6 +260,9 @@
 + 03 [[~/alonso/estudio/apuntes/Resumenes/2026/05/03-Claude Mythos: la IA frente a la ciberdelincuencia a escala y los límites de la seguridad nacional.org][Claude Mythos: la IA frente a la ciberdelincuencia a escala y los límites de la seguridad nacional]].
 + 03 [[~/alonso/estudio/apuntes/Resumenes/2026/05/03-El peligro de los datos sintéticos en manos de la IA.org][El peligro de los datos sintéticos en manos de la IA]].
 + 03 [[~/alonso/estudio/apuntes/Resumenes/2026/05/03-La generación Z se está volviendo contra la IA de una manera increíble.org][La generación Z se está volviendo contra la IA de una manera increíble]].
++ 04 [[~/alonso/estudio/apuntes/Resumenes/2026/05/04-MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático.org][MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático]].
++ 05 [[~/alonso/estudio/apuntes/Resumenes/2026/05/04-MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático.org][MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático]].
++ 05 [[~/alonso/estudio/apuntes/Resumenes/2026/05/06-Modelos de lenguaje pequeños: repensando la arquitectura de IA empresarial.org][Modelos de lenguaje pequeños: repensando la arquitectura de IA empresarial]].
 
 # Local Variables:
 # truncate-lines: t

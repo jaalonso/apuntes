@@ -1,0 +1,17 @@
+#+TITLE: Modelos de lenguaje pequeños: repensando la arquitectura de IA empresarial
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/3p88K][«Modelos de lenguaje pequeños: repensando la arquitectura de IA empresarial»]] analiza el avance de los pequeños modelos de lenguaje en la arquitectura de IA empresarial. Su menor tamaño, su especialización y su menor coste los convierten en una opción atractiva para tareas acotadas, rápidas y repetitivas, donde un gran modelo resulta excesivo.
+
+Explica que estos modelos se construyen con menos parámetros y datos más específicos, apoyados en técnicas como destilación, poda y cuantización. También detalla sus ventajas en privacidad, eficiencia, modularidad y personalización, así como sus aplicaciones en atención al cliente, análisis documental, código o sectores regulados.
+
+El artículo concluye que los SLM no sustituirán a los LLM. Su principal limitación está en el razonamiento abierto y el conocimiento amplio. Por eso, los expertos recomiendan arquitecturas compuestas que asignen cada tarea al modelo más adecuado y refuercen la calidad de los datos empresariales.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
