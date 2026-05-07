@@ -263,6 +263,7 @@
 + 04 [[~/alonso/estudio/apuntes/Resumenes/2026/05/04-MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático.org][MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático]].
 + 05 [[~/alonso/estudio/apuntes/Resumenes/2026/05/04-MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático.org][MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático]].
 + 05 [[~/alonso/estudio/apuntes/Resumenes/2026/05/06-Modelos de lenguaje pequeños: repensando la arquitectura de IA empresarial.org][Modelos de lenguaje pequeños: repensando la arquitectura de IA empresarial]].
++ 06 [[~/alonso/estudio/apuntes/Resumenes/2026/05/06-La basura de la IA está inundando las revistas académicas.org][La basura de la IA está inundando las revistas académicas]].
 
 # Local Variables:
 # truncate-lines: t

@@ -1,0 +1,17 @@
+#+TITLE: La basura de la IA está inundando las revistas académicas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[http://archive.today/FpSRn][«La basura de la IA está inundando las revistas académicas»]] examina cómo la IA generativa está alterando la publicación científica. Un estudio en Organization Science muestra que, desde ChatGPT, los envíos crecieron un 42% y que cada vez más manuscritos presentan un uso elevado de contenido generado por máquinas.
+
+Los editores detectan que esos textos son más difíciles de leer, más abstractos y más cargados de jerga. El fenómeno también afecta a la revisión por pares, donde más del 30% de los informes revela uso de IA y aporta menos valor a las decisiones editoriales.
+
+El artículo sostiene que el sistema aún resiste porque la revista sigue rechazando la mayoría de esos trabajos, aunque a un alto coste humano. También plantea que la IA no debe descartarse, ya que podría servir en el futuro para mejorar el filtrado y la evaluación científica.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
