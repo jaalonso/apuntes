@@ -1,0 +1,17 @@
+#+TITLE: The AI scientist: ahora que los artículos académicos pueden automatizarse por completo, ¿qué significa esto para el futuro de la investigación?
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://theconversation.com/the-ai-scientist-now-academic-papers-can-be-fully-automated-what-does-this-mean-for-the-future-of-research-282161][«The AI scientist: ahora que los artículos académicos pueden automatizarse por completo, ¿qué significa esto para el futuro de la investigación?»]]  analiza el salto reciente en las capacidades de la inteligencia artificial, que ha pasado de ser una herramienta de apoyo a convertirse en un agente autónomo capaz de llevar a cabo investigaciones científicas completas. Este cambio se refleja en sistemas como /The AI Scientist/, que ha conseguido publicar un artículo en /Nature/, y en herramientas como /Fars/, capaces de generar numerosos trabajos a bajo coste.
+
+El núcleo del texto se centra en las consecuencias de esta automatización para la universidad, donde el sistema de publicación ya se encuentra sometido a una fuerte presión, y para las industrias creativas, enfrentadas a nuevos conflictos sobre derechos de autor y modelos de negocio. El artículo advierte, además, del riesgo de que la investigación tienda a favorecer aportaciones incrementales en detrimento de innovaciones verdaderamente disruptivas.
+
+La conclusión plantea que la cuestión ya no es si la IA puede producir conocimiento y contenidos, sino qué ganaremos y qué perderemos cuando lo haga de forma generalizada. Ese cambio pone en duda un modelo basado en la autoría humana del conocimiento y obliga a repensar el futuro de la creación, la investigación y la innovación.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

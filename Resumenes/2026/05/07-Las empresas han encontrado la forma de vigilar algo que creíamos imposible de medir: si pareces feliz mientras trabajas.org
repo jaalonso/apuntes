@@ -1,0 +1,17 @@
+#+TITLE: Las empresas han encontrado la forma de vigilar algo que creíamos imposible de medir: si pareces feliz mientras trabajas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/empresas-y-economia/hay-delicada-tendencia-laboral-que-esta-llegando-a-estados-unidos-vigilancia-emocional-ia][«Las empresas han encontrado la forma de vigilar algo que creíamos imposible de medir: si pareces feliz mientras trabajas»]] examina la creciente adopción de la denominada "/emotion AI/" por parte de las empresas con el fin de evaluar la felicidad y el grado de compromiso de sus empleados. Si bien, en sus inicios, la vigilancia en el ámbito laboral se circunscribía al control del tiempo de trabajo y de la actividad realizada, en la actualidad se ha ampliado al terreno de las emociones mediante el empleo de programas capaces de analizar expresiones faciales y patrones vocales.
+
+Este enfoque suscita serias dudas en torno a su validez científica, en la medida en que se fundamenta en teorías de las emociones básicas que han sido ampliamente cuestionadas por diversos sectores de la comunidad académica. A ello se añade el riesgo de que estos sistemas reproduzcan o incluso intensifiquen los sesgos presentes en los datos utilizados para su entrenamiento, lo que podría traducirse en evaluaciones injustas, discriminatorias o carentes de fiabilidad.
+
+Por último, el artículo pone de relieve la divergencia regulatoria existente entre la Unión Europea y Estados Unidos. Mientras que la primera ha prohibido el uso de esta tecnología en el contexto laboral, el segundo mantiene un marco normativo más permisivo. En este sentido, la automatización de la vigilancia emocional constituye una transformación sustantiva en la relación entre empresas y trabajadores, con consecuencias significativas en términos de privacidad, autonomía individual y derechos fundamentales.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

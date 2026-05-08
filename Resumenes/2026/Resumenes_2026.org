@@ -264,6 +264,9 @@
 + 05 [[~/alonso/estudio/apuntes/Resumenes/2026/05/04-MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático.org][MathDuels: un sistema de autoaprendizaje para evaluar el razonamiento matemático]].
 + 05 [[~/alonso/estudio/apuntes/Resumenes/2026/05/06-Modelos de lenguaje pequeños: repensando la arquitectura de IA empresarial.org][Modelos de lenguaje pequeños: repensando la arquitectura de IA empresarial]].
 + 06 [[~/alonso/estudio/apuntes/Resumenes/2026/05/06-La basura de la IA está inundando las revistas académicas.org][La basura de la IA está inundando las revistas académicas]].
++ 07 [[~/alonso/estudio/apuntes/Resumenes/2026/05/07-'Like space aliens landing': Symposium weighs effect of AI on the future of mathematics.org]['Like space aliens landing': Symposium weighs effect of AI on the future of mathematics]].
++ 07 [[~/alonso/estudio/apuntes/Resumenes/2026/05/07-Las empresas han encontrado la forma de vigilar algo que creíamos imposible de medir: si pareces feliz mientras trabajas.org][Las empresas han encontrado la forma de vigilar algo que creíamos imposible de medir: si pareces feliz mientras trabajas]].
++ 07 [[~/alonso/estudio/apuntes/Resumenes/2026/05/07-The AI scientist: ahora que los artículos académicos pueden automatizarse por completo, _qué significa esto para el futuro de la investigación_.org][The AI scientist: ahora que los artículos académicos pueden automatizarse por completo, ¿qué significa esto para el futuro de la investigación?]]
 
 # Local Variables:
 # truncate-lines: t
