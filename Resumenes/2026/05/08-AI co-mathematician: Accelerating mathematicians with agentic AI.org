@@ -1,0 +1,17 @@
+#+TITLE: AI co-mathematician: Accelerating mathematicians with agentic AI
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://arxiv.org/abs/2605.06651v1][«AI co-mathematician: Accelerating mathematicians with agentic AI»]] introduce un asistente basado en inteligencia artificial diseñado para la investigación matemática avanzada. Este sistema orquesta múltiples agentes para apoyar la concepción de hipótesis y el cálculo computacional. La tecnología busca integrar la IA en el flujo de trabajo diario y humano de los matemáticos profesionales de alto nivel.
+
+La plataforma emplea una jerarquía de agentes que coordinan búsquedas bibliográficas y ejecutan código en paralelo. En evaluaciones de alta dificultad, la herramienta alcanzó un éxito del 48% en FrontierMath. Varios investigadores utilizaron el prototipo para identificar estrategias de prueba innovadoras y detectar fallos lógicos en sus trabajos.
+
+El artículo concluye que la colaboración entre humanos y máquinas es fundamental para acelerar el descubrimiento científico. Los autores enfatizan la necesidad de nuevos marcos de evaluación que midan la eficacia colaborativa. El futuro de la disciplina dependerá de cómo estas herramientas ayuden a navegar la incertidumbre investigadora.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

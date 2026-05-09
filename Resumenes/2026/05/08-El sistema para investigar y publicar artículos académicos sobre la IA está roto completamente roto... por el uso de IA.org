@@ -1,0 +1,17 @@
+#+TITLE: El sistema para investigar y publicar artículos académicos sobre la IA está roto completamente roto... por el uso de IA
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/robotica-e-ia/ia-academica-vive-su-crisis-silenciosa-publicar-importa-que-investigar][«El sistema para investigar y publicar artículos académicos sobre la IA está roto completamente roto... por el uso de IA»]] aborda la crisis del sistema de revisión por pares en inteligencia artificial, reflejada en el rechazo de 497 artículos por parte de ICML. Esta situación responde al fuerte aumento de envíos —un 48 % más que el año anterior— sin un crecimiento equivalente en el número de revisores cualificados.
+
+Ante esta sobrecarga, algunos revisores recurrieron al uso de IA para agilizar las evaluaciones, incumpliendo las normas de la conferencia. ICML detectó estas infracciones mediante un sistema de marcas de agua ocultas en los PDF, que permitió identificar a 506 infractores.
+
+Por último, el texto plantea la necesidad de reformar el sistema de revisión por pares mediante una mayor transparencia y un modelo de evaluación bidireccional.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
