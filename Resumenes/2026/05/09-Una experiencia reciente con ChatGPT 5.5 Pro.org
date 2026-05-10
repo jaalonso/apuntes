@@ -1,0 +1,17 @@
+#+TITLE: Una experiencia reciente con ChatGPT 5.5 Pro en investigación matemática
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/][«Timothy Gowers: A recent experience with ChatGPT 5.5 Pro»]] relata cómo la percepción sobre la capacidad matemática de los LLMs ha cambiado de forma acelerada. [[https://en.wikipedia.org/wiki/Timothy_Gowers][Timothy Gowers]] sostiene que ya no basta con minimizar sus éxitos como simples búsquedas de resultados conocidos.
+
+Para evaluar estas capacidades en tareas de investigación genuinamente novedosas, el autor somete a ChatGPT 5.5 Pro a una serie de problemas abiertos. El modelo produce resultados propios de una tesis doctoral en menos de una hora, estructurando demostraciones matemáticas sin orientación externa detallada y con una autonomía que el propio Gowers califica de sorprendente.
+
+El hallazgo apunta a que la frontera entre la síntesis de conocimiento y la creatividad matemática se está borrando. Gowers concluye que los LLM ya son capaces de resolver los «problemas suaves» con los que tradicionalmente se inician los doctorandos, lo que transforma de raíz la formación en investigación matemática. Advierte, no obstante, que las matemáticas conservan su valor intrínseco, aunque la era de la autoría individual de teoremas puede estar llegando a su fin.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

@@ -270,6 +270,7 @@
 + 08 [[~/alonso/estudio/apuntes/Resumenes/2026/05/08-AI co-mathematician: Accelerating mathematicians with agentic AI.org][AI co-mathematician: Accelerating mathematicians with agentic AI]].
 + 08 [[~/alonso/estudio/apuntes/Resumenes/2026/05/08-Cómo evitar que la IA te de siempre la razón por defecto y así conseguir que Claude, Gemini y ChatGPT tengan menos alucinaciones.org][Cómo evitar que la IA te de siempre la razón por defecto y así conseguir que Claude, Gemini y ChatGPT tengan menos alucinaciones]].
 + 08 [[~/alonso/estudio/apuntes/Resumenes/2026/05/08-El sistema para investigar y publicar artículos académicos sobre la IA está roto completamente roto... por el uso de IA.org][El sistema para investigar y publicar artículos académicos sobre la IA está roto completamente roto... por el uso de IA]].
++ 09 [[~/alonso/estudio/apuntes/Resumenes/2026/05/09-Una experiencia reciente con ChatGPT 5.5 Pro.org][Una experiencia reciente con ChatGPT 5.5 Pro]].
 
 # Local Variables:
 # truncate-lines: t
