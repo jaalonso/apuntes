@@ -271,6 +271,8 @@
 + 08 [[~/alonso/estudio/apuntes/Resumenes/2026/05/08-Cómo evitar que la IA te de siempre la razón por defecto y así conseguir que Claude, Gemini y ChatGPT tengan menos alucinaciones.org][Cómo evitar que la IA te de siempre la razón por defecto y así conseguir que Claude, Gemini y ChatGPT tengan menos alucinaciones]].
 + 08 [[~/alonso/estudio/apuntes/Resumenes/2026/05/08-El sistema para investigar y publicar artículos académicos sobre la IA está roto completamente roto... por el uso de IA.org][El sistema para investigar y publicar artículos académicos sobre la IA está roto completamente roto... por el uso de IA]].
 + 09 [[~/alonso/estudio/apuntes/Resumenes/2026/05/09-Una experiencia reciente con ChatGPT 5.5 Pro.org][Una experiencia reciente con ChatGPT 5.5 Pro]].
++ 10 [[~/alonso/estudio/apuntes/Resumenes/2026/05/10-La IA y el periodismo.org][La IA y el periodismo]].
++ 10 [[~/alonso/estudio/apuntes/Resumenes/2026/05/10-Three cultures of math.org][Three cultures of math]].
 
 # Local Variables:
 # truncate-lines: t
