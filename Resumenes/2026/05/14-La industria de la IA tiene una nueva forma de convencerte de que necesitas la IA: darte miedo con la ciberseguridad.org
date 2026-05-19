@@ -1,0 +1,17 @@
+#+TITLE: La industria de la IA tiene una nueva forma de convencerte de que necesitas la IA: darte miedo con la ciberseguridad
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/robotica-e-ia/modelos-ia-tienen-su-nueva-obsesion-antes-era-vibecoding-ahora-ciberseguridad][«La industria de la IA tiene una nueva forma de convencerte de que necesitas la IA: darte miedo con la ciberseguridad»]] analiza cómo la industria tecnológica ha encontrado una nueva forma de vender la IA: presentarla como escudo necesario ante una oleada de amenazas de ciberseguridad. Anthropic abrió ese camino con Mythos y un mensaje centrado en la urgencia y el riesgo.
+
+OpenAI siguió esa línea con GPT-5.5-Cyber y Daybreak, y Google reforzó el clima de alerta con un informe sobre exploits creados con IA. El texto sostiene que las grandes empresas usan ese temor como estrategia de marketing para colocar sus soluciones.
+
+El artículo cierra con una prueba de realidad. Daniel Stenberg evaluó Mythos con el código de curl y concluyó que su rendimiento no fue tan revolucionario como se sugería. La IA mejora el análisis de código, pero aún no justifica del todo la magnitud del discurso comercial.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

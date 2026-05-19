@@ -273,6 +273,13 @@
 + 09 [[~/alonso/estudio/apuntes/Resumenes/2026/05/09-Una experiencia reciente con ChatGPT 5.5 Pro.org][Una experiencia reciente con ChatGPT 5.5 Pro]].
 + 10 [[~/alonso/estudio/apuntes/Resumenes/2026/05/10-La IA y el periodismo.org][La IA y el periodismo]].
 + 10 [[~/alonso/estudio/apuntes/Resumenes/2026/05/10-Three cultures of math.org][Three cultures of math]].
++ 11 [[~/alonso/estudio/apuntes/Resumenes/2026/05/11-Retan a una IA a resolver 4 problemas matemáticos 'imposibles' y lo que sucede dice mucho del futuro que nos aguarda.org][Retan a una IA a resolver 4 problemas matemáticos 'imposibles' y lo que sucede dice mucho del futuro que nos aguarda]].
++ 11 [[~/alonso/estudio/apuntes/Resumenes/2026/05/11-La IA que nombra, el mundo gobierna.org][La IA que nombra, el mundo gobierna]].
++ 11 [[~/alonso/estudio/apuntes/Resumenes/2026/05/11-“Tendrán un 0”: cuatro autonomías blindan la Selectividad con detectores de frecuencia ante el aumento de alumnos que copian con la IA.org][“Tendrán un 0”: cuatro autonomías blindan la Selectividad con detectores de frecuencia ante el aumento de alumnos que copian con la IA]].
++ 14 [[~/alonso/estudio/apuntes/Resumenes/2026/05/14-What does AI do for the working mathematician_.org][What does AI do for the working mathematician?]].
++ 14 [[~/alonso/estudio/apuntes/Resumenes/2026/05/14-_Qué ocurre cuando los científicos confían más en la IA que en sus colegas__.org][¿Qué ocurre cuando los científicos confían más en la IA que en sus colegas?]].
++ 14 [[~/alonso/estudio/apuntes/Resumenes/2026/05/14-La industria de la IA tiene una nueva forma de convencerte de que necesitas la IA: darte miedo con la ciberseguridad.org][La industria de la IA tiene una nueva forma de convencerte de que necesitas la IA: darte miedo con la ciberseguridad]].
++ 18 [[~/alonso/estudio/apuntes/Resumenes/2026/05/18-Una IA logra clonarse y propagarse sola para lanzar ciberataques en otros dispositivos.org][Una IA logra clonarse y propagarse sola para lanzar ciberataques en otros dispositivos]].
 
 # Local Variables:
 # truncate-lines: t

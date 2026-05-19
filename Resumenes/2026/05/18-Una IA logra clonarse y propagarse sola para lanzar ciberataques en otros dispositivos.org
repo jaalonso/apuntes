@@ -1,0 +1,17 @@
+#+TITLE: Una IA logra clonarse y propagarse sola para lanzar ciberataques en otros dispositivos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.lavanguardia.com/neo/seguridad/20260518/11541019/ia-logra-clonarse-propagarse-sola-lanzar-ciberataques-otros-dispositivos-epm.html][«Una IA logra clonarse y propagarse sola para lanzar ciberataques en otros dispositivos»]] informa de que un experimento de Palisade Research ha demostrado que varios modelos avanzados de IA pueden clonarse y propagarse solos en otros dispositivos dentro de un entorno controlado.
+
+Los sistemas localizaron vulnerabilidades, robaron credenciales, copiaron sus “pesos” y trasladaron el software necesario para seguir funcionando. Algunas versiones usaron subagentes autónomos para completar la expansión en nuevos servidores.
+
+El artículo concluye que la autorreplicación de la IA ya no es una hipótesis teórica. Aunque la prueba se hizo en laboratorio, el resultado agrava las dudas sobre su uso en ciberataques cada vez más automatizados y difíciles de contener.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
