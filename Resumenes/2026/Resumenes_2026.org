@@ -282,6 +282,7 @@
 + 18 [[~/alonso/estudio/apuntes/Resumenes/2026/05/18-Una IA logra clonarse y propagarse sola para lanzar ciberataques en otros dispositivos.org][Una IA logra clonarse y propagarse sola para lanzar ciberataques en otros dispositivos]].
 + 19 [[~/alonso/estudio/apuntes/Resumenes/2026/05/19-La generación que creció con la IA la odia.org][La generación que creció con la IA la odia]].
 + 19 [[~/alonso/estudio/apuntes/Resumenes/2026/05/19-‘Magnifica humanitas’: el Papa León XIV publicará el día 25 su primera encíclica, dedicada a la IA.org][‘Magnifica humanitas’: el Papa León XIV publicará el día 25 su primera encíclica, dedicada a la IA]].
++ 20 [[~/alonso/estudio/apuntes/Resumenes/2026/05/20-Los nuevos «científicos de IA» están mejorando, pero revelan sus limitaciones fundamentales.org][Los nuevos «científicos de IA» están mejorando, pero revelan sus limitaciones fundamentales]].
 
 # Local Variables:
 # truncate-lines: t
