@@ -283,6 +283,8 @@
 + 19 [[~/alonso/estudio/apuntes/Resumenes/2026/05/19-La generación que creció con la IA la odia.org][La generación que creció con la IA la odia]].
 + 19 [[~/alonso/estudio/apuntes/Resumenes/2026/05/19-‘Magnifica humanitas’: el Papa León XIV publicará el día 25 su primera encíclica, dedicada a la IA.org][‘Magnifica humanitas’: el Papa León XIV publicará el día 25 su primera encíclica, dedicada a la IA]].
 + 20 [[~/alonso/estudio/apuntes/Resumenes/2026/05/20-Los nuevos «científicos de IA» están mejorando, pero revelan sus limitaciones fundamentales.org][Los nuevos «científicos de IA» están mejorando, pero revelan sus limitaciones fundamentales]].
++ 21 [[~/alonso/estudio/apuntes/Resumenes/2026/05/21-An OpenAI model has disproved a central conjecture in discrete geometry.org][An OpenAI model has disproved a central conjecture in discrete geometry]].
++ 21 [[~/alonso/estudio/apuntes/Resumenes/2026/05/21-Los artículos de investigación hechos con IA están mejorando, y eso es un gran problema para los científicos.org][Los artículos de investigación hechos con IA están mejorando, y eso es un gran problema para los científicos]].
 
 # Local Variables:
 # truncate-lines: t

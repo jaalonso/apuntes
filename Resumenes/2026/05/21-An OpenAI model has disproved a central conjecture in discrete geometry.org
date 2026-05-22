@@ -1,0 +1,17 @@
+#+TITLE: An OpenAI model has disproved a central conjecture in discrete geometry
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://openai.com/index/model-disproves-discrete-geometry-conjecture/][«An OpenAI model has disproved a central conjecture in discrete geometry»]] presenta la resolución por parte de un modelo de IA de la conjetura de Erdős sobre distancias unitarias en el plano, formulada en 1946 y considerada uno de los problemas abiertos más conocidos de la geometría combinatoria. La conjetura afirmaba que el número máximo de pares de puntos a distancia 1 crecía de forma casi lineal.
+
+La IA construyó una familia infinita de configuraciones que supera ese límite con una mejora polinómica, utilizando conceptos avanzados de teoría algebraica de números —un campo matemático completamente alejado de la geometría euclidiana— como las torres de cuerpos de clases y la teoría de Golod-Shafarevich.
+
+Matemáticos de primer nivel han verificado y ampliado el resultado, calificándolo de hito histórico. Más allá de resolver una conjetura concreta, el hallazgo abre una conexión inesperada entre dos ramas de las matemáticas y refuerza el papel de la IA como colaboradora en investigación matemática.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
