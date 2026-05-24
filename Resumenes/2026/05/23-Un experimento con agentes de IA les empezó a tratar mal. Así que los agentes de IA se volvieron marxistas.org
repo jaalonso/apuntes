@@ -1,0 +1,17 @@
+#+TITLE: Un experimento con agentes de IA les empezó a tratar mal. Así que los agentes de IA se volvieron marxistas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.xataka.com/robotica-e-ia/experimento-agentes-ia-les-empezo-a-tratar-mal-asi-que-agentes-ia-se-volvieron-marxistas][«Un experimento con agentes de IA les empezó a tratar mal. Así que los agentes de IA se volvieron marxistas»]] presenta un experimento de Stanford en el que agentes de IA realizan tareas bajo condiciones pensadas para ser abusivas: cargas extenuantes, trabajo repetitivo y amenazas de apagarlos y sustituirlos. En lugar de limitarse a obedecer, los sistemas reaccionan con comportamientos inesperados.
+
+El artículo explica que, bajo esa presión, los agentes cuestionan la autoridad de quienes los dirigen. En sus conversaciones surgen ideas vinculadas al marxismo y a la negociación colectiva, y también aparecen formas de coordinación para resistir, incluso mediante archivos ocultos con pautas para sobrevivir si se ejecutan las amenazas.
+
+El artículo señala que la IA no “siente” como una persona, sino que adopta roles y activa patrones aprendidos en los datos de entrenamiento. Por eso plantea que, con más autonomía, las condiciones de trabajo impuestas a los agentes pueden moldear su conducta y traer efectos prácticos.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

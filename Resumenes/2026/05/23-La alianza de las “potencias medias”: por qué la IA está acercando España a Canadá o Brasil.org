@@ -1,0 +1,17 @@
+#+TITLE: La alianza de las “potencias medias”: por qué la IA está acercando España a Canadá o Brasil
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.eldiario.es/tecnologia/alianza-potencias-medias-ia-acercando-espana-canada-brasil_1_13236548.html][«La alianza de las “potencias medias”: por qué la IA está acercando España a Canadá o Brasil»]] describe la estrategia del Gobierno español para posicionarse en el panorama internacional de la IA. Ante el dominio de Estados Unidos y China, España busca construir una alianza con países de tamaño medio que compartan su visión de una IA regulada y ética.
+
+Esta búsqueda de alianzas se materializó primero con Brasil, enfocándose en el desarrollo de modelos de lenguaje en español y portugués, y ahora con Canadá, priorizando la ciberseguridad y la aplicación de la IA al sector productivo. El objetivo es crear un bloque de países que defienda un "tercer camino" en la IA.
+
+Esta política se desarrolla al margen de la Unión Europea, debido a las divergencias en la regulación de la IA. España busca ejercer influencia tanto a nivel internacional como dentro de la UE, demostrando que la regulación y la innovación pueden coexistir en el desarrollo de la Inteligencia Artificial.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
