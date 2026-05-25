@@ -294,6 +294,12 @@
 + 23 [[~/alonso/estudio/apuntes/Resumenes/2026/05/23-La tecnología suele crear puestos de trabajo para jóvenes cualificados. _Hará lo mismo la IA_.org][La tecnología suele crear puestos de trabajo para jóvenes cualificados. ¿Hará lo mismo la IA?]].
 + 23 [[~/alonso/estudio/apuntes/Resumenes/2026/05/23-Cómo las grandes tecnológicas se salieron con la suya en la orden ejecutiva de Trump sobre IA.org][Cómo las grandes tecnológicas se salieron con la suya en la orden ejecutiva de Trump sobre IA]].
 + 23 [[~/alonso/estudio/apuntes/Resumenes/2026/05/23-Plusvalía tecnológica, alienación e IA.org][Plusvalía tecnológica, alienación e IA]].
++ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/05/24-_Cuáles son los protagonistas que impulsan la IA en España_.org][¿Cuáles son los protagonistas que impulsan la IA en España?]].
++ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/05/24-Ponen a ChatGPT, Gemini y Claude a hacer tu trabajo de oficina 24_7 y acaban queriendo fundar un sindicato.org][Ponen a ChatGPT, Gemini y Claude a hacer tu trabajo de oficina 24/7 y acaban queriendo fundar un sindicato]].
++ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/05/24-El robot humanoide barato que puedes entrenar para que haga lo que tú quieras.org][El robot humanoide barato que puedes entrenar para que haga lo que tú quieras]].
++ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/05/24-La encíclica del Papa que enfada a los 'tecnobros' de la inteligencia artificial.org][La encíclica del Papa que enfada a los 'tecnobros' de la inteligencia artificial]].
++ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/05/24-Fraudes con la IA, un desafío latente.org][Fraudes con la IA, un desafío latente]].
++ 24 [[~/alonso/estudio/apuntes/Resumenes/2026/05/24-Advancing mathematics research with AI-driven formal proof search.org][Advancing mathematics research with AI-driven formal proof search]].
 
 # Local Variables:
 # truncate-lines: t

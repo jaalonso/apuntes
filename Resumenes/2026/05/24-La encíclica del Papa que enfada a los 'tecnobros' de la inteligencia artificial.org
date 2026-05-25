@@ -1,0 +1,17 @@
+#+TITLE: La encíclica del Papa que enfada a los 'tecnobros' de la inteligencia artificial
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.elconfidencial.com/tecnologia/2026-05-24/enciclica-papa-leon-xiv-ia-inteligencia-artificial_4360063/][«La encíclica del Papa que enfada a los 'tecnobros' de la inteligencia artificial»]] analiza la encíclica /Magnifica Humanitas/, donde el papa León XIV aborda los retos éticos de la IA. El Pontífice sitúa la dignidad de la persona por encima del rendimiento algorítmico. El texto se inspira en la doctrina social clásica para responder a la nueva revolución industrial.
+
+La propuesta vaticana ha provocado el rechazo de los grandes inversores de Silicon Valley, conocidos como "tecnobros". Estos líderes empresariales defienden un desarrollo tecnológico sin restricciones gubernamentales ni religiosas. Sin embargo, el Papa cuenta con el apoyo de expertos del sector para exigir transparencia y límites en usos militares.
+
+La nueva doctrina genera una brecha política con el gobierno de Estados Unidos y sus planes de expansión tecnológica. El vicepresidente JD Vance reconoce la influencia del documento, aunque discrepa en la necesidad de regulación. La Iglesia busca así proteger el trabajo y la paz frente al transhumanismo digital.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
