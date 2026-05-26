@@ -300,6 +300,8 @@
 + 24 [[~/alonso/estudio/apuntes/Resumenes/2026/05/24-La encíclica del Papa que enfada a los 'tecnobros' de la inteligencia artificial.org][La encíclica del Papa que enfada a los 'tecnobros' de la inteligencia artificial]].
 + 24 [[~/alonso/estudio/apuntes/Resumenes/2026/05/24-Fraudes con la IA, un desafío latente.org][Fraudes con la IA, un desafío latente]].
 + 24 [[~/alonso/estudio/apuntes/Resumenes/2026/05/24-Advancing mathematics research with AI-driven formal proof search.org][Advancing mathematics research with AI-driven formal proof search]].
++ 25 [[~/alonso/estudio/apuntes/Resumenes/2026/05/25-Encíclica "Magnifica humanitas" (sobre la custodia de la persona humana en el tiempo de la inteligencia artificial).org][Encíclica "Magnifica humanitas" (sobre la custodia de la persona humana en el tiempo de la IA)]].
++ 25 [[~/alonso/estudio/apuntes/Resumenes/2026/05/25-Fragmentos de "Magnifica humanitas".org][Fragmentos de "Magnifica humanitas"]].
 
 # Local Variables:
 # truncate-lines: t

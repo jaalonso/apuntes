@@ -1,0 +1,22 @@
+#+TITLE: Magnifica humanitas
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+En la encíclica [[https://www.vatican.va/content/leo-xiv/es/encyclicals/documents/20260515-magnifica-humanitas.html][«Magnifica humanitas»]], el papa León XIV aplica la Doctrina Social de la Iglesia al desafío de la inteligencia artificial. El documento se apoya en el 135.º aniversario de la Rerum novarum y dialoga con toda la tradición del magisterio social del siglo XX para ofrecer un marco ético ante la transformación digital.
+
+En ella, se denuncia que la IA concentra poder en pocos actores privados transnacionales, erosiona la verdad pública, amenaza la dignidad del trabajo y sostiene cadenas de explotación invisibles —desde el trabajo precario de etiquetado de datos hasta la trata facilitada por plataformas—. León XIV rechaza confiar a algoritmos decisiones irreversibles y exige que los datos sean gestionados como bien común.
+
+Concluye con un llamamiento a construir la "civilización del amor" frente a la "cultura del poder": relanzar el diálogo diplomático, reformar el multilateralismo, controlar éticamente las armas autónomas y educar a las nuevas generaciones en el uso crítico de la tecnología. Cierra con una petición de perdón por la complicidad histórica de la Iglesia con la esclavitud.
+
+Saludos, José A.
+
+P.D. En [[https://write.as/rrbz3i91aozmy.md][este enlace]] se encuentra una selección de fragmentos de la encíclica.
+
+# Local Variables:
+# truncate-lines: nil
+# eval: (auto-fill-mode -1)
+# eval: (visual-line-mode 1)
+# eval: (org-indent-mode 1)
+# eval: (adaptive-wrap-prefix-mode 1)
+# End:
