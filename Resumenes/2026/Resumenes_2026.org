@@ -302,6 +302,8 @@
 + 24 [[~/alonso/estudio/apuntes/Resumenes/2026/05/24-Advancing mathematics research with AI-driven formal proof search.org][Advancing mathematics research with AI-driven formal proof search]].
 + 25 [[~/alonso/estudio/apuntes/Resumenes/2026/05/25-Encíclica "Magnifica humanitas" (sobre la custodia de la persona humana en el tiempo de la inteligencia artificial).org][Encíclica "Magnifica humanitas" (sobre la custodia de la persona humana en el tiempo de la IA)]].
 + 25 [[~/alonso/estudio/apuntes/Resumenes/2026/05/25-Fragmentos de "Magnifica humanitas".org][Fragmentos de "Magnifica humanitas"]].
++ 26 [[~/alonso/estudio/apuntes/Resumenes/2026/05/26-El espejismo de los detectores de inteligencia artificial: por qué no son útiles ni justos.org][El espejismo de los detectores de inteligencia artificial: por qué no son útiles ni justos]].
++ 26 [[~/alonso/estudio/apuntes/Resumenes/2026/05/26-El obligado replanteamiento del TFG ante la irrupción de la IA en la universidad.org][El obligado replanteamiento del TFG ante la irrupción de la IA en la universidad]].
 
 # Local Variables:
 # truncate-lines: t

@@ -1,0 +1,17 @@
+#+TITLE: El obligado replanteamiento del TFG ante la irrupción de la IA en la universidad
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://www.universidadsi.es/el-obligado-replanteamiento-del-tfg-ante-la-irrupcion-de-la-ia-en-la-universidad/][«El obligado replanteamiento del TFG ante la irrupción de la IA en la universidad»]] plantea la problemática del Trabajo de Fin de Grado (TFG) en el contexto actual, marcado por la irrupción de la IA y el consiguiente aumento del fraude académico. El TFG, obligatorio según el Real Decreto 822/2021, busca que el estudiante demuestre su dominio de competencias y habilidades.
+
+El problema reside en que el formato tradicional del TFG (trabajo extenso de investigación) se ha vuelto ineficaz y susceptible de plagio, especialmente con la ayuda de la IA. Esto pone en duda su valor formativo y exige una revisión urgente del modelo.
+
+La autora propone una reconfiguración del TFG basada en el refuerzo de la oralidad, la reducción del trabajo escrito, la transversalidad y la implementación de medidas para garantizar la integridad académica. Aboga por una reforma desde las propias universidades, reconociendo la labor de supervisión del profesorado y priorizando la evaluación de la capacidad argumentativa del estudiante.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:

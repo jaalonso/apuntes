@@ -1,0 +1,17 @@
+#+TITLE: El espejismo de los detectores de inteligencia artificial: por qué no son útiles ni justos
+#+OPTIONS: toc:nil num:nil
+
+Buenos días.
+
+El artículo [[https://theconversation.com/el-espejismo-de-los-detectores-de-inteligencia-artificial-por-que-no-son-utiles-ni-justos-281246?utm_medium=email&utm_campaign=La%20Conversacin%20Docente%20-%2025%20%2005%2026&utm_content=La%20Conversacin%20Docente%20-%2025%20%2005%2026+CID_de187c87fe4ca11d5f01e898db2817ce&utm_source=campaign_monitor_es&utm_term=El%20espejismo%20de%20los%20detectores%20de%20inteligencia%20artificial%20por%20qu%20no%20son%20tiles%20ni%20justos][«El espejismo de los detectores de inteligencia artificial: por qué no son útiles ni justos»]] plantea la creciente preocupación por el uso de la inteligencia artificial en el ámbito educativo y la respuesta inicial de implementar detectores de textos generados por IA. Sin embargo, el autor argumenta que estos detectores son inherentemente poco fiables debido a la dificultad de distinguir entre texto humano y artificial, especialmente a medida que la IA avanza.
+
+El principal problema reside en las consecuencias de los falsos positivos y negativos que generan estos detectores, pudiendo acusar injustamente a estudiantes o recompensar el fraude. Además, se señala que la verdadera cuestión no es detectar el uso de IA, sino el impacto en el proceso de aprendizaje y el esfuerzo cognitivo que implica.
+
+El autor aboga por un cambio de paradigma en la evaluación, pasando de la verificación del producto final a la valoración del proceso de aprendizaje. Esto implica diseñar tareas que requieran interacción, contexto y toma de decisiones, haciendo inútil el uso de la IA sin una comprensión profunda del tema.
+
+Saludos, José A.
+
+# Local Variables:
+# truncate-lines: t
+# eval: (visual-line-mode 1)
+# End:
