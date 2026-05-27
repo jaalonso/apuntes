@@ -2,4 +2,3 @@
 
 + [[./Enlaces/Enlaces.org][Enlaces]]
 + [[./Lecturas/Lecturas.org][Lecturas]].
-+ [[./Resumenes/Resumenes.org][Resúmenes]].
